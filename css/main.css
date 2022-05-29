@@ -1218,7 +1218,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #8675ff;
+  background: #08d2b0;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2711,11 +2711,20 @@ mjx-container + br {
   }
 }
 body {
-  background-image: url("/images/background.jpg");
+  background-image: url("https://cdn.luogu.com.cn/upload/image_hosting/avf1plol.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
-.main-inner {
+body .content-wrap {
+  opacity: 0.9;
+}
+body .sidebar {
+  opacity: 0.9;
+}
+body .header-inner {
+  background: rgba(255,255,255,0.9);
+}
+body .popup {
   opacity: 0.9;
 }
