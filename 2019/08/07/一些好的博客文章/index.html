@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 6.2.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"dimlyl.github.io","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":null},"back2top":{"enable":true,"sidebar":true,"scrollpercent":true},"bookmark":{"enable":true,"color":"#222","save":"manual"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="前排挂上 AT 神佬的模板收录（大嘘）  敲代码的芝士：图论：学图论，你真的了解最短路吗？ 牛顿迭代FA♂：浅谈牛顿迭代法 博弈论：简单食用的博弈论 博弈论第二趴 膜你退火：浅谈玄学算法——模拟退火 STL：STL 奇技淫巧食用指南 蒟阵乘FA♂：从零开始的矩阵乘法 线段树：Senior Data Structure · 浅谈线段树（Segment Tree） 卡常-内存优化：C++卡常数之内存">
+<meta property="og:type" content="article">
+<meta property="og:title" content="一些好的博客文章">
+<meta property="og:url" content="http://dimlyl.github.io/2019/08/07/%E4%B8%80%E4%BA%9B%E5%A5%BD%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/index.html">
+<meta property="og:site_name" content="Dimly&#39;s Blog">
+<meta property="og:description" content="前排挂上 AT 神佬的模板收录（大嘘）  敲代码的芝士：图论：学图论，你真的了解最短路吗？ 牛顿迭代FA♂：浅谈牛顿迭代法 博弈论：简单食用的博弈论 博弈论第二趴 膜你退火：浅谈玄学算法——模拟退火 STL：STL 奇技淫巧食用指南 蒟阵乘FA♂：从零开始的矩阵乘法 线段树：Senior Data Structure · 浅谈线段树（Segment Tree） 卡常-内存优化：C++卡常数之内存">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2019-08-07T02:48:52.000Z">
+<meta property="article:modified_time" content="2022-06-03T10:45:22.533Z">
+<meta property="article:author" content="Dimly">
+<meta property="article:tag" content="神秘">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://dimlyl.github.io/2019/08/07/%E4%B8%80%E4%BA%9B%E5%A5%BD%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'en'
+  };
+</script>
+
+  <title>一些好的博客文章 | Dimly's Blog</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <link rel="stylesheet" href="/dist/APlayer.min.css">
+  <div id="aplayer"></div>
+  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
+  <script type="text/javascript" src="/dist/music.js"></script>
+  
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">Dimly's Blog</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <a role="button" class="book-mark-link book-mark-link-fixed"></a>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://dimlyl.github.io/2019/08/07/%E4%B8%80%E4%BA%9B%E5%A5%BD%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="https://cdn.luogu.com.cn/upload/usericon/123026.png">
+      <meta itemprop="name" content="Dimly">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Dimly's Blog">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          一些好的博客文章
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2019-08-07 10:48:52" itemprop="dateCreated datePublished" datetime="2019-08-07T10:48:52+08:00">2019-08-07</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2022-06-03 18:45:22" itemprop="dateModified" datetime="2022-06-03T18:45:22+08:00">2022-06-03</time>
+              </span>
+
+          
+            <span class="post-meta-item" title="Views" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">Views: </span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <span id="more"></span>
+<p>前排挂上 AT 神佬的<a href="/blog/124683/mu-ban-shou-lu#">模板收录</a>（大嘘）</p>
+<hr>
+<h2 id="敲代码的芝士："><a href="#敲代码的芝士：" class="headerlink" title="敲代码的芝士："></a>敲代码的芝士：</h2><p>图论：<a target="_blank" rel="noopener" href="https://www.luogu.com.cn/blog/FrozaFerrari/xue-tu-lun-ni-zhen-di-liao-xie-zui-duan-lu-ma-post">学图论，你真的了解最短路吗？</a></p>
+<p>牛顿迭代FA♂：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/zhang-xu-jia/niu-dun-die-dai-fa-yang-xie">浅谈牛顿迭代法</a></p>
+<p>博弈论：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/wym483739/bo-yi-lun">简单食用的博弈论</a> <a target="_blank" rel="noopener" href="https://www.luogu.org/blog/wym483739/bo-yi-lun-di-er-pa">博弈论第二趴</a></p>
+<p>膜你退火：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/m-sea/qian-tan-SA">浅谈玄学算法——模拟退火</a></p>
+<p>STL：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/stlgirlfriend/STL-Skills">STL 奇技淫巧食用指南</a></p>
+<p>蒟阵乘FA♂：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/shehuizhuyihao/post-zhen-sheng-fa">从零开始的矩阵乘法</a></p>
+<p>线段树：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/pks-LOVING/senior-data-structure-qian-tan-xian-duan-shu-segment-tree">Senior Data Structure · 浅谈线段树（Segment Tree）</a></p>
+<p>卡常-内存优化：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/Howershine950644/c-ka-chang-shuo-zhi-nei-cun-you-hua">C++卡常数之内存优化</a></p>
+<p>膜板：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/z3475/c-template-mu-ban-chu-tan">C++ template(模板) 初探</a></p>
+<p>LCT：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/Qiu/qian-tan-link-cut-tree">浅谈Link-Cut Tree</a></p>
+<p>bitset：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/fusu2333/fu-su-di-bitset-qian-tan">扶苏的bitset浅谈</a></p>
+<p>插♂ 头DP：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/efforts-will-pay-off/du-liu-dong-gui-cha-tou-dp">毒瘤动规——-插头dp
+</a></p>
+<p>IO优化：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/encore/io-you-hua-nei-suo-shi">浅谈C++ IO优化——读优输优方法集锦</a> <a target="_blank" rel="noopener" href="https://www.luogu.org/blog/NullCatsBlog/about-kuai-du-xie-post">About 快读（写）</a></p>
+<p>Dijkstra：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/ztyluogucpp/qian-tan-dijkstra">浅谈Dijkstra</a></p>
+<p>编程技巧：<a target="_blank" rel="noopener" href="https://studyingfather.blog.luogu.org/some-coding-tips-for-oiers">NOIP选手必知的编程技巧</a></p>
+<p>数位DP：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/virus2017/shuweidp">数字组成的奥妙——数位dp</a></p>
+<p>动归&amp;记忆化：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/interestingLSY/memdfs-and-dp">聊聊动态规划与记忆化搜索</a></p>
+<p>二进制与位运算：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/chengni5673/er-jin-zhi-yu-wei-yun-suan">二进制与位运算</a></p>
+<p>骗分技巧：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/DJCreeper/special-program">我有独特的骗分技巧</a></p>
+<p>LCA：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/TheDawn/qian-xi-lca">浅析最近公共祖先（LCA）</a></p>
+<p>初赛那些事儿：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/tongboyang/NOIP2018-P1">谈谈关于初赛的那些事</a></p>
+<p>平板电视：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/Chanis/gnu-pbds">比STL还STL？——平板电视</a></p>
+<p>单调队列：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/Sweetlemon/dan-diao-dui-lie">朝花中学OI队的奋斗历程——浅谈单调队列</a></p>
+<p>二叉堆：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/henry-y/qian-xi-ji-chu-shuo-ju-jie-gou-er-cha-dui">浅析基础数据结构-二叉堆</a></p>
+<p>网络流：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/ONE-PIECE/wang-lao-liu-di-zong-jie">用最通俗的语言让你学会网络流</a></p>
+<p>拓扑排序：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/hyyyprtf06/kuai-su-ru-shou-ta-pu-pai-xu">快速入手拓扑排序</a></p>
+<p>勾♂股♂定♂理：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/lhc/TheStoryOfPythagoreanTriples">走进数论——神奇的勾股数组</a> <a target="_blank" rel="noopener" href="https://www.luogu.org/blog/wym483739/gou-gu-ding-li-zheng-ming-fang-fa-yu-shuo-xue-sai-xiang-gui-na">勾股定理证明方法与数学思想归纳</a></p>
+<p>最短路：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/linyumufeng/bjshortestpath">[笔记]最短路径算法总结</a></p>
+<p>DP入门：<a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&amp;mid=2653190796&amp;idx=1&amp;sn=2bf42e5783f3efd03bfb0ecd3cbbc380&amp;chksm=8c990856bbee8140055c3429f59c8f46dc05be20b859f00fe8168efe1e6a954fdc5cfc7246b0&amp;scene=21#wechat_redirect">漫画：什么是动态规划？</a></p>
+<p>可变参数：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/wenge/variable-arguments">可变参数入门</a></p>
+<p>树状数组：<a target="_blank" rel="noopener" href="https://www.cnblogs.com/xenny/p/9739600.html">树状数组详解</a></p>
+<p>扩展欧几里得：<a target="_blank" rel="noopener" href="https://www.zybuluo.com/samzhang/note/541890">Exgcd</a></p>
+<p>莫队：<a target="_blank" rel="noopener" href="https://www.luogu.com.cn/blog/DPair2005/talk-talk-bruh-forces-in-oi">浅谈一类“暴力”在OI中的应用——莫队</a></p>
+<p>树链剖分：<a target="_blank" rel="noopener" href="https://www.cnblogs.com/chinhhh/p/7965433.html">树链剖分详解</a> <a target="_blank" rel="noopener" href="https://www.cnblogs.com/FarkasW/p/13927581.html">关于树链剖分 “换根操作” 笔记</a></p>
+<p>可变参数：<a target="_blank" rel="noopener" href="https://www.luogu.com.cn/blog/wenge/variable-arguments">可变参数入门</a></p>
+<hr>
+<h2 id="奇怪的网页-计算机芝士？"><a href="#奇怪的网页-计算机芝士？" class="headerlink" title="奇怪的网页/计算机芝士？"></a>奇怪的网页/计算机芝士？</h2><p>RSS：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/woshiluo/how-to-use-rss">RSS 从入门到卸载客户端</a></p>
+<p>浏览器：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/zhundiandexingchen/liu-lan-qi-di-zheng-que-da-kai-fang-shi">浏览器的正确打开方式</a></p>
+<p>Node.js：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/Himself65/post-nodejs-paintboard-post">Node.js下完成洛谷冬日绘版</a></p>
+<p>Hexo博客：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/Venus/build-hexo-github-blog">从零搭建 Hexo + Github 博客</a> <a target="_blank" rel="noopener" href="https://www.luogu.org/blog/0Umaru0/hexo-bo-ke-da-jian-shuo-ming-shu-zhi-bei-shu-post">Hexo博客搭建说明书（指北书）</a> <a target="_blank" rel="noopener" href="https://www.luogu.org/blog/Afar5277/post-zzq-hexoblog"># zzq浅谈用Hexo+GitHub搭建自己的blog</a> <a target="_blank" rel="noopener" href="https://www.luogu.org/blog/AC-WA-RE-TLE-MLE/rang-ni-di-hexo-bo-ke-zhi-chi-yuan-cheng-bian-ji">让你的Hexo博客支持远程编辑</a></p>
+<hr>
+<h2 id="其他东西："><a href="#其他东西：" class="headerlink" title="其他东西："></a>其他东西：</h2><p>Brainfuck：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/tiger2005/brainfuck-xiang-jie">Brainfuck详解</a></p>
+<p>Befunge：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/tiger2005/befunge-xiang-jie">Befunge详解1</a> <a target="_blank" rel="noopener" href="https://www.luogu.org/blog/Hunting008/befunge">Befunge详解2</a></p>
+<p>Whitespace：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/tiger2005/whitespace-xiang-jie">Whitespace详解</a></p>
+<p>Asciidots：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/tiger2005/asciidots-xiang-jie">Asciidots详解</a></p>
+<p>Arnoldc：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/tiger2005/arnoldc-xiang-jie">Arnoldc详解</a></p>
+<p>SPJ：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/tiger2005/spj-yang-xie">SPJ详解</a></p>
+<p>haskell：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/i-love-illya/haskell-ru-men-yu-fa-shou-ce">haskell入门语法手册</a></p>
+<p>随机化：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/firstfan/randomization-aesthetics">随机化美学</a></p>
+<p>题目收集：<a target="_blank" rel="noopener" href="https://studyingfather.blog.luogu.org/luogu-problem-list">一个动态更新的洛谷综合题单</a></p>
+<p>移动通信：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/wym483739/yi-dong-tong-xin-xiao-shi">移动通信小史</a></p>
+<p>德语：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/NullCatsBlog/deutsch">Deutsch</a></p>
+<p>交互库：<a target="_blank" rel="noopener" href="https://www.luogu.com.cn/blog/nederland/how-to-hack-interactive-lib-1">谷甚论Hack交互库（上篇）——搜索关键变量</a> <a target="_blank" rel="noopener" href="https://www.luogu.com.cn/blog/nederland/how-to-hack-interactive-lib-2">谷甚论Hack交互库（下篇）——杂谈</a></p>
+<p>游戏：<a target="_blank" rel="noopener" href="https://www.luogu.org/blog/Lookcatbox/room-you-hu-geng-xin">Room 游戏更新</a> <a target="_blank" rel="noopener" href="https://www.luogu.com.cn/paste/rsupsp43">Reigns</a></p>
+<p>LaTeX：<a target="_blank" rel="noopener" href="https://www.luogu.com.cn/blog/IowaBattleship/latex-gong-shi-tai-quan">LaTeX 数学公式大全</a> <a target="_blank" rel="noopener" href="https://www.luogu.com.cn/blog/IowaBattleship/latex-ru-men">LaTeX入门</a></p>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E7%A5%9E%E7%A7%98/" rel="tag"># 神秘</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item"></div>
+      <div class="post-nav-item">
+    <a href="/2019/11/15/CSP-J2019%20AFO%E7%A5%AD/" rel="next" title="CSP-J2019 AFO祭">
+      CSP-J2019 AFO祭 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%95%B2%E4%BB%A3%E7%A0%81%E7%9A%84%E8%8A%9D%E5%A3%AB%EF%BC%9A"><span class="nav-number">1.</span> <span class="nav-text">敲代码的芝士：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%A5%87%E6%80%AA%E7%9A%84%E7%BD%91%E9%A1%B5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8A%9D%E5%A3%AB%EF%BC%9F"><span class="nav-number">2.</span> <span class="nav-text">奇怪的网页&#x2F;计算机芝士？</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%85%B6%E4%BB%96%E4%B8%9C%E8%A5%BF%EF%BC%9A"><span class="nav-number">3.</span> <span class="nav-text">其他东西：</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Dimly"
+      src="https://cdn.luogu.com.cn/upload/usericon/123026.png">
+  <p class="site-author-name" itemprop="name">Dimly</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">22</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+        <span class="site-state-item-count">5</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/DimlyL" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;DimlyL" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.luogu.com.cn/user/123026" title="洛谷 → https:&#x2F;&#x2F;www.luogu.com.cn&#x2F;user&#x2F;123026" rel="noopener" target="_blank"><i class="fa fa-code fa-fw"></i>洛谷</a>
+      </span>
+  </div>
+
+
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title"><i class="fa fa-globe fa-fw"></i>
+      友情链接
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://www.cnblogs.com/chenguoyi/" title="https:&#x2F;&#x2F;www.cnblogs.com&#x2F;chenguoyi&#x2F;" rel="noopener" target="_blank">chaotic 的博客</a>
+        </li>
+    </ul>
+  </div>
+
+      </div>
+        <div class="back-to-top motion-element">
+          <i class="fa fa-arrow-up"></i>
+          <span>0%</span>
+        </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2022</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Dimly</span>
+</div>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a>
+  </div>
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="Total Visitors">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="Total Views">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+<script src="/js/bookmark.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+      
+
+<script>
+  if (typeof MathJax === 'undefined') {
+    window.MathJax = {
+      loader: {
+          load: ['[tex]/mhchem'],
+        source: {
+          '[tex]/amsCd': '[tex]/amscd',
+          '[tex]/AMScd': '[tex]/amscd'
+        }
+      },
+      tex: {
+        inlineMath: {'[+]': [['$', '$']]},
+          packages: {'[+]': ['mhchem']},
+        tags: 'ams'
+      },
+      options: {
+        renderActions: {
+          findScript: [10, doc => {
+            document.querySelectorAll('script[type^="math/tex"]').forEach(node => {
+              const display = !!node.type.match(/; *mode=display/);
+              const math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
+              const text = document.createTextNode('');
+              node.parentNode.replaceChild(text, node);
+              math.start = {node: text, delim: '', n: 0};
+              math.end = {node: text, delim: '', n: 0};
+              doc.math.push(math);
+            });
+          }, '', false],
+          insertedScript: [200, () => {
+            document.querySelectorAll('mjx-container').forEach(node => {
+              let target = node.parentNode;
+              if (target.nodeName.toLowerCase() === 'li') {
+                target.parentNode.classList.add('has-jax');
+              }
+            });
+          }, '', false]
+        }
+      }
+    };
+    (function () {
+      var script = document.createElement('script');
+      script.src = '//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+      script.defer = true;
+      document.head.appendChild(script);
+    })();
+  } else {
+    MathJax.startup.document.state(0);
+    MathJax.texReset();
+    MathJax.typeset();
+  }
+</script>
+
+    
+
+  
+
+</body>
+</html>
