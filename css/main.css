@@ -1218,7 +1218,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff9136;
+  background: #0420bd;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2711,7 +2711,7 @@ mjx-container + br {
   }
 }
 body {
-  background-image: url("https://cdn.luogu.com.cn/upload/image_hosting/37z4mmrr.png");
+  background-image: url("https://cdn.luogu.com.cn/upload/image_hosting/9qbdlc8h.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
