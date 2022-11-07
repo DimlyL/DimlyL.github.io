@@ -1218,7 +1218,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e363be;
+  background: #4e5441;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2711,20 +2711,20 @@ mjx-container + br {
   }
 }
 body {
-  background-image: url("https://cdn.luogu.com.cn/upload/image_hosting/1ztxv161.png");
+  background-image: url("https://cdn.luogu.com.cn/upload/image_hosting/9jbpu9ky.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 body .content-wrap {
-  opacity: 0.8;
+  opacity: 0.92;
 }
 body .sidebar {
-  opacity: 0.8;
+  opacity: 0.92;
 }
 body .header-inner {
-  background: rgba(255,255,255,0.8);
+  background: rgba(255,255,255,0.92);
 }
 body .popup {
-  opacity: 0.8;
+  opacity: 0.92;
 }
