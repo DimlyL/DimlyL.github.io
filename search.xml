@@ -23,6 +23,17 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.11.7</title>
+    <url>/2022.11.7/</url>
+    <content><![CDATA[<p>今天写了三道黑题，分别是 <a href="https://www.luogu.com.cn/problem/P5398">    P5398</a>、<a href="https://www.luogu.com.cn/problem/P4094">P4094</a>、<a href="https://www.luogu.com.cn/problem/P4770">P4770</a>。<br>一道莫队二次离线、两道字符串，我觉得今天已经很足够了。<br>但是又经常出现有思路但是没法写出来的情况，怎么办啊。     </p>
+<p>好像隔壁省已经 CSP 出分了，不知道数据情况怎么样。好像 ZJ 明天 9:00 出分。<br>另外今天教练过来问，于是我们一大群人都报了 WC。还是希望能去线下观摩的。<br>尤其要看 ljc 杀穿全场（）</p>
+<p>打算找个时间看 BLACK SUN。好像十分深重的样子。<br>不过 BLACK 的 OP 是真的好听。<br>那么说起来等我旧平成了解的差不多后是不是应该去看看昭和骑士啊。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>主页</title>
     <url>/%E4%B8%BB%E9%A1%B5/</url>
     <content><![CDATA[<p>这个大概是闲话博客罢。还有日记可以看。</p>
@@ -30,6 +41,7 @@
 <li><a href="/diary">日记摘录</a></li>
 <li><a href="/2022.11.5">2022.11.5</a></li>
 <li><a href="/2022.11.6">2022.11.6</a></li>
+<li><a href="/2022.11.7">2022.11.7</a></li>
 </ul>
 ]]></content>
       <categories>
