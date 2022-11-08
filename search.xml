@@ -38,6 +38,27 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.11.8</title>
+    <url>/2022.11.8/</url>
+    <content><![CDATA[<p>实际上昨天晚上就通过神秘方式拿到了 CSP 分数。     </p>
+<p><img src="https://z4a.net/images/2022/11/07/43f1ba06da9b8fcf37c60cc050d9cb2e.png" alt=""></p>
+<p>和估计的一分不差，这是好的。<br>好像看小图灵的排名是 ZJ rk57，耶。</p>
+<span id="more"></span>
+<p>另外测了一下 CCF 给的 CSP 数据，发现了以下几点：</p>
+<ul>
+<li>T1 有 10 个 点图不联通。</li>
+<li>T1 的点权都比 $10^8$ 小。</li>
+<li>T2 只有 3 个点 $n\not=m$。</li>
+<li>T3 全输出 NO 能拿到测试点 13~16 的部分分，结合一下 60pts 暴力就有 80pts 了。</li>
+</ul>
+<p>CCF 迫真脚造数据。</p>
+<p>今天拼死拼活调出来一道黑题。后缀科技是好的，就是常常写到 4k、5k 然后还不好调。<br>不想写代码力，我要火力全开进入口胡模式。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>主页</title>
     <url>/%E4%B8%BB%E9%A1%B5/</url>
     <content><![CDATA[<p>这个大概是闲话博客罢。还有日记可以看。<br><a href="https://www.luogu.com.cn/blog/Dimly/">洛谷博客点这里，那里才有学习笔记、游记之类的。</a></p>
@@ -46,6 +67,7 @@
 <li><a href="/2022.11.5">2022.11.5</a></li>
 <li><a href="/2022.11.6">2022.11.6</a></li>
 <li><a href="/2022.11.7">2022.11.7</a></li>
+<li><a href="/2022.11.8">2022.11.8</a></li>
 </ul>
 ]]></content>
       <categories>
