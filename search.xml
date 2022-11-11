@@ -13,6 +13,21 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.11.11</title>
+    <url>/2022.11.11/</url>
+    <content><![CDATA[<p>今天被 <a href="https://www.luogu.com.cn/problem/P7982">P7982 [JRKSJ R3] 琴琴的树</a> 折磨了一整天。<br>因此从早上十点头疼到晚上六点，不过最后做出来倒是感觉好多了。</p>
+<span id="more"></span>
+<p>星光发了新歌，说这张专共有五首但由于审核原因现在只有两首。<br>没有的三首里《Intrude Into Intricacies!》已经听过很多遍了。<br>新发的曲里《…vi’hvu’qruwis?》非常好听。<br>是新的术曲诶（）一如既往的是星光那种梦幻的风格，这种曲子听多少首都不会腻。<br>尤其加上星光的自造语 fyuwajr 和他调的 Miku 的模糊的声音，我爽死了（大喜）。</p>
+<p><img src="http://p1.music.126.net/W2ngdKz0lGki37TvuGazhw==/109951168045109109.jpg" alt=""></p>
+<script type="math/tex; mode=display">\texttt{vi'kaywet'ko'jrwes'dop'sowwe'miyak'tik'mowi'hvok}</script><script type="math/tex; mode=display">\texttt{你可曾见过天空中那颗黯淡的星星}</script><script type="math/tex; mode=display">\texttt{ja'ko'lo'sayu'xi'kwe'tayof'hvwenv'hvok}</script><script type="math/tex; mode=display">\texttt{他曾在我的梦境尽头闪耀}</script><p>这里挂上链接。都去听！<a href="https://music.163.com/#/song?id=1996926039">https://music.163.com/#/song?id=1996926039</a><br>但是为什么到现在了还不发《Wandering Night》啊，想听诶。</p>
+<hr>
+<p><del>今天再给 Hexo 增加了一些配置，比如超链接颜色。</del>让某些地方变得阴间了。删了。<br>是有人告诉我怎样才能解决板块透明的同时图片也透明了的问题吗。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2022.11.5</title>
     <url>/2022.11.5/</url>
     <content><![CDATA[<p>来测试一下第一篇闲话。<br>今天在学校的机子上把 Hexo 博客搭起来了，可喜可贺。        </p>
@@ -44,15 +59,6 @@
 <span id="more"></span>
 <p>好像隔壁省已经 CSP 出分了，不知道数据情况怎么样。好像 ZJ 明天 9:00 出分。<br>另外今天教练过来问，于是我们一大群人都报了 WC。还是希望能去线下观摩的。<br>尤其要看 ljc 杀穿全场（）</p>
 <p>打算找个时间看 BLACK SUN。好像十分深重的样子。<br>不过 BLACK 的 OP 是真的好听。<br>那么说起来等我旧平成了解的差不多后是不是应该去看看昭和骑士啊。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.11.9</title>
-    <url>/2022.11.9/</url>
-    <content><![CDATA[<p>没有鲜花可以写。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -92,6 +98,15 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.11.9</title>
+    <url>/2022.11.9/</url>
+    <content><![CDATA[<p>没有鲜花可以写。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>主页</title>
     <url>/%E4%B8%BB%E9%A1%B5/</url>
     <content><![CDATA[<p>这个大概是闲话博客罢。还有日记可以看。<br><a href="https://www.luogu.com.cn/blog/Dimly/">洛谷博客点这里，那里才有学习笔记、游记之类的。</a></p>
@@ -103,6 +118,7 @@
 <li><a href="/2022.11.8">2022.11.8</a></li>
 <li><a href="/2022.11.9">2022.11.9</a></li>
 <li><a href="/2022.11.10">2022.11.10</a></li>
+<li><a href="/2022.11.11">2022.11.11</a></li>
 </ul>
 ]]></content>
       <categories>
