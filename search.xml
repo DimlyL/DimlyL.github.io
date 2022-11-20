@@ -28,19 +28,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.14</title>
-    <url>/2022.11.14/</url>
-    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
-<span id="more"></span>
-<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
-<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.11.15</title>
     <url>/2022.11.15/</url>
     <content><![CDATA[<p>好像说以后机房每天晚上都关电脑了。<br>那岂不是每天早上都要花半小时装一大堆安装包，尤其是这个 Hexo 博客老是搭不起来。</p>
@@ -51,6 +38,19 @@
 <p>话说后天是不是就发榜了来着。不过 CCF 真的会那么准时吗。<br>这个发榜时间是不是太晚了点。</p>
 <p>今天又没有做多少题，就算了吧，上午心态搞得够崩了。<br>不过其实下午发现都不是很难的题，赛后补上了，这倒是好的。</p>
 ]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.11.14</title>
+    <url>/2022.11.14/</url>
+    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
+<span id="more"></span>
+<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
+<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>神秘</category>
       </categories>
@@ -98,7 +98,9 @@
     <url>/2022.11.20/</url>
     <content><![CDATA[<p>好想待家里啊草，一周只有一个晚上不在学校是真的无趣。<br>而且最近又多了一堆烦心事，应该怎么办啊。</p>
 <span id="more"></span>
-<p>把 Powerless233 推荐让我看的孤独摇滚看了（前六集），确实如他说的很抽象。<br>但理论上应该是治愈系百合日常番，这肯定得看，我就好这口。<br>已经彻底摆烂不想要接刀子了，养成了新番只看日常番的好习惯。（？）<br>其实本来看的番也没多少来着。</p>
+<p>把 Powerless233 推荐让我看的孤独摇滚看了（前七集），确实如他说的很抽象。<br>但理论上应该是治愈系百合日常番，这肯定得看，我就好这口。<br>已经彻底摆烂不想要接刀子了，养成了新番只看日常番的好习惯。（？）<br>其实本来看的番也没多少来着。</p>
+<p>昨天把大箱东西搬到了新家。草原来我还留存着那么多小学时候的历史文献<del>黑历史</del>吗。<br>此时回望过去，才发现我早已无法分清内心中的自我欺骗与真实。</p>
+<p>然后推星空列车与白的旅行。<br>以前就听说过这个 gal，然后被 Powerless233 安利了于是推。<br>还在前半段剧情，治愈的。接着被评价为在不适当的时机暂停了游戏。<br>目前剧情感觉良好。看后面有多刀了。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -192,6 +194,7 @@
 <li><a href="/2022.11.16">2022.11.16</a></li>
 <li><a href="/2022.11.17">2022.11.17</a></li>
 <li><a href="/2022.11.19">2022.11.19</a></li>
+<li><a href="/2022.11.20">2022.11.20</a></li>
 </ul>
 ]]></content>
       <categories>
