@@ -13,19 +13,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.14</title>
-    <url>/2022.11.14/</url>
-    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
-<span id="more"></span>
-<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
-<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.11.11</title>
     <url>/2022.11.11/</url>
     <content><![CDATA[<p>今天被 <a href="https://www.luogu.com.cn/problem/P7982">P7982 [JRKSJ R3] 琴琴的树</a> 折磨了一整天。<br>因此从早上十点头疼到晚上六点，不过最后做出来倒是感觉好多了。</p>
@@ -34,8 +21,21 @@
 <p><img src="http://p1.music.126.net/W2ngdKz0lGki37TvuGazhw==/109951168045109109.jpg" alt=""></p>
 <script type="math/tex; mode=display">\texttt{vi'kaywet'ko'jrwes'dop'sowwe'miyak'tik'mowi'hvok}</script><script type="math/tex; mode=display">\texttt{你可曾见过天空中那颗黯淡的星星}</script><script type="math/tex; mode=display">\texttt{ja'ko'lo'sayu'xi'kwe'tayof'hvwenv'hvok}</script><script type="math/tex; mode=display">\texttt{他曾在我的梦境尽头闪耀}</script><p>这里挂上链接。都去听！<a href="https://music.163.com/#/song?id=1996926039">https://music.163.com/#/song?id=1996926039</a><br>但是为什么到现在了还不发《Wandering Night》啊，想听诶。</p>
 <hr>
-<p><del>今天再给 Hexo 增加了一些配置，比如超链接颜色。</del>让某些地方变得阴间了。删了。<br>但是有人告诉我怎样才能解决板块透明的同时图片也透明了的问题吗。</p>
+<p><del>今天再给 Hexo 增加了一些配置，比如超链接颜色。</del>让某些地方变得阴间了。删了。<br>但是有人告诉我怎样才能解决板块透明的同时图片也透明了的问题吗。<br>（2022.11.22：我把这个问题解决了哈哈）</p>
 ]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.11.14</title>
+    <url>/2022.11.14/</url>
+    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
+<span id="more"></span>
+<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
+<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>神秘</category>
       </categories>
@@ -109,22 +109,22 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.22</title>
-    <url>/2022.11.22/</url>
-    <content><![CDATA[<span id="more"></span>
-<p><img src="https://z4a.net/images/2022/11/22/wallhaven-qz6l8q.jpg" alt=""></p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.11.21</title>
     <url>/2022.11.21/</url>
     <content><![CDATA[<p>把星空列车推完了。甚是感动，但是没觉得很刀，可能是 Powerless233 提前说了一堆东西的原因。<br>可能说是大团圆结局的话刀的成分就会减少一点吧。姑且认为暗杀教室比这个刀，毕竟最后杀老师回不来了（？）</p>
 <span id="more"></span>
 <p>撒，来细数你玩过的 galgame 吧。不过应该没几部。<br>按顺序来应该是：高捷少女IS、少女*领域、糖调、ATRI、青空下的加缪、美少女万华镜（不知道应不应该算）、星空列车与白的旅行。<br>诚然前两部是给我影响最深的，尤其是从五年前就第一次接触高捷少女了，而且也只有这两个 gal 让我写了额外篇日记（一天写两篇）。<br>后面的四部，糖调和少女*领域是很像的东西，如果说我是先玩的糖调那么占有额外篇日记的就不是 Otome*Domain 了。不过糖调毕竟是我沿着 Otome*Domain 的 OST 找到的游戏，这是命了，而且我相比萝莉我更喜欢那种高中女生画风。<br>接着是 ATRI，Powerless233 推的游戏，既然如此就把它和星空列车与白的旅行放在一起说吧。这两部都是同样让我感觉不算很刀但是心里既难受又感动的作品，况且最后也都是团圆结局，nice 的。夏生和亚托莉还有六十年时间共度余生，真白心中的银河号还能永远地向前开着。<br>说到青空下的加缪，整体感觉内容是十分哲学的，令我肃然起敬，所以关于游戏内容的理解其实也很难说上什么。<del>唯一不满的地方是完全不知道选哪个好的选择支，一旦选错就 Bad End 了。</del><br>美少女万华镜只玩了前两部，说是拔作但是剧情确实不错，雾枝最后的献血真的颇为感动，雫也真的是完美的女孩。<br>话说我这个高一年纪阅历如此正常吗。是玩得少还是玩得多啊。</p>
 <p><img src="https://z4a.net/images/2022/11/21/080_large_evcg05b.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.11.22</title>
+    <url>/2022.11.22/</url>
+    <content><![CDATA[<span id="more"></span>
+<p><img src="https://z4a.net/images/2022/11/22/wallhaven-qz6l8q.jpg" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
