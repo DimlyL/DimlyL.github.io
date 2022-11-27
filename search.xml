@@ -13,6 +13,19 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.11.14</title>
+    <url>/2022.11.14/</url>
+    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
+<span id="more"></span>
+<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
+<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2022.11.11</title>
     <url>/2022.11.11/</url>
     <content><![CDATA[<p>今天被 <a href="https://www.luogu.com.cn/problem/P7982">P7982 [JRKSJ R3] 琴琴的树</a> 折磨了一整天。<br>因此从早上十点头疼到晚上六点，不过最后做出来倒是感觉好多了。</p>
@@ -41,14 +54,13 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.14</title>
-    <url>/2022.11.14/</url>
-    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
+    <title>2022.11.16</title>
+    <url>/2022.11.16/</url>
+    <content><![CDATA[<p>今天早上我真的装了半个小时的安装包。草。<br>尤其是这个 npm 怎么老是挂掉连不上，开了镜像才能下东西。</p>
 <span id="more"></span>
-<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
-<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
+<p>常常抓右手食指上的包的最终结果是它破了。血流成河。<br>我发现这里出血量极大，十分钟停不下的那种，而且就算凝结了稍微碰一下又破了。<br>今天共计破了三次。释放的快感（雾）。<br>然后 2 号机房怎么人突然变那么多了（悲）。       </p>
+<p>另外一件事情是我发现我最近开始变得魔怔（大喜）。“你说得对”的频率高达 114514%！<br>真的是万能回复呢（主要是很多时候我真的不知道回答别人什么）。<br>再有一件事情是我发现我最近开始比较喜欢打扫卫生（？）。<br>为什么会这样啊，我也不知道，或许是寝室里根本没人值日的原因。<br>那么之前代替 zhaoyp 成为寝室长的政变是非常正确的，把寝室平均分拉高了 0.2。</p>
+]]></content>
       <categories>
         <category>神秘</category>
       </categories>
@@ -67,37 +79,11 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.16</title>
-    <url>/2022.11.16/</url>
-    <content><![CDATA[<p>今天早上我真的装了半个小时的安装包。草。<br>尤其是这个 npm 怎么老是挂掉连不上，开了镜像才能下东西。</p>
-<span id="more"></span>
-<p>常常抓右手食指上的包的最终结果是它破了。血流成河。<br>我发现这里出血量极大，十分钟停不下的那种，而且就算凝结了稍微碰一下又破了。<br>今天共计破了三次。释放的快感（雾）。<br>然后 2 号机房怎么人突然变那么多了（悲）。       </p>
-<p>另外一件事情是我发现我最近开始变得魔怔（大喜）。“你说得对”的频率高达 114514%！<br>真的是万能回复呢（主要是很多时候我真的不知道回答别人什么）。<br>再有一件事情是我发现我最近开始比较喜欢打扫卫生（？）。<br>为什么会这样啊，我也不知道，或许是寝室里根本没人值日的原因。<br>那么之前代替 zhaoyp 成为寝室长的政变是非常正确的，把寝室平均分拉高了 0.2。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.11.19</title>
     <url>/2022.11.19/</url>
     <content><![CDATA[<p>昨天晚上是 120 周年校庆文艺汇演，但是完全没看反而让 Powerless233 给我讲了题。<br>题是 Foreverlasting 出的那场模拟赛 T3，真的好神秘。<br>然后昨天晚上狂暴写，最后 RE 80pts？？？今天才发现数据挂了草。</p>
 <span id="more"></span>
 <p>我觉得现在右下角这个小人蛮好看的，虽然不知道是什么角色。（查了一下好像是舰娘？）<br>研究了一下，其实是可以自定义而非用插件给的小人的，不过我手上没资源，也不知道改什么。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.11.22</title>
-    <url>/2022.11.22/</url>
-    <content><![CDATA[<p>我发现身边的人在聊世界杯，但是我一点不懂。<br>我好像对许多富有“男生个性”的东西不了解，比如说球、鞋之类的。<br>而且我还是特摄厨，特摄什么还是很容易遭受偏见的吧。</p>
-<span id="more"></span>
-<p>我又发现距离 NOIP 只剩下 4 天了。这可真他妈的快啊。<br>我感觉自己的能力在这段停课期间没什么提升。<del>反倒是 Malody 4k 从 0dan 到 2dan 了。</del><br>已经做好 NOIP 爆零的觉悟了！（）</p>
-<p>我还发现月考提前到下个月 2 号和 3 号了。那这不是彻底寄掉了吗。<br>学长们是怎么对付 whk 的啊，这种东西永远也应付不来，况且基础本来就差。</p>
-<p>今天把图片透明的问题修掉了。这是好的。拿下面这只刚抓到的 Miku 测试↓。</p>
-<p><img src="https://z4a.net/images/2022/11/22/wallhaven-qz6l8q.jpg" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -131,12 +117,14 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.24</title>
-    <url>/2022.11.24/</url>
-    <content><![CDATA[<p>把模板什么的过了一遍的。其实相当没劲。<br>后天就是 NOIP 啦，好害怕的。<br>今天晚上回家，从杭州回来后又要回家，所以可能是最后一篇闲话了（大雾）。</p>
+    <title>2022.11.22</title>
+    <url>/2022.11.22/</url>
+    <content><![CDATA[<p>我发现身边的人在聊世界杯，但是我一点不懂。<br>我好像对许多富有“男生个性”的东西不了解，比如说球、鞋之类的。<br>而且我还是特摄厨，特摄什么还是很容易遭受偏见的吧。</p>
 <span id="more"></span>
-<p>说起来我的闲话好像和其他人不大一样，更有日记的风格，所记录的是每日闲杂琐事，而别人常常是爆发性的针对某一现象的长篇大论。我还蛮喜欢看他们说的那些道理的。<br>不过我也喜欢自己的。这是我自己的风格，对吧？我喜欢日记，2019.1.7 真是梦幻般的日子。</p>
-<p>关于网名之类的其实很有意思。<br>像是说，Dimly 其实并不是我自己取的名字，至少这个名字不是我的。<br>dimly 它是一个副词……“依稀地”。我用了我想要纪念的那个朋友的名字“依稀”当自己的网名。<br><del>话说有人知道它其实是副词吗。以及这个名字第一眼看上去有没有女性化。</del><br>至于在洛谷的名字“时律”，这个虽然是我取的，但也不是我的名字，是我给我笔下的某个人取的名。<br>以及应该已经被人遗忘掉了的小号“紫陰花”，这也是我笔下人物的名字。<br>这样取名的意义在哪里？很难说取名字的时候应该赋予它什么意义。这应该是很复杂的事情吧。     </p>
+<p>我又发现距离 NOIP 只剩下 4 天了。这可真他妈的快啊。<br>我感觉自己的能力在这段停课期间没什么提升。<del>反倒是 Malody 4k 从 0dan 到 2dan 了。</del><br>已经做好 NOIP 爆零的觉悟了！（）</p>
+<p>我还发现月考提前到下个月 2 号和 3 号了。那这不是彻底寄掉了吗。<br>学长们是怎么对付 whk 的啊，这种东西永远也应付不来，况且基础本来就差。</p>
+<p>今天把图片透明的问题修掉了。这是好的。拿下面这只刚抓到的 Miku 测试↓。</p>
+<p><img src="https://z4a.net/images/2022/11/22/wallhaven-qz6l8q.jpg" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -149,6 +137,18 @@
 <span id="more"></span>
 <p>今天看了两集 BLACK SUN。光太郎把创世王干掉了，那个还能动的心脏也太那个了吧。<br>不知道黑日与影月的命运之战会怎样，我曾记得铠武结局里铠武和巴隆的战斗就是致敬了他们的最后一战。</p>
 <p>想要知道 NOIP 后的动向。比如说还能不能回机房，如果不行什么时候能过回来混。<br>11.26 一过，闲话数量就要大量减少了（恼）。<br>我有一个计划是上传一些我近些日子写的故事放在 Hexo 博客上，放到左边项目栏的日记下面，一个“故事部分”。<br>让我试试，首先是列车少女吧。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.11.24</title>
+    <url>/2022.11.24/</url>
+    <content><![CDATA[<p>把模板什么的过了一遍的。其实相当没劲。<br>后天就是 NOIP 啦，好害怕的。<br>今天晚上回家，从杭州回来后又要回家，所以可能是最后一篇闲话了（大雾）。</p>
+<span id="more"></span>
+<p>说起来我的闲话好像和其他人不大一样，更有日记的风格，所记录的是每日闲杂琐事，而别人常常是爆发性的针对某一现象的长篇大论。我还蛮喜欢看他们说的那些道理的。<br>不过我也喜欢自己的。这是我自己的风格，对吧？我喜欢日记，2019.1.7 真是梦幻般的日子。</p>
+<p>关于网名之类的其实很有意思。<br>像是说，Dimly 其实并不是我自己取的名字，至少这个名字不是我的。<br>dimly 它是一个副词……“依稀地”。我用了我想要纪念的那个朋友的名字“依稀”当自己的网名。<br><del>话说有人知道它其实是副词吗。以及这个名字第一眼看上去有没有女性化。</del><br>至于在洛谷的名字“时律”，这个虽然是我取的，但也不是我的名字，是我给我笔下的某个人取的名。<br>以及应该已经被人遗忘掉了的小号“紫陰花”，这也是我笔下人物的名字。<br>这样取名的意义在哪里？很难说取名字的时候应该赋予它什么意义。这应该是很复杂的事情吧。     </p>
 ]]></content>
       <categories>
         <category>神秘</category>
