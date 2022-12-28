@@ -13,19 +13,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.14</title>
-    <url>/2022.11.14/</url>
-    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
-<span id="more"></span>
-<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
-<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.11.11</title>
     <url>/2022.11.11/</url>
     <content><![CDATA[<p>今天被 <a href="https://www.luogu.com.cn/problem/P7982">P7982 [JRKSJ R3] 琴琴的树</a> 折磨了一整天。<br>因此从早上十点头疼到晚上六点，不过最后做出来倒是感觉好多了。</p>
@@ -41,6 +28,19 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.11.14</title>
+    <url>/2022.11.14/</url>
+    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
+<span id="more"></span>
+<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
+<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2022.11.15</title>
     <url>/2022.11.15/</url>
     <content><![CDATA[<p>好像说以后机房每天晚上都关电脑了。<br>那岂不是每天早上都要花半小时装一大堆安装包，尤其是这个 Hexo 博客老是搭不起来。</p>
@@ -48,6 +48,29 @@
 <p>令人感到很败北的是今天早上的 NOIP 信心赛，只写了前两题就跑路写昨天晚上留下来的那道题了。<br>看 chaotic 和 rfsfreffr 他们半小时爆切前三题，还是要说自己思维能力不够。<br>rfs 总是强调我的码力巨量，我自己也同意这一点并且为其感到骄傲，但没有思维又有什么用呢？<br>但思维能力要怎么短时间训练啊，这是不可能的事吧。<br>距离 NOIP2022 只剩下 11 天了，怎么办啊。这也是让我感到败北的事情。<br>是不是初中生不能去了来着，为 zyy 哀悼。</p>
 <p>话说后天是不是就发榜了来着。不过 CCF 真的会那么准时吗。<br>这个发榜时间是不是太晚了点。</p>
 <p>今天又没有做多少题，就算了吧，上午心态搞得够崩了。<br>不过其实下午发现都不是很难的题，赛后补上了，这倒是好的。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.11.16</title>
+    <url>/2022.11.16/</url>
+    <content><![CDATA[<p>今天早上我真的装了半个小时的安装包。草。<br>尤其是这个 npm 怎么老是挂掉连不上，开了镜像才能下东西。</p>
+<span id="more"></span>
+<p>常常抓右手食指上的包的最终结果是它破了。血流成河。<br>我发现这里出血量极大，十分钟停不下的那种，而且就算凝结了稍微碰一下又破了。<br>今天共计破了三次。释放的快感（雾）。<br>然后 2 号机房怎么人突然变那么多了（悲）。       </p>
+<p>另外一件事情是我发现我最近开始变得魔怔（大喜）。“你说得对”的频率高达 114514%！<br>真的是万能回复呢（主要是很多时候我真的不知道回答别人什么）。<br>再有一件事情是我发现我最近开始比较喜欢打扫卫生（？）。<br>为什么会这样啊，我也不知道，或许是寝室里根本没人值日的原因。<br>那么之前代替 zhaoyp 成为寝室长的政变是非常正确的，把寝室平均分拉高了 0.2。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.11.19</title>
+    <url>/2022.11.19/</url>
+    <content><![CDATA[<p>昨天晚上是 120 周年校庆文艺汇演，但是完全没看反而让 Powerless233 给我讲了题。<br>题是 Foreverlasting 出的那场模拟赛 T3，真的好神秘。<br>然后昨天晚上狂暴写，最后 RE 80pts？？？今天才发现数据挂了草。</p>
+<span id="more"></span>
+<p>我觉得现在右下角这个小人蛮好看的，虽然不知道是什么角色。（查了一下好像是舰娘？）<br>研究了一下，其实是可以自定义而非用插件给的小人的，不过我手上没资源，也不知道改什么。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -67,18 +90,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.16</title>
-    <url>/2022.11.16/</url>
-    <content><![CDATA[<p>今天早上我真的装了半个小时的安装包。草。<br>尤其是这个 npm 怎么老是挂掉连不上，开了镜像才能下东西。</p>
-<span id="more"></span>
-<p>常常抓右手食指上的包的最终结果是它破了。血流成河。<br>我发现这里出血量极大，十分钟停不下的那种，而且就算凝结了稍微碰一下又破了。<br>今天共计破了三次。释放的快感（雾）。<br>然后 2 号机房怎么人突然变那么多了（悲）。       </p>
-<p>另外一件事情是我发现我最近开始变得魔怔（大喜）。“你说得对”的频率高达 114514%！<br>真的是万能回复呢（主要是很多时候我真的不知道回答别人什么）。<br>再有一件事情是我发现我最近开始比较喜欢打扫卫生（？）。<br>为什么会这样啊，我也不知道，或许是寝室里根本没人值日的原因。<br>那么之前代替 zhaoyp 成为寝室长的政变是非常正确的，把寝室平均分拉高了 0.2。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.11.20</title>
     <url>/2022.11.20/</url>
     <content><![CDATA[<p>好想待家里啊草，一周只有一个晚上不在学校是真的无趣。<br>而且最近又多了一堆烦心事，应该怎么办啊。</p>
@@ -88,17 +99,6 @@
 <p>然后推星空列车与白的旅行。<br>以前就听说过这个 gal，然后被 Powerless233 安利了于是推。<br>还在前半段剧情，治愈的。接着被评价为在不适当的时机暂停了游戏。<br>目前剧情感觉良好。看后面有多刀了。</p>
 <p>↓高捷少女，图文无关。</p>
 <p><img src="https://cdn.luogu.com.cn/upload/image_hosting/3dx53w04.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.11.19</title>
-    <url>/2022.11.19/</url>
-    <content><![CDATA[<p>昨天晚上是 120 周年校庆文艺汇演，但是完全没看反而让 Powerless233 给我讲了题。<br>题是 Foreverlasting 出的那场模拟赛 T3，真的好神秘。<br>然后昨天晚上狂暴写，最后 RE 80pts？？？今天才发现数据挂了草。</p>
-<span id="more"></span>
-<p>我觉得现在右下角这个小人蛮好看的，虽然不知道是什么角色。（查了一下好像是舰娘？）<br>研究了一下，其实是可以自定义而非用插件给的小人的，不过我手上没资源，也不知道改什么。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -243,21 +243,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.12.17</title>
-    <url>/2022.12.17/</url>
-    <content><![CDATA[<p>我草我竟然活着回家了。上周末住校了可真痛苦。<br>好像疫情放开了，并且学校里出现了许多阳性。目前人还没事。</p>
-<span id="more"></span>
-<p>下周存在一个寝室文化建设，我打算展示我的 fufu 并且使用活字乱刷术配上生草语音。<br>今天晚上研究使用 PR，这个是成果。<a href="https://github.com/DimlyL/BlogFile/raw/main/2022.12.17/%E6%B4%BB%E5%AD%97%E4%B9%B1%E5%88%B7%E6%9C%AF.mp3">link</a>。</p>
-<blockquote>
-<p>大家好，我是一只fufu，也是5513的寝室长。</p>
-</blockquote>
-<p>还是未完成版，明天做完，嘿嘿。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.11.8</title>
     <url>/2022.11.8/</url>
     <content><![CDATA[<p>实际上昨天晚上就通过神秘方式拿到了 CSP 分数。     </p>
@@ -285,6 +270,21 @@
 <p>AI 情劣等生就是好啊。土味十足（<br>再比如之前写 <a href="https://www.luogu.com.cn/problem/P4070">P4070 [SDOI2016]生成魔咒</a> 时：</p>
 <figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="comment">/*</span></span><br><span class="line"><span class="comment">Buckle up it&#x27;s the time, yeah your fame is on the line</span></span><br><span class="line"><span class="comment">They are dealing with a lot of pressure all the fucking time</span></span><br><span class="line"><span class="comment">Spam your hearts, spam your hate, call &#x27;em losers, call &#x27;em great</span></span><br><span class="line"><span class="comment">Make a stupid thread discussing why your teams the best today (2×)</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">Red rabbits, yellow yaks, cyan creepers that&#x27;s a fact Is it llamas, is it bats, what&#x27;s their current mc stats?</span></span><br><span class="line"><span class="comment">Green guardians, axolotls, holy shit just pass the bottle</span></span><br><span class="line"><span class="comment">There&#x27;s a lot of people in here, but they&#x27;re probably just D tier</span></span><br><span class="line"><span class="comment">Purple pandas and the parrots, they will all just get embarrassed</span></span><br><span class="line"><span class="comment">I left ocelots at last, cuz i don’t know what rhymes with that</span></span><br><span class="line"><span class="comment">There are 10 teams, 40 people, and we&#x27;re gonna have some fun</span></span><br><span class="line"><span class="comment">Oh my god all of twitter&#x27;s fighting because they&#x27;ve never seen the sun before..</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">Wait- Dream has clients, Sapnap&#x27;s sighing, Michael&#x27;s busy running ads</span></span><br><span class="line"><span class="comment">I am dogshit, i have never even played mc like that Punz fell off, Sparklez’s cursed, Jack is really fucking bald</span></span><br><span class="line"><span class="comment">Seapeekay stick to your bedwars, guys just end the discord call</span></span><br><span class="line"><span class="comment">Tommyinnit will not win it, Philza&#x27;s back is cracking hard</span></span><br><span class="line"><span class="comment">Connor stick to bttv, Fundy&#x27;s playing from his yard</span></span><br><span class="line"><span class="comment">Scott&#x27;s played all the games already, whoops but he&#x27;s not really good</span></span><br><span class="line"><span class="comment">5up went, ripped off a soda, Antfrost just alt F4 dude</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">Wilbur&#x27;s using fast food wifi as his internet connection</span></span><br><span class="line"><span class="comment">Ranboo&#x27;s busy farming subs, Tubbo&#x27;s team won&#x27;t take a dub</span></span><br><span class="line"><span class="comment">Tap-L ring the bell, Captain Puffy think she&#x27;ll win</span></span><br><span class="line"><span class="comment">I give Niki A for effort but the chance to win is thin</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">(Chorus)</span></span><br><span class="line"><span class="comment">Buckle up it&#x27;s the time, yeah your fame is on the line They are dealing with a lot of pressure all the fucking time</span></span><br><span class="line"><span class="comment">Spam your hearts, spam your hate, call &#x27;em losers, call &#x27;em great</span></span><br><span class="line"><span class="comment">Make a stupid thread discussing why your teams the best today</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">Buckle up it&#x27;s the time, yeah your fame is on the line They are dealing with a lot of pressure all the fucking time</span></span><br><span class="line"><span class="comment">Spam your hearts, spam your hate, call &#x27;em losers, call &#x27;em great</span></span><br><span class="line"><span class="comment">Make a stupid thread discussing why your team is the best</span></span><br><span class="line"><span class="comment">Wait-</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">This is to show, hope you know, that we&#x27;re playing a block game If you&#x27;re mad at a performance, no one cares about your claims...</span></span><br><span class="line"><span class="comment">We&#x27;re just having fun (4x)</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">Just kidding my team is going to fucking win and shit on everyone else!</span></span><br><span class="line"><span class="comment">*/</span></span><br></pre></td></tr></table></figure>
 <p>我直接把 Quackity 的整首 MCC Song 歌词扔了上去。真的很好听，也很令人感动。<br>不过多数时候还是没有那么疯狂的，我也不想让开头的注释占掉我一半的码量。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.12.17</title>
+    <url>/2022.12.17/</url>
+    <content><![CDATA[<p>我草我竟然活着回家了。上周末住校了可真痛苦。<br>好像疫情放开了，并且学校里出现了许多阳性。目前人还没事。</p>
+<span id="more"></span>
+<p>下周存在一个寝室文化建设，我打算展示我的 fufu 并且使用活字乱刷术配上生草语音。<br>今天晚上研究使用 PR，这个是成果。<a href="https://github.com/DimlyL/BlogFile/raw/main/2022.12.17/%E6%B4%BB%E5%AD%97%E4%B9%B1%E5%88%B7%E6%9C%AF.mp3">link</a>。</p>
+<blockquote>
+<p>大家好，我是一只fufu，也是5513的寝室长。</p>
+</blockquote>
+<p>还是未完成版，明天做完，嘿嘿。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -371,6 +371,19 @@
 <p>我这两晚在仔细考证。因为要做「故事之后的故事」整理计划，所以一整晚在翻日记。<br>像是前天晚上为了找到「故事之后的故事」这个词的源头，我发现在《日记5-终局》里提到了它的核心精神，《日记6-2021.9.5》中第一次用了这个词。不过仅是找到这两点就花了我一个半小时。这可好累。<br>而昨天晚上则是《列车少女》。虽然很明确的 2021.12.20 + 2022.6.9~2022.6.12 + 2022.6.14 都在脑子里了但还是翻了好久。<br>大概也与晚上的环境有关吧……？总是会胡思乱想的。</p>
 <p>接着我开了一个随机 mod 的只狼一周目坑。好家伙一上来就剑圣·苇名一心和无首狮子猿的战斗记忆。<br>目前打来一切正常，还没有开局撞脸樱龙，我人还好（）别说完就刷我脸上（）</p>
 <p>sanaka87 建议我打 CF。<br>正好开始复健 OI 了。找机会试试？</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.12.28</title>
+    <url>/2022.12.28/</url>
+    <content><![CDATA[<p>无论怎么听歌最终总会绕回<a href="https://music.163.com/song?id=4886068">快乐合成器</a>。又回来了，我该如何逃出这莫比乌斯之环？</p>
+<span id="more"></span>
+<p>说起来明天还有个恋爱 FLOPS 第 12 集看，这周末啥都没得看了。孤独摇滚完结，Geats 年末停播一周，呜呜呜。<br>没事，进入一月我又有很多的厕纸可以观察（？）</p>
+<p>又打了好几天的 pjsk，发现完全失去 4k 能力。又退化到 1dan 水平了，哼啊啊啊啊啊。<br>等下我又会了，感谢 Powerless233 告诉我要把手给抬起来打，底力大幅提升。</p>
+<p><img src="https://z4a.net/images/2022/12/28/-3dan-.png" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -511,7 +524,7 @@
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FB" d="M387 189Q387 244 354 278T273 313Q230 313 205 301T163 271T138 249H120Q102 249 97 251Q85 258 83 266T80 311Q80 320 80 359T81 430Q81 587 82 591Q88 605 103 610H108Q112 610 120 610T138 610T163 610T192 611T225 611T260 611H415Q416 610 421 607T428 602T432 596T436 587T437 573Q437 567 437 562T434 554T431 548T427 543T423 540T418 538L415 536L289 535H164V363L170 366Q175 368 184 372T207 380T238 386T276 389Q357 389 414 331T472 187Q472 116 412 53T245 -10Q218 -10 209 -9Q126 5 89 48T52 137Q52 164 68 177T104 191Q130 191 143 175T156 141Q156 132 154 125T149 113T146 107Q146 104 155 95T188 76T245 65Q298 65 342 98T387 189Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
 <td style="text-align:center"><a href="/2022.12.26"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="red" stroke="red"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FC" d="M357 536Q357 546 318 546Q258 546 205 497T133 357V353L144 361Q210 402 285 402Q362 402 414 350Q479 285 479 193Q479 111 418 50T263 -11Q234 -11 207 -3T149 26T97 81T60 171T45 301Q45 444 129 533T319 622Q388 622 421 589T454 510Q454 491 442 475T402 458Q373 458 362 475T350 510Q350 520 354 528L357 536ZM319 326T269 326T179 298T136 223Q136 202 143 174T176 112T237 68Q246 66 265 66Q319 66 360 107Q395 146 395 197Q395 250 356 289Q319 326 269 326Z" transform="translate(525,0)"></path></g></g></g></g></svg></mjx-container></a></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.441ex" role="img" focusable="false" viewBox="0 -627 1050 637"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FD" d="M204 -10Q162 -10 162 40Q162 146 198 261T310 477Q311 478 321 491T342 517T358 535H128V524Q128 506 119 497Q111 489 86 489H78Q55 489 46 508Q44 513 44 557V580Q44 605 52 616T88 627H93Q114 627 125 611H458Q474 598 477 593T480 573Q480 559 478 553T469 543T446 521T408 477Q252 290 246 49Q246 43 246 37T246 27T245 22Q243 11 233 1T204 -10Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
-<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FE" d="M58 460Q58 523 117 572T254 621Q290 621 298 620Q376 607 421 560T466 460Q466 441 460 424T443 393T421 370T397 352T374 340T357 332L350 330L356 328Q363 325 371 321T392 310T415 295T439 274T459 249T473 217T479 179Q479 102 418 46T262 -10T106 46T45 179Q45 202 52 222T70 257T96 284T123 305T148 319T167 328L174 330L170 332Q166 333 159 336T145 343Q104 362 81 393T58 460ZM382 458Q382 491 349 518T263 546Q215 546 179 521T142 458Q142 421 178 395T262 368Q315 368 348 396T382 458ZM396 178Q396 223 358 257T263 292Q206 292 167 258T128 178Q128 137 163 102T262 66Q324 66 360 101T396 178Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><a href="/2022.12.28"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="red" stroke="red"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FE" d="M58 460Q58 523 117 572T254 621Q290 621 298 620Q376 607 421 560T466 460Q466 441 460 424T443 393T421 370T397 352T374 340T357 332L350 330L356 328Q363 325 371 321T392 310T415 295T439 274T459 249T473 217T479 179Q479 102 418 46T262 -10T106 46T45 179Q45 202 52 222T70 257T96 284T123 305T148 319T167 328L174 330L170 332Q166 333 159 336T145 343Q104 362 81 393T58 460ZM382 458Q382 491 349 518T263 546Q215 546 179 521T142 458Q142 421 178 395T262 368Q315 368 348 396T382 458ZM396 178Q396 223 358 257T263 292Q206 292 167 258T128 178Q128 137 163 102T262 66Q324 66 360 101T396 178Z" transform="translate(525,0)"></path></g></g></g></g></svg></mjx-container></a></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FF" d="M392 259Q333 210 236 210H233Q163 210 109 262Q46 325 46 411T99 550Q164 622 264 622Q293 622 319 615T376 587T428 532T464 440T479 304Q479 167 400 78T217 -11Q140 -11 105 22T70 101Q70 124 84 138T122 153Q150 153 162 137T174 101Q174 91 168 76Q179 65 216 65Q267 65 300 93Q322 109 339 130T366 173T380 210T388 242T392 259ZM388 389Q388 438 357 492T268 546T185 520Q129 479 129 415Q129 384 138 363Q145 349 156 334T195 302T255 285Q305 285 345 313T388 389Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z"></path><path data-c="1D7F6" d="M42 305Q42 450 111 535T257 621Q335 621 390 562Q482 468 482 306Q482 174 418 82T262 -10T106 82T42 305ZM257 545Q209 545 168 481T126 320Q126 220 162 147Q204 65 262 65Q318 65 358 139T398 320V328Q395 411 364 470T284 543Q270 545 257 545Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z"></path><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
