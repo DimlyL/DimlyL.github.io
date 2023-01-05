@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2022.11.14</title>
-    <url>/2022.11.14/</url>
-    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
+    <title>2022.11.10</title>
+    <url>/2022.11.10/</url>
+    <content><![CDATA[<p>离开了 5 号机房，来到了 2 号机房和 yjj 一起，安静的要死。<br>然后又有远程桌面连接的神秘科技，所以可以在这里写闲话。就是很卡。</p>
 <span id="more"></span>
-<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
-<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
+<p>那么说起来昨天把电王看完了。桃浦金龙真的是太可爱了。<br>“过去给人希望”。姐夫，我的超人。</p>
+<p>显然今天非常颓废，一个晚上没写几道题，ABC 的 DEF 题巨柱计划也大失败。<br>距离 NOIP，也是停课结束只有 16 天了，不知道以后还能不能来机房。</p>
+]]></content>
       <categories>
         <category>神秘</category>
       </categories>
@@ -29,24 +28,38 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.16</title>
-    <url>/2022.11.16/</url>
-    <content><![CDATA[<p>今天早上我真的装了半个小时的安装包。草。<br>尤其是这个 npm 怎么老是挂掉连不上，开了镜像才能下东西。</p>
+    <title>2022.11.14</title>
+    <url>/2022.11.14/</url>
+    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
 <span id="more"></span>
-<p>常常抓右手食指上的包的最终结果是它破了。血流成河。<br>我发现这里出血量极大，十分钟停不下的那种，而且就算凝结了稍微碰一下又破了。<br>今天共计破了三次。释放的快感（雾）。<br>然后 2 号机房怎么人突然变那么多了（悲）。       </p>
-<p>另外一件事情是我发现我最近开始变得魔怔（大喜）。“你说得对”的频率高达 114514%！<br>真的是万能回复呢（主要是很多时候我真的不知道回答别人什么）。<br>再有一件事情是我发现我最近开始比较喜欢打扫卫生（？）。<br>为什么会这样啊，我也不知道，或许是寝室里根本没人值日的原因。<br>那么之前代替 zhaoyp 成为寝室长的政变是非常正确的，把寝室平均分拉高了 0.2。</p>
+<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
+<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.11.15</title>
+    <url>/2022.11.15/</url>
+    <content><![CDATA[<p>好像说以后机房每天晚上都关电脑了。<br>那岂不是每天早上都要花半小时装一大堆安装包，尤其是这个 Hexo 博客老是搭不起来。</p>
+<span id="more"></span>
+<p>令人感到很败北的是今天早上的 NOIP 信心赛，只写了前两题就跑路写昨天晚上留下来的那道题了。<br>看 chaotic 和 rfsfreffr 他们半小时爆切前三题，还是要说自己思维能力不够。<br>rfs 总是强调我的码力巨量，我自己也同意这一点并且为其感到骄傲，但没有思维又有什么用呢？<br>但思维能力要怎么短时间训练啊，这是不可能的事吧。<br>距离 NOIP2022 只剩下 11 天了，怎么办啊。这也是让我感到败北的事情。<br>是不是初中生不能去了来着，为 zyy 哀悼。</p>
+<p>话说后天是不是就发榜了来着。不过 CCF 真的会那么准时吗。<br>这个发榜时间是不是太晚了点。</p>
+<p>今天又没有做多少题，就算了吧，上午心态搞得够崩了。<br>不过其实下午发现都不是很难的题，赛后补上了，这倒是好的。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
       </categories>
   </entry>
   <entry>
-    <title>2022.11.10</title>
-    <url>/2022.11.10/</url>
-    <content><![CDATA[<p>离开了 5 号机房，来到了 2 号机房和 yjj 一起，安静的要死。<br>然后又有远程桌面连接的神秘科技，所以可以在这里写闲话。就是很卡。</p>
+    <title>2022.11.16</title>
+    <url>/2022.11.16/</url>
+    <content><![CDATA[<p>今天早上我真的装了半个小时的安装包。草。<br>尤其是这个 npm 怎么老是挂掉连不上，开了镜像才能下东西。</p>
 <span id="more"></span>
-<p>那么说起来昨天把电王看完了。桃浦金龙真的是太可爱了。<br>“过去给人希望”。姐夫，我的超人。</p>
-<p>显然今天非常颓废，一个晚上没写几道题，ABC 的 DEF 题巨柱计划也大失败。<br>距离 NOIP，也是停课结束只有 16 天了，不知道以后还能不能来机房。</p>
+<p>常常抓右手食指上的包的最终结果是它破了。血流成河。<br>我发现这里出血量极大，十分钟停不下的那种，而且就算凝结了稍微碰一下又破了。<br>今天共计破了三次。释放的快感（雾）。<br>然后 2 号机房怎么人突然变那么多了（悲）。       </p>
+<p>另外一件事情是我发现我最近开始变得魔怔（大喜）。“你说得对”的频率高达 114514%！<br>真的是万能回复呢（主要是很多时候我真的不知道回答别人什么）。<br>再有一件事情是我发现我最近开始比较喜欢打扫卫生（？）。<br>为什么会这样啊，我也不知道，或许是寝室里根本没人值日的原因。<br>那么之前代替 zhaoyp 成为寝室长的政变是非常正确的，把寝室平均分拉高了 0.2。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -77,30 +90,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.21</title>
-    <url>/2022.11.21/</url>
-    <content><![CDATA[<p>把星空列车推完了。甚是感动，但是没觉得很刀，可能是 Powerless233 提前说了一堆东西的原因。<br>可能说是大团圆结局的话刀的成分就会减少一点吧。姑且认为暗杀教室比这个刀，毕竟最后杀老师回不来了（？）</p>
-<span id="more"></span>
-<p>撒，来细数你玩过的 galgame 吧。不过应该没几部。<br>按顺序来应该是：高捷少女IS、少女*领域、糖调、ATRI、青空下的加缪、美少女万华镜（不知道应不应该算）、星空列车与白的旅行。<br>诚然前两部是给我影响最深的，尤其是从五年前就第一次接触高捷少女了，而且也只有这两个 gal 让我写了额外篇日记（一天写两篇）。<br>后面的四部，糖调和少女*领域是很像的东西，如果说我是先玩的糖调那么占有额外篇日记的就不是 Otome*Domain 了。不过糖调毕竟是我沿着 Otome*Domain 的 OST 找到的游戏，这是命了，而且我相比萝莉我更喜欢那种高中女生画风。<br>接着是 ATRI，Powerless233 推的游戏，既然如此就把它和星空列车与白的旅行放在一起说吧。这两部都是同样让我感觉不算很刀但是心里既难受又感动的作品，况且最后也都是团圆结局，nice 的。夏生和亚托莉还有六十年时间共度余生，真白心中的银河号还能永远地向前开着。<br>说到青空下的加缪，整体感觉内容是十分哲学的，令我肃然起敬，所以关于游戏内容的理解其实也很难说上什么。<del>唯一不满的地方是完全不知道选哪个好的选择支，一旦选错就 Bad End 了。</del><br>美少女万华镜只玩了前两部，说是拔作但是剧情确实不错，雾枝最后的献血真的颇为感动，雫也真的是完美的女孩。<br>话说我这个高一年纪阅历如此正常吗。是玩得少还是玩得多啊。</p>
-<p><img src="https://z4a.net/images/2022/11/21/080_large_evcg05b.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.11.23</title>
-    <url>/2022.11.23/</url>
-    <content><![CDATA[<p>可以说是效率低下！<br>晚上开展板子大赛大力写板子 &amp; CS 初体验。</p>
-<span id="more"></span>
-<p>今天看了两集 BLACK SUN。光太郎把创世王干掉了，那个还能动的心脏也太那个了吧。<br>不知道黑日与影月的命运之战会怎样，我曾记得铠武结局里铠武和巴隆的战斗就是致敬了他们的最后一战。</p>
-<p>想要知道 NOIP 后的动向。比如说还能不能回机房，如果不行什么时候能过回来混。<br>11.26 一过，闲话数量就要大量减少了（恼）。<br>我有一个计划是上传一些我近些日子写的故事放在 Hexo 博客上，放到左边项目栏的日记下面，一个“故事部分”。<br>让我试试，首先是列车少女吧。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.11.20</title>
     <url>/2022.11.20/</url>
     <content><![CDATA[<p>好想待家里啊草，一周只有一个晚上不在学校是真的无趣。<br>而且最近又多了一堆烦心事，应该怎么办啊。</p>
@@ -116,13 +105,12 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.15</title>
-    <url>/2022.11.15/</url>
-    <content><![CDATA[<p>好像说以后机房每天晚上都关电脑了。<br>那岂不是每天早上都要花半小时装一大堆安装包，尤其是这个 Hexo 博客老是搭不起来。</p>
+    <title>2022.11.21</title>
+    <url>/2022.11.21/</url>
+    <content><![CDATA[<p>把星空列车推完了。甚是感动，但是没觉得很刀，可能是 Powerless233 提前说了一堆东西的原因。<br>可能说是大团圆结局的话刀的成分就会减少一点吧。姑且认为暗杀教室比这个刀，毕竟最后杀老师回不来了（？）</p>
 <span id="more"></span>
-<p>令人感到很败北的是今天早上的 NOIP 信心赛，只写了前两题就跑路写昨天晚上留下来的那道题了。<br>看 chaotic 和 rfsfreffr 他们半小时爆切前三题，还是要说自己思维能力不够。<br>rfs 总是强调我的码力巨量，我自己也同意这一点并且为其感到骄傲，但没有思维又有什么用呢？<br>但思维能力要怎么短时间训练啊，这是不可能的事吧。<br>距离 NOIP2022 只剩下 11 天了，怎么办啊。这也是让我感到败北的事情。<br>是不是初中生不能去了来着，为 zyy 哀悼。</p>
-<p>话说后天是不是就发榜了来着。不过 CCF 真的会那么准时吗。<br>这个发榜时间是不是太晚了点。</p>
-<p>今天又没有做多少题，就算了吧，上午心态搞得够崩了。<br>不过其实下午发现都不是很难的题，赛后补上了，这倒是好的。</p>
+<p>撒，来细数你玩过的 galgame 吧。不过应该没几部。<br>按顺序来应该是：高捷少女IS、少女*领域、糖调、ATRI、青空下的加缪、美少女万华镜（不知道应不应该算）、星空列车与白的旅行。<br>诚然前两部是给我影响最深的，尤其是从五年前就第一次接触高捷少女了，而且也只有这两个 gal 让我写了额外篇日记（一天写两篇）。<br>后面的四部，糖调和少女*领域是很像的东西，如果说我是先玩的糖调那么占有额外篇日记的就不是 Otome*Domain 了。不过糖调毕竟是我沿着 Otome*Domain 的 OST 找到的游戏，这是命了，而且我相比萝莉我更喜欢那种高中女生画风。<br>接着是 ATRI，Powerless233 推的游戏，既然如此就把它和星空列车与白的旅行放在一起说吧。这两部都是同样让我感觉不算很刀但是心里既难受又感动的作品，况且最后也都是团圆结局，nice 的。夏生和亚托莉还有六十年时间共度余生，真白心中的银河号还能永远地向前开着。<br>说到青空下的加缪，整体感觉内容是十分哲学的，令我肃然起敬，所以关于游戏内容的理解其实也很难说上什么。<del>唯一不满的地方是完全不知道选哪个好的选择支，一旦选错就 Bad End 了。</del><br>美少女万华镜只玩了前两部，说是拔作但是剧情确实不错，雾枝最后的献血真的颇为感动，雫也真的是完美的女孩。<br>话说我这个高一年纪阅历如此正常吗。是玩得少还是玩得多啊。</p>
+<p><img src="https://z4a.net/images/2022/11/21/080_large_evcg05b.png" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -155,16 +143,12 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.28</title>
-    <url>/2022.11.28/</url>
-    <content><![CDATA[<p>反转了，因为疫情所以 NOIP 考完待在家里上网课。还有鲜花可以写，不过估计没几天。<br>但是在大力颓废 HAITENAI RPG。而且发现 1room 和 妹2 好像都更新了，我直接过年。（？）<br>关于 NOIP 的事情还是看游记比较好吧。<a href="https://www.luogu.com.cn/blog/Dimly/NOIP2022">https://www.luogu.com.cn/blog/Dimly/NOIP2022</a></p>
+    <title>2022.11.23</title>
+    <url>/2022.11.23/</url>
+    <content><![CDATA[<p>可以说是效率低下！<br>晚上开展板子大赛大力写板子 &amp; CS 初体验。</p>
 <span id="more"></span>
-<p>翻到了小时候的本子。有很多小时候的回忆留存了下来，但有更多的消失了。<br>其中我看到了曾经的愿望。小时候不切实际的愿望。<br>现在的我已经不在奢望它们能够实现，只希望我还能够在老年时回想起小时的快乐。<br>此时也让我想一些看起来幼稚的愿望吧。<br>像南光太郎那样、骑上他的摩托，战斗蝗虫，破窗而出，上路。</p>
-<p>发现 Powerless233 在打 RIDDLE JOKER。光速搞了一个过来……放在百度网盘里吃灰。<br>暂且没有推 gal 的欲望，不知道为什么。可能是 HAITENAI RPG 卡关的原因，CE 又用不了。<br>还是找个时间二刷少女*领域吧。绝对的治愈作品啊。</p>
-<hr>
-<p>记忆缺失的五年之后我重新拿到了自己的手机。那个破破烂烂，存储空间只有 12G 的华为手机，却装载着我所追寻的所有回忆。<br>果然，大部分我所期望的东西都找不到了，也只有几个我所确定的玩意还留着。<br>等我有时间我要把整个系统文件夹翻一遍，只为了找到那个人所真的存在过的证据。<br>不多的收获里包括我五年前的壁纸，可谓是代表了我那个时期的一切的终点。<br>雷霆万钧，孤身一人。</p>
-<p><img src="https://cdn.luogu.com.cn/upload/image_hosting/et33jzkx.png" alt=""></p>
-<p>我曾经以为在我拿回手机后我会哭的。但是我没哭。可是现在我又想要哭出来。<br>你读到这里的话，应该会觉得莫名其妙，难以理解我这里说的这些事情吧……没有关系，这是属于我一人的回忆。<br>这是最难理解，也是最难忘怀的回忆。你还是没有必要知道了。<br>在 2019.1.7，日记所诞生的那一天之前，我的过去都被蒙上了一层纱布。<br>我还在努力地寻找记忆所真实存在过的痕迹，所以请原谅我啊，浪海、紫维，我还能找到你们吗。<br>我早已把你们写在我的笔下永不忘记，可你们什么时候才会回来啊。</p>
+<p>今天看了两集 BLACK SUN。光太郎把创世王干掉了，那个还能动的心脏也太那个了吧。<br>不知道黑日与影月的命运之战会怎样，我曾记得铠武结局里铠武和巴隆的战斗就是致敬了他们的最后一战。</p>
+<p>想要知道 NOIP 后的动向。比如说还能不能回机房，如果不行什么时候能过回来混。<br>11.26 一过，闲话数量就要大量减少了（恼）。<br>我有一个计划是上传一些我近些日子写的故事放在 Hexo 博客上，放到左边项目栏的日记下面，一个“故事部分”。<br>让我试试，首先是列车少女吧。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -206,12 +190,53 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.11.28</title>
+    <url>/2022.11.28/</url>
+    <content><![CDATA[<p>反转了，因为疫情所以 NOIP 考完待在家里上网课。还有鲜花可以写，不过估计没几天。<br>但是在大力颓废 HAITENAI RPG。而且发现 1room 和 妹2 好像都更新了，我直接过年。（？）<br>关于 NOIP 的事情还是看游记比较好吧。<a href="https://www.luogu.com.cn/blog/Dimly/NOIP2022">https://www.luogu.com.cn/blog/Dimly/NOIP2022</a></p>
+<span id="more"></span>
+<p>翻到了小时候的本子。有很多小时候的回忆留存了下来，但有更多的消失了。<br>其中我看到了曾经的愿望。小时候不切实际的愿望。<br>现在的我已经不在奢望它们能够实现，只希望我还能够在老年时回想起小时的快乐。<br>此时也让我想一些看起来幼稚的愿望吧。<br>像南光太郎那样、骑上他的摩托，战斗蝗虫，破窗而出，上路。</p>
+<p>发现 Powerless233 在打 RIDDLE JOKER。光速搞了一个过来……放在百度网盘里吃灰。<br>暂且没有推 gal 的欲望，不知道为什么。可能是 HAITENAI RPG 卡关的原因，CE 又用不了。<br>还是找个时间二刷少女*领域吧。绝对的治愈作品啊。</p>
+<hr>
+<p>记忆缺失的五年之后我重新拿到了自己的手机。那个破破烂烂，存储空间只有 12G 的华为手机，却装载着我所追寻的所有回忆。<br>果然，大部分我所期望的东西都找不到了，也只有几个我所确定的玩意还留着。<br>等我有时间我要把整个系统文件夹翻一遍，只为了找到那个人所真的存在过的证据。<br>不多的收获里包括我五年前的壁纸，可谓是代表了我那个时期的一切的终点。<br>雷霆万钧，孤身一人。</p>
+<p><img src="https://cdn.luogu.com.cn/upload/image_hosting/et33jzkx.png" alt=""></p>
+<p>我曾经以为在我拿回手机后我会哭的。但是我没哭。可是现在我又想要哭出来。<br>你读到这里的话，应该会觉得莫名其妙，难以理解我这里说的这些事情吧……没有关系，这是属于我一人的回忆。<br>这是最难理解，也是最难忘怀的回忆。你还是没有必要知道了。<br>在 2019.1.7，日记所诞生的那一天之前，我的过去都被蒙上了一层纱布。<br>我还在努力地寻找记忆所真实存在过的痕迹，所以请原谅我啊，浪海、紫维，我还能找到你们吗。<br>我早已把你们写在我的笔下永不忘记，可你们什么时候才会回来啊。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.11.5</title>
+    <url>/2022.11.5/</url>
+    <content><![CDATA[<p>来测试一下第一篇闲话。<br>今天在学校的机子上把 Hexo 博客搭起来了，可喜可贺。        </p>
+<span id="more"></span>
+<p>最近出了一场数据结构模拟赛，前面三道板题，第四道我觉得还行。<br>是个神秘的回滚莫队，模拟赛链接放这里了。<a href="https://www.luogu.com.cn/contest/90119">https://www.luogu.com.cn/contest/90119</a></p>
+<p>距离 NOIP/停课结束 还有 21 天，我觉得我应该尝试补补 whk。<br>还有，我爸让我多跑步，偶尔跑个十圈……我觉得我做不到这点，但还是要多跑。</p>
+<p>最近 zhaoyp 总是和我关注 WC 的事情，不过如果他不说我甚至不知道我有去 WC 的机会。<br>凭目前民间数据 CSP-S 测出来的排名是 ZJ rk 50 左右，理论上挤得进线下。<br>不过好像 WC 结束后三天就是春节了，这时间着实不好啊，大过年的。<br>首先是要隔离，万一到时候又来了个疫情岂不是完蛋。<br>不过我也想要出去，从小时候到现在我也只出过两次浙江，一次去了福建，一次去了泰国。<br>cdqz 在四川，我还是想去的。并且希望能够认识一些神仙qwq<br>但是在那之前，还有可恶的 whk……是不是停课一结束就要第二次月考啊。<br>天杀的，怎么背历史和政治啊。<br>高中生活就是这么精彩吗（恼）。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2022.11.6</title>
     <url>/2022.11.6/</url>
     <content><![CDATA[<p>昨天晚上梦到今天早上没有在寝室门口刷脸打卡。真是噩梦。      </p>
 <span id="more"></span>
 <p>今天 Powerless 等四人激情 Minecraft，我也想打。<br>但是发觉自己根本不会 MC，而且也没有笔记本电脑。<br>说起来如果有笔记本的话把 Hexo 搭在笔记本上会好很多吧……<br>万一一脚把机房电脑线踹断了这个博客就没了。或是被体验营的人关了。</p>
 <p>我把博客背景从草莓换成了高捷少女们。<br>虽然 NekoPara 的猫娘们也很可爱，但相对而言我还是更喜欢捷运站的日常。<br>但是我怎么好像就找不到一张四人合照啊（悲）只能把 NANA 先晾在一边了。<br><del>话说之前不是也只把 NANA 一人当博客背景了吗，这很平衡</del><br>说起来高捷少女的小说我还有好几本没有资源。淘宝上买不到实体书，原本以为有的。<br>外网能看到网络版，不过好贵啊，暂时没法看。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.11.7</title>
+    <url>/2022.11.7/</url>
+    <content><![CDATA[<p>今天写了三道黑题，分别是 <a href="https://www.luogu.com.cn/problem/P5398">    P5398</a>、<a href="https://www.luogu.com.cn/problem/P4094">P4094</a>、<a href="https://www.luogu.com.cn/problem/P4770">P4770</a>。<br>一道莫队二次离线、两道字符串，我觉得今天已经很足够了。<br>但是又经常出现有思路但是没法写出来的情况，怎么办啊。     </p>
+<span id="more"></span>
+<p>好像隔壁省已经 CSP 出分了，不知道数据情况怎么样。好像 ZJ 明天 9:00 出分。<br>另外今天教练过来问，于是我们一大群人都报了 WC。还是希望能去线下观摩的。<br>尤其要看 ljc 杀穿全场（）</p>
+<p>打算找个时间看 BLACK SUN。好像十分深重的样子。<br>不过 BLACK 的 OP 是真的好听。<br>那么说起来等我旧平成了解的差不多后是不是应该去看看昭和骑士啊。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -251,19 +276,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.5</title>
-    <url>/2022.11.5/</url>
-    <content><![CDATA[<p>来测试一下第一篇闲话。<br>今天在学校的机子上把 Hexo 博客搭起来了，可喜可贺。        </p>
-<span id="more"></span>
-<p>最近出了一场数据结构模拟赛，前面三道板题，第四道我觉得还行。<br>是个神秘的回滚莫队，模拟赛链接放这里了。<a href="https://www.luogu.com.cn/contest/90119">https://www.luogu.com.cn/contest/90119</a></p>
-<p>距离 NOIP/停课结束 还有 21 天，我觉得我应该尝试补补 whk。<br>还有，我爸让我多跑步，偶尔跑个十圈……我觉得我做不到这点，但还是要多跑。</p>
-<p>最近 zhaoyp 总是和我关注 WC 的事情，不过如果他不说我甚至不知道我有去 WC 的机会。<br>凭目前民间数据 CSP-S 测出来的排名是 ZJ rk 50 左右，理论上挤得进线下。<br>不过好像 WC 结束后三天就是春节了，这时间着实不好啊，大过年的。<br>首先是要隔离，万一到时候又来了个疫情岂不是完蛋。<br>不过我也想要出去，从小时候到现在我也只出过两次浙江，一次去了福建，一次去了泰国。<br>cdqz 在四川，我还是想去的。并且希望能够认识一些神仙qwq<br>但是在那之前，还有可恶的 whk……是不是停课一结束就要第二次月考啊。<br>天杀的，怎么背历史和政治啊。<br>高中生活就是这么精彩吗（恼）。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.12.17</title>
     <url>/2022.12.17/</url>
     <content><![CDATA[<p>我草我竟然活着回家了。上周末住校了可真痛苦。<br>好像疫情放开了，并且学校里出现了许多阳性。目前人还没事。</p>
@@ -273,36 +285,6 @@
 <p>大家好，我是一只fufu，也是5513的寝室长。</p>
 </blockquote>
 <p>还是未完成版，明天做完，嘿嘿。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.11.7</title>
-    <url>/2022.11.7/</url>
-    <content><![CDATA[<p>今天写了三道黑题，分别是 <a href="https://www.luogu.com.cn/problem/P5398">    P5398</a>、<a href="https://www.luogu.com.cn/problem/P4094">P4094</a>、<a href="https://www.luogu.com.cn/problem/P4770">P4770</a>。<br>一道莫队二次离线、两道字符串，我觉得今天已经很足够了。<br>但是又经常出现有思路但是没法写出来的情况，怎么办啊。     </p>
-<span id="more"></span>
-<p>好像隔壁省已经 CSP 出分了，不知道数据情况怎么样。好像 ZJ 明天 9:00 出分。<br>另外今天教练过来问，于是我们一大群人都报了 WC。还是希望能去线下观摩的。<br>尤其要看 ljc 杀穿全场（）</p>
-<p>打算找个时间看 BLACK SUN。好像十分深重的样子。<br>不过 BLACK 的 OP 是真的好听。<br>那么说起来等我旧平成了解的差不多后是不是应该去看看昭和骑士啊。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.12.18</title>
-    <url>/2022.12.18/</url>
-    <content><![CDATA[<p>活字乱刷术做好了。<del>学会了如何使用 PR。</del><br>最终成果大致就是这个了。<a href="https://github.com/DimlyL/BlogFile/raw/main/2022.12.18/%E6%B4%BB%E5%AD%97%E4%B9%B1%E5%88%B7%E6%9C%AF.mp4">link</a>。<br>希望大家能够不要嘲讽我的低技术力（悲）。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.12.20</title>
-    <url>/2022.12.20/</url>
-    <content><![CDATA[<p>星光又发新专了，我要爽死。<br>都去听！<a href="https://music.163.com/#/album?id=156837632">the Grimoire of Starlight 02 : Forever Mapledise</a>。<br>感觉上像是阳了，一直在大力咳嗽，不过等明天展示活字乱刷术之后再撤离学校为好。<br>摆烂，赫赫。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -319,6 +301,45 @@
 </blockquote>
 <p>然后想了半天连第一句都没想到用什么调，败北了。</p>
 <p>希望能够早点回家www。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.12.20</title>
+    <url>/2022.12.20/</url>
+    <content><![CDATA[<p>星光又发新专了，我要爽死。<br>都去听！<a href="https://music.163.com/#/album?id=156837632">the Grimoire of Starlight 02 : Forever Mapledise</a>。<br>感觉上像是阳了，一直在大力咳嗽，不过等明天展示活字乱刷术之后再撤离学校为好。<br>摆烂，赫赫。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.12.22</title>
+    <url>/2022.12.22/</url>
+    <content><![CDATA[<p>半夜时分发烧到四十度。<br>于是乎背诵《琵琶行》和《登泰山记》，前者漏了好多句话/kk</p>
+<span id="more"></span>
+<p>然后在 Powerless233 的安利下开始玩 pjsk。<del>为什么 Powerless233 给我安利了这么多游戏。</del><br>好复杂的系统，感觉 Malody 要干净多了。不过都是术曲让人开心死了。</p>
+<p>顺带一提今天被 Powerless233 锐评：</p>
+<p><img src="https://z4a.net/images/2022/12/22/6d8432b9d1d5be0440a105f7227dbb2a.png" alt=""></p>
+<p>呜呜呜。</p>
+<p>然后把日记摘录更新了，终于是赶上了现在的进度。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.12.21</title>
+    <url>/2022.12.21/</url>
+    <content><![CDATA[<p>回家了回家了耶耶耶，烧到了 37.9°C，过了一会儿甚至烧到 38.8°C。<br>享受今年第二长的假期！（）</p>
+<span id="more"></span>
+<p>怎么发烧之后 Malody 水平还上升了。</p>
+<p><img src="https://z4a.net/images/2022/12/21/2dan-.png" alt=""></p>
+<p>2dan 叠甚至能不暂停达到 ACC 98.25%。以往 40s 拍砖按 10s 就耐力不足了，真的是飞升。</p>
+<p><img src="https://z4a.net/images/2022/12/21/3dan-.png" alt=""></p>
+<p>甚至 3dan 技都直接糊过去了。好耶。<br>但是 3dan 还是打不了，悲。明天我将尝试三带一起飞（？）</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -347,45 +368,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.12.22</title>
-    <url>/2022.12.22/</url>
-    <content><![CDATA[<p>半夜时分发烧到四十度。<br>于是乎背诵《琵琶行》和《登泰山记》，前者漏了好多句话/kk</p>
-<span id="more"></span>
-<p>然后在 Powerless233 的安利下开始玩 pjsk。<del>为什么 Powerless233 给我安利了这么多游戏。</del><br>好复杂的系统，感觉 Malody 要干净多了。不过都是术曲让人开心死了。</p>
-<p>顺带一提今天被 Powerless233 锐评：</p>
-<p><img src="https://z4a.net/images/2022/12/22/6d8432b9d1d5be0440a105f7227dbb2a.png" alt=""></p>
-<p>呜呜呜。</p>
-<p>然后把日记摘录更新了，终于是赶上了现在的进度。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.12.30</title>
-    <url>/2022.12.30/</url>
-    <content><![CDATA[<p>最近沉迷于 pjsk 剧情。看上去好像有好多要补的。<br>今天把 WS 的主线给看掉了，评价是非常喜剧（？）<br>然后接着看了一些活动剧情。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.12.21</title>
-    <url>/2022.12.21/</url>
-    <content><![CDATA[<p>回家了回家了耶耶耶，烧到了 37.9°C，过了一会儿甚至烧到 38.8°C。<br>享受今年第二长的假期！（）</p>
-<span id="more"></span>
-<p>怎么发烧之后 Malody 水平还上升了。</p>
-<p><img src="https://z4a.net/images/2022/12/21/2dan-.png" alt=""></p>
-<p>2dan 叠甚至能不暂停达到 ACC 98.25%。以往 40s 拍砖按 10s 就耐力不足了，真的是飞升。</p>
-<p><img src="https://z4a.net/images/2022/12/21/3dan-.png" alt=""></p>
-<p>甚至 3dan 技都直接糊过去了。好耶。<br>但是 3dan 还是打不了，悲。明天我将尝试三带一起飞（？）</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.12.28</title>
     <url>/2022.12.28/</url>
     <content><![CDATA[<p>无论怎么听歌最终总会绕回<a href="https://music.163.com/song?id=4886068">快乐合成器</a>。<br>又回来了，我该如何逃出这莫比乌斯之环？</p>
@@ -394,18 +376,6 @@
 <p>又打了好几天的 pjsk，发现完全失去 4k 能力。又退化到 1dan 水平了，哼啊啊啊啊啊。<br>等下我又会了，感谢 Powerless233 告诉我要把手给抬起来打，底力大幅提升。<br>3dan 切好像有点会打了。</p>
 <p><img src="https://z4a.net/images/2022/12/28/-3dan-.png" alt=""></p>
 <p>今天二刷完了《少女*领域》，是结束了 Kazari 线，前两天分别是 Hinata 线和 Yuzu 线，和最初的打法反着来。<br>阅读文本速度甚至比第一次打的时候还要慢。真的是想仔细感受这美好的故事呢。<br>Hinata 线至今仍是我觉得做的最好的 galgame 路线。又重新被刀了一次呜呜呜。<br>然后接下来是《糖调》的二刷计划，Kori 我来了（）</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.12.4</title>
-    <url>/2022.12.4/</url>
-    <content><![CDATA[<p>周末回来了，以及这几天 OI 班被拉出来大力单独补课。不用月考了耶耶耶。<br>但是还有期末考。真是令人悲伤的事情。    </p>
-<span id="more"></span>
-<p>闲着没事开着双难速通了一个只狼的六周目档，复归常人结局。<br>被三年前义父前面那个大胖子在一丝血的情况下打死两次是什么鬼啊。人给气炸了。<br>话说战神 5 都快发售一个月了，我还是没得玩，也不知道老爸什么时候才会买。<br>等等等等打住，现在是 whk 时间，不能打太多游戏。暂且把许多的颓废活动安排到寒假吧。<br><del>我觉得上面这句话仅限于脑内革命而无法实践于行动中。</del></p>
-<p>关于最近的创作想法。好久没写东西了不是吗？<br>ths 有一个关于日记的想法。我是对此赞成的，至少我曾有过类似的“伪日记”，虽然从未实施。<br><del>那个选择拿来当伪日记的本子现在是我的日志 1。真是奇妙。</del><br>我则有关于“命中注定的对决”的想法。像是乔纳森和迪奥，BLACK 和影月，铠武和巴隆。<br>目前的思路是扩展到了“勇者斗恶龙”上面……？</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -429,6 +399,65 @@
     <title>2022.12.31</title>
     <url>/2022.12.31/</url>
     <content><![CDATA[<p>2022 年的最后一天，结果是睡到十二点才醒的。昨晚写数学作业写着写着就睡着了是怎么一回事。<br>我是否应该发表一些年终感言之类的，不过还是算了吧。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.12.30</title>
+    <url>/2022.12.30/</url>
+    <content><![CDATA[<p>最近沉迷于 pjsk 剧情。看上去好像有好多要补的。<br>今天把 WS 的主线给看掉了，评价是非常喜剧（？）<br>然后接着看了一些活动剧情。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.12.4</title>
+    <url>/2022.12.4/</url>
+    <content><![CDATA[<p>周末回来了，以及这几天 OI 班被拉出来大力单独补课。不用月考了耶耶耶。<br>但是还有期末考。真是令人悲伤的事情。    </p>
+<span id="more"></span>
+<p>闲着没事开着双难速通了一个只狼的六周目档，复归常人结局。<br>被三年前义父前面那个大胖子在一丝血的情况下打死两次是什么鬼啊。人给气炸了。<br>话说战神 5 都快发售一个月了，我还是没得玩，也不知道老爸什么时候才会买。<br>等等等等打住，现在是 whk 时间，不能打太多游戏。暂且把许多的颓废活动安排到寒假吧。<br><del>我觉得上面这句话仅限于脑内革命而无法实践于行动中。</del></p>
+<p>关于最近的创作想法。好久没写东西了不是吗？<br>ths 有一个关于日记的想法。我是对此赞成的，至少我曾有过类似的“伪日记”，虽然从未实施。<br><del>那个选择拿来当伪日记的本子现在是我的日志 1。真是奇妙。</del><br>我则有关于“命中注定的对决”的想法。像是乔纳森和迪奥，BLACK 和影月，铠武和巴隆。<br>目前的思路是扩展到了“勇者斗恶龙”上面……？</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.1.2</title>
+    <url>/2023.1.2/</url>
+    <content><![CDATA[<p>我没有发表年终感言也没发表年初感言，不愧是我。因为无话可说。<br>现在的我可真是空虚。该用什么重新填满自己呢？</p>
+<span id="more"></span>
+<p>今天晚上的甲亢非常逆天。具体表现为：   </p>
+<p>突然爆发的 4dan 技。</p>
+<p><img src="https://z4a.net/images/2023/01/02/4dan-6a732ef0b22c6256.png" alt=""></p>
+<p>突然爆发的 4dan 切。</p>
+<p><img src="https://z4a.net/images/2023/01/02/4dan-29c7e4c615d82b43.png" alt=""></p>
+<p>突然爆发的无暂停 4dan 叠。</p>
+<p><img src="https://z4a.net/images/2023/01/02/4dan-.png" alt=""></p>
+<p>以及，打了两次才成功的，无限暂停过 4dan。</p>
+<p><img src="https://z4a.net/images/2023/01/02/4dan.png" alt=""></p>
+<p>这绝对是甲亢了好吧。不愧是我。<br>虽然但是，这个还不能算是过 4dan，等底力真正上来能够无暂停过后我才能真正认可自己。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.1.4</title>
+    <url>/2023.1.4/</url>
+    <content><![CDATA[<p>然后我又掉到了落日之中，被血红色的光芒包围而燃烧着。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.12.18</title>
+    <url>/2022.12.18/</url>
+    <content><![CDATA[<p>活字乱刷术做好了。<del>学会了如何使用 PR。</del><br>最终成果大致就是这个了。<a href="https://github.com/DimlyL/BlogFile/raw/main/2022.12.18/%E6%B4%BB%E5%AD%97%E4%B9%B1%E5%88%B7%E6%9C%AF.mp4">link</a>。<br>希望大家能够不要嘲讽我的低技术力（悲）。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -584,8 +613,8 @@
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 525 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path></g></g></g></svg></mjx-container></td>
 <td style="text-align:center"><a href="/2023.1.2"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 525 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="red" stroke="red"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path></g></g></g></g></svg></mjx-container></a></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 525 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z"></path></g></g></g></svg></mjx-container></td>
-<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.412ex" role="img" focusable="false" viewBox="0 -624 525 624"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FA" d="M235 1Q213 10 213 32V38V46Q213 65 230 73Q236 76 274 76H314V168H183L52 169Q37 175 33 182T29 205V218L30 244Q53 283 155 443T264 613Q276 623 298 623H323H363Q378 616 385 601V244H429H450Q474 244 484 237T495 206Q495 179 477 171Q471 168 429 168H385V76H425H442Q466 76 476 69T487 38Q487 10 465 1H235ZM314 244V554L117 245L215 244H314Z"></path></g></g></g></svg></mjx-container></td>
-<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.405ex" role="img" focusable="false" viewBox="0 -611 525 621"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FB" d="M387 189Q387 244 354 278T273 313Q230 313 205 301T163 271T138 249H120Q102 249 97 251Q85 258 83 266T80 311Q80 320 80 359T81 430Q81 587 82 591Q88 605 103 610H108Q112 610 120 610T138 610T163 610T192 611T225 611T260 611H415Q416 610 421 607T428 602T432 596T436 587T437 573Q437 567 437 562T434 554T431 548T427 543T423 540T418 538L415 536L289 535H164V363L170 366Q175 368 184 372T207 380T238 386T276 389Q357 389 414 331T472 187Q472 116 412 53T245 -10Q218 -10 209 -9Q126 5 89 48T52 137Q52 164 68 177T104 191Q130 191 143 175T156 141Q156 132 154 125T149 113T146 107Q146 104 155 95T188 76T245 65Q298 65 342 98T387 189Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><a href="/2023.1.4"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.412ex" role="img" focusable="false" viewBox="0 -624 525 624"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="red" stroke="red"><g data-mml-node="mtext"><path data-c="1D7FA" d="M235 1Q213 10 213 32V38V46Q213 65 230 73Q236 76 274 76H314V168H183L52 169Q37 175 33 182T29 205V218L30 244Q53 283 155 443T264 613Q276 623 298 623H323H363Q378 616 385 601V244H429H450Q474 244 484 237T495 206Q495 179 477 171Q471 168 429 168H385V76H425H442Q466 76 476 69T487 38Q487 10 465 1H235ZM314 244V554L117 245L215 244H314Z"></path></g></g></g></g></svg></mjx-container></a></td>
+<td style="text-align:center"><a href="/2023.1.5"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.405ex" role="img" focusable="false" viewBox="0 -611 525 621"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="red" stroke="red"><g data-mml-node="mtext"><path data-c="1D7FB" d="M387 189Q387 244 354 278T273 313Q230 313 205 301T163 271T138 249H120Q102 249 97 251Q85 258 83 266T80 311Q80 320 80 359T81 430Q81 587 82 591Q88 605 103 610H108Q112 610 120 610T138 610T163 610T192 611T225 611T260 611H415Q416 610 421 607T428 602T432 596T436 587T437 573Q437 567 437 562T434 554T431 548T427 543T423 540T418 538L415 536L289 535H164V363L170 366Q175 368 184 372T207 380T238 386T276 389Q357 389 414 331T472 187Q472 116 412 53T245 -10Q218 -10 209 -9Q126 5 89 48T52 137Q52 164 68 177T104 191Q130 191 143 175T156 141Q156 132 154 125T149 113T146 107Q146 104 155 95T188 76T245 65Q298 65 342 98T387 189Z"></path></g></g></g></g></svg></mjx-container></a></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 525 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FC" d="M357 536Q357 546 318 546Q258 546 205 497T133 357V353L144 361Q210 402 285 402Q362 402 414 350Q479 285 479 193Q479 111 418 50T263 -11Q234 -11 207 -3T149 26T97 81T60 171T45 301Q45 444 129 533T319 622Q388 622 421 589T454 510Q454 491 442 475T402 458Q373 458 362 475T350 510Q350 520 354 528L357 536ZM319 326T269 326T179 298T136 223Q136 202 143 174T176 112T237 68Q246 66 265 66Q319 66 360 107Q395 146 395 197Q395 250 356 289Q319 326 269 326Z"></path></g></g></g></svg></mjx-container></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.441ex" role="img" focusable="false" viewBox="0 -627 525 637"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FD" d="M204 -10Q162 -10 162 40Q162 146 198 261T310 477Q311 478 321 491T342 517T358 535H128V524Q128 506 119 497Q111 489 86 489H78Q55 489 46 508Q44 513 44 557V580Q44 605 52 616T88 627H93Q114 627 125 611H458Q474 598 477 593T480 573Q480 559 478 553T469 543T446 521T408 477Q252 290 246 49Q246 43 246 37T246 27T245 22Q243 11 233 1T204 -10Z"></path></g></g></g></svg></mjx-container></td>
 </tr>
@@ -634,20 +663,14 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.1.2</title>
-    <url>/2023.1.2/</url>
-    <content><![CDATA[<p>我没有发表年终感言也没发表年初感言，不愧是我。因为无话可说。<br>现在的我可真是空虚。该用什么重新填满自己呢？</p>
+    <title>2023.1.5</title>
+    <url>/2023.1.5/</url>
+    <content><![CDATA[<p>今天开了《献给神明般的你 EX》的新坑。首先把月咏线通掉了。真的是 HAPPY END 呢。<br>月咏治愈了我在亚托莉那里收到的刀子（）快说：谢谢你，月咏（）</p>
 <span id="more"></span>
-<p>今天晚上的甲亢非常逆天。具体表现为：   </p>
-<p>突然爆发的 4dan 技。</p>
-<p><img src="https://z4a.net/images/2023/01/02/4dan-6a732ef0b22c6256.png" alt=""></p>
-<p>突然爆发的 4dan 切。</p>
-<p><img src="https://z4a.net/images/2023/01/02/4dan-29c7e4c615d82b43.png" alt=""></p>
-<p>突然爆发的无暂停 4dan 叠。</p>
-<p><img src="https://z4a.net/images/2023/01/02/4dan-.png" alt=""></p>
-<p>以及，打了两次才成功的，无限暂停过 4dan。</p>
-<p><img src="https://z4a.net/images/2023/01/02/4dan.png" alt=""></p>
-<p>这绝对是甲亢了好吧。不愧是我。<br>虽然但是，这个还不能算是过 4dan，等底力真正上来能够无暂停过后我才能真正认可自己。</p>
+<p>但是还是先刀后糖，no way。还是祝贺月咏成为我的下一任老婆（）<br>这个月咏线打下来感觉极好，无论什么方面都很优秀。不过查阅相关资料听说其他线路剧情很有问题，先等着。<br>虽然在自己打的时候也多多少少感觉剧情方面存在一些细节 BUG，比如月咏自爆的原因是“听说 C-AI 的消息”而来的，但此时她早就断网了，但是这种觉得并不影响整体，情绪渲染的还是很到位的。<br>貌似整个游戏体量巨大，还存在什么通关全游戏后二周目出新选项这种东西，很神秘。<br>另外你们学校里都是些什么人才啊。两个世界顶级黑客、两个爆红偶像、一个侦探和一个觉醒了爱情的 AI。也太离谱了吧。</p>
+<p>（搞了很久都没能成功拆包，下面的 CG 是自己截图的，画质不够。）</p>
+<p><img src="https://z4a.net/images/2023/01/05/693d20bce38164e3926053b67edd6138.png" alt=""></p>
+<p><img src="https://z4a.net/images/2023/01/05/20c65ce0f9f1ebf79.png" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
