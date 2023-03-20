@@ -28,19 +28,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.14</title>
-    <url>/2022.11.14/</url>
-    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
-<span id="more"></span>
-<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
-<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.11.15</title>
     <url>/2022.11.15/</url>
     <content><![CDATA[<p>好像说以后机房每天晚上都关电脑了。<br>那岂不是每天早上都要花半小时装一大堆安装包，尤其是这个 Hexo 博客老是搭不起来。</p>
@@ -54,12 +41,38 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.11.14</title>
+    <url>/2022.11.14/</url>
+    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
+<span id="more"></span>
+<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
+<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2022.11.16</title>
     <url>/2022.11.16/</url>
     <content><![CDATA[<p>今天早上我真的装了半个小时的安装包。草。<br>尤其是这个 npm 怎么老是挂掉连不上，开了镜像才能下东西。</p>
 <span id="more"></span>
 <p>常常抓右手食指上的包的最终结果是它破了。血流成河。<br>我发现这里出血量极大，十分钟停不下的那种，而且就算凝结了稍微碰一下又破了。<br>今天共计破了三次。释放的快感（雾）。<br>然后 2 号机房怎么人突然变那么多了（悲）。       </p>
 <p>另外一件事情是我发现我最近开始变得魔怔（大喜）。“你说得对”的频率高达 114514%！<br>真的是万能回复呢（主要是很多时候我真的不知道回答别人什么）。<br>再有一件事情是我发现我最近开始比较喜欢打扫卫生（？）。<br>为什么会这样啊，我也不知道，或许是寝室里根本没人值日的原因。<br>那么之前代替 zhaoyp 成为寝室长的政变是非常正确的，把寝室平均分拉高了 0.2。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.11.17</title>
+    <url>/2022.11.17/</url>
+    <content><![CDATA[<p>我的颈椎啊。它要断了。</p>
+<span id="more"></span>
+<p>今天没图。</p>
+<p>然后花了两个小时写掉了 <a href="https://www.luogu.com.cn/problem/CF666E">CF666E Forensic Examination</a>，但是颈椎还是一样。<br>最近早上从床上起来时总有一种四肢抽离浑身散架的感觉。<br>其实从初中就已经有这种现象了吧，不知道是不是都是这样的。<br>还有最近脚底巨痒，感觉都要磨出什么不好的东西了。这是坏的。</p>
+<p>说起来今天早上大概五点四十就出门了，只是因为昨天 chaotic 大清早爬出来的缘故。内卷。<br>然后因为我没有拖地寝室喜提 5.5 分（及格线 5.8 分）。果然没有我不行（恼怒）。<br>听到没有 zhaoyp，快扫地。@<a href="https://www.luogu.com.cn/user/302636">zhaoyp</a>。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -86,19 +99,6 @@
 <p>然后推星空列车与白的旅行。<br>以前就听说过这个 gal，然后被 Powerless233 安利了于是推。<br>还在前半段剧情，治愈的。接着被评价为在不适当的时机暂停了游戏。<br>目前剧情感觉良好。看后面有多刀了。</p>
 <p>↓高捷少女，图文无关。</p>
 <p><img src="https://cdn.luogu.com.cn/upload/image_hosting/3dx53w04.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.11.17</title>
-    <url>/2022.11.17/</url>
-    <content><![CDATA[<p>我的颈椎啊。它要断了。</p>
-<span id="more"></span>
-<p>今天没图。</p>
-<p>然后花了两个小时写掉了 <a href="https://www.luogu.com.cn/problem/CF666E">CF666E Forensic Examination</a>，但是颈椎还是一样。<br>最近早上从床上起来时总有一种四肢抽离浑身散架的感觉。<br>其实从初中就已经有这种现象了吧，不知道是不是都是这样的。<br>还有最近脚底巨痒，感觉都要磨出什么不好的东西了。这是坏的。</p>
-<p>说起来今天早上大概五点四十就出门了，只是因为昨天 chaotic 大清早爬出来的缘故。内卷。<br>然后因为我没有拖地寝室喜提 5.5 分（及格线 5.8 分）。果然没有我不行（恼怒）。<br>听到没有 zhaoyp，快扫地。@<a href="https://www.luogu.com.cn/user/302636">zhaoyp</a>。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -300,15 +300,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.12.20</title>
-    <url>/2022.12.20/</url>
-    <content><![CDATA[<p>星光又发新专了，我要爽死。<br>都去听！<a href="https://music.163.com/#/album?id=156837632">the Grimoire of Starlight 02 : Forever Mapledise</a>。<br>感觉上像是阳了，一直在大力咳嗽，不过等明天展示活字乱刷术之后再撤离学校为好。<br>摆烂，赫赫。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.12.19</title>
     <url>/2022.12.19/</url>
     <content><![CDATA[<p>继续在学校里写闲话，但是由于梯子挂了所以就没法上传。周末再上传的说。<br>虽然但是，貌似也没什么闲话好写的，毕竟都是 whk 和疫情。<br>怎么回事，我为什么还没有阳。</p>
@@ -319,6 +310,15 @@
 </blockquote>
 <p>然后想了半天连第一句都没想到用什么调，败北了。</p>
 <p>希望能够早点回家www。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.12.20</title>
+    <url>/2022.12.20/</url>
+    <content><![CDATA[<p>星光又发新专了，我要爽死。<br>都去听！<a href="https://music.163.com/#/album?id=156837632">the Grimoire of Starlight 02 : Forever Mapledise</a>。<br>感觉上像是阳了，一直在大力咳嗽，不过等明天展示活字乱刷术之后再撤离学校为好。<br>摆烂，赫赫。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -707,17 +707,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.2.26</title>
-    <url>/2023.2.26/</url>
-    <content><![CDATA[<p>昨天回家后干碎妹抱 2 的茜线和琥珀线，今天干碎澄线和后宫线，在妹吻之后妹抱的故事也结束了呜呜呜。<br>Tinkle Position，让我们一起重建罗马吧！（雾）快给爷出妹吻和妹抱的第三部。我才不要 Grand Finale 和 Congratulations。We’ll go on！<br>给两个游戏拍了许久未见的全家福。<del>拍完我才发现我好像把妹吻家的妈给忘了。</del><br>妹抱使用手机截图的所以清晰度低的一批，改日再直接导出留作纪念。（2.27：已换源）<br>果然我已经彻彻底底地倒向了废萌。接下来是童贞兄妹了，Sister Position 见。</p>
-<p><img src="https://z4a.net/images/2023/02/26/af4138195a36a26707ed77cc354bb0b0.png" alt=""></p>
-<script type="math/tex; mode=display">\small\texttt{妹吻（四人为接吻时表情）}</script><p><img src="https://z4a.net/images/2023/02/27/e4a71ed47ba974fb45b59101a8286a7f.png" alt=""></p>
-<script type="math/tex; mode=display">\small\texttt{妹抱（不知道统一什么就用了同一个表情）}</script>]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.2.27</title>
     <url>/2023.2.27/</url>
     <content><![CDATA[<p>花了两个小时给妹抱立绘抠图，最后做了这么一张合照，Tinkle Position 最终纪念。</p>
@@ -728,10 +717,12 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.2.28</title>
-    <url>/2023.2.28/</url>
-    <content><![CDATA[<p>昨天的我躺在床上回忆了时间之巅的所有故事，从它还是个雏形开始，走出了红色的基地，经历了欢笑和离别，于飞翔在天空中的梦里猛然惊醒，随后删除存档抛弃一切执念再次陷入梦中。<br>但那执念是不会消灭的，无数的梦境叠加逐渐构造出了那三人之间的永恒的爱。随着梦境醒来，从这一点出发，映射出了由平行世界组成的漫天星空。施展奥义、戴上面具、穿梭时空、崩坏重组、虚无主义、彩虹之间、再次坠落、失去梦境、文件海洋、傀儡情感、记忆回显、循环结局……<br>从时间之巅上跳下去的话，一切都停止了。但是时律知道，到目前为止这还没有发生。<br>无限重生的故事之后，回过头来的紫维露出了微笑。<br>时幻，我的故事和你一样，永远也不会结束啊！</p>
-]]></content>
+    <title>2023.2.26</title>
+    <url>/2023.2.26/</url>
+    <content><![CDATA[<p>昨天回家后干碎妹抱 2 的茜线和琥珀线，今天干碎澄线和后宫线，在妹吻之后妹抱的故事也结束了呜呜呜。<br>Tinkle Position，让我们一起重建罗马吧！（雾）快给爷出妹吻和妹抱的第三部。我才不要 Grand Finale 和 Congratulations。We’ll go on！<br>给两个游戏拍了许久未见的全家福。<del>拍完我才发现我好像把妹吻家的妈给忘了。</del><br>妹抱使用手机截图的所以清晰度低的一批，改日再直接导出留作纪念。（2.27：已换源）<br>果然我已经彻彻底底地倒向了废萌。接下来是童贞兄妹了，Sister Position 见。</p>
+<p><img src="https://z4a.net/images/2023/02/26/af4138195a36a26707ed77cc354bb0b0.png" alt=""></p>
+<script type="math/tex; mode=display">\small\texttt{妹吻（四人为接吻时表情）}</script><p><img src="https://z4a.net/images/2023/02/27/e4a71ed47ba974fb45b59101a8286a7f.png" alt=""></p>
+<script type="math/tex; mode=display">\small\texttt{妹抱（不知道统一什么就用了同一个表情）}</script>]]></content>
       <categories>
         <category>神秘</category>
       </categories>
@@ -768,6 +759,15 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.2.28</title>
+    <url>/2023.2.28/</url>
+    <content><![CDATA[<p>昨天的我躺在床上回忆了时间之巅的所有故事，从它还是个雏形开始，走出了红色的基地，经历了欢笑和离别，于飞翔在天空中的梦里猛然惊醒，随后删除存档抛弃一切执念再次陷入梦中。<br>但那执念是不会消灭的，无数的梦境叠加逐渐构造出了那三人之间的永恒的爱。随着梦境醒来，从这一点出发，映射出了由平行世界组成的漫天星空。施展奥义、戴上面具、穿梭时空、崩坏重组、虚无主义、彩虹之间、再次坠落、失去梦境、文件海洋、傀儡情感、记忆回显、循环结局……<br>从时间之巅上跳下去的话，一切都停止了。但是时律知道，到目前为止这还没有发生。<br>无限重生的故事之后，回过头来的紫维露出了微笑。<br>时幻，我的故事和你一样，永远也不会结束啊！</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.3.1</title>
     <url>/2023.3.1/</url>
     <content><![CDATA[<p>我要成为 DimlyP（迫真），开始用 V4C 去调班歌，《永远都会在》的 Cover。<br>我中文歌听得很少，但觉得原曲不错，班级里改词也很好。关于 OI 的那段词「文件输入流 根号又重构 代码运行的出口」究竟是谁填的呢。<br>反正我是在网上搜到了原曲的 MIDI，直接导入 V4 开始填词。现在才填了一半。<br>等我明天填完词开始调细节。<br>好像合唱是下周，但是据说我又要外出停课，所以没法去唱，就让 Miku 代我唱吧（恼）</p>
@@ -784,24 +784,6 @@
 <p>不过说实在的，这些痛苦的事情起码都不算讨厌，尤其是时巅 5，我还是想把它写好的，如果可能的话。</p>
 <p>就根据我目前的整体剧情规划来看，好像九上时我一个月的工作完成了全部内容的四分之一，写了大概两万字吧，可能不到。</p>
 <p>问题不大。这一回我再写两万字再弃坑，过个两年我又想起来这回事再写两万字，再过两年我又想起来这回事就把它写完了。这多好。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.3.14</title>
-    <url>/2023.3.14/</url>
-    <content><![CDATA[<p>打妹禁手，并且干碎了亚由香线。下一个就是你了，妹尾枫！<br>由于和少女领域里的日向是一个 cv 所以很期待，并且也是已经熟悉了的三妹傲娇风格。<br>但是我偷偷地去月幕上面查了一下那个问题：Tinkle Position 和 Galette 到底是什么关系？</p>
-<p><img src="https://z4a.net/images/2023/03/14/TP.png" alt="">   </p>
-<p>我只能查到 TP 是从 Galette 里面分裂出来的，但这到底是怎么一回事呢。<br>在我没有任何直接性的资料的时候，我要根据已有的线索进行一波分析！</p>
-<ul>
-<li>妹禁手 1：2014 年</li>
-<li>妹吻 1：2016 年</li>
-<li>妹吻 2：2017 年</li>
-<li>妹禁手 2：2017 年</li>
-</ul>
-<p>可以看到妹吻其实是在妹禁手 1 后，妹禁手 2 前的。<br>并且已知妹禁手 2 画师和 cv 全都大换血，很可以得出 Galette 的原本的主要成员，包括像 K 子那类画师全都跑路去 Tinkle Position 了，妹禁手 2 只是 Galette 分崩离析的残余，最后的挣扎，并且说这一部做的也很烂。Galette 确实在妹禁手 2 之后就没有作品了。<br>虽然后面 Tinkle Position 又解散了，但是 Sister Position 又回来了，这一群人真的是各种分分合合啊，快把更多的妹系 galgame 端上来罢（）<br>暂时是玩不到 SP 社的新作品了吧，童贞兄妹毕竟大概是半年以前发出来的，好像已经有 DLC（APPEND）了，看上去也不像是能出续作的类型，可能还要再等一两年做一个全新的故事出来。<br>但是还有一个现实的问题在我眼前，就是我把妹禁手 1 推完后，明明已经知道妹禁手 2 的制作很垃，是否还要去把它给干碎。我需要好好考虑一下。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -831,10 +813,27 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.3.18</title>
-    <url>/2023.3.18/</url>
-    <content><![CDATA[<p>昨天月考结束<del>（虽然我并没有考。）</del>班级里团建，我顶着巨卡的 PS4 直接开只狼速通，从新档打到修罗结局最终 BOSS，可惜没能够通关。<br>最后还有个颁奖典礼，我因为之前的<a href="/2022.12.18">活字乱刷术</a>获得了十分满意的奖品！所有人都知道我是二次元了（大悲）不过这可是深夜内卷的利器啊。</p>
-<p><img src="https://z4a.net/images/2023/03/18/1f6f6fb48f12ea360c154556d52bd00b.jpg" alt=""></p>
+    <title>2023.3.14</title>
+    <url>/2023.3.14/</url>
+    <content><![CDATA[<p>打妹禁手，并且干碎了亚由香线。下一个就是你了，妹尾枫！<br>由于和少女领域里的日向是一个 cv 所以很期待，并且也是已经熟悉了的三妹傲娇风格。<br>但是我偷偷地去月幕上面查了一下那个问题：Tinkle Position 和 Galette 到底是什么关系？</p>
+<p><img src="https://z4a.net/images/2023/03/14/TP.png" alt="">   </p>
+<p>我只能查到 TP 是从 Galette 里面分裂出来的，但这到底是怎么一回事呢。<br>在我没有任何直接性的资料的时候，我要根据已有的线索进行一波分析！</p>
+<ul>
+<li>妹禁手 1：2014 年</li>
+<li>妹吻 1：2016 年</li>
+<li>妹吻 2：2017 年</li>
+<li>妹禁手 2：2017 年</li>
+</ul>
+<p>可以看到妹吻其实是在妹禁手 1 后，妹禁手 2 前的。<br>并且已知妹禁手 2 画师和 cv 全都大换血，很可以得出 Galette 的原本的主要成员，包括像 K 子那类画师全都跑路去 Tinkle Position 了，妹禁手 2 只是 Galette 分崩离析的残余，最后的挣扎，并且说这一部做的也很烂。Galette 确实在妹禁手 2 之后就没有作品了。<br>虽然后面 Tinkle Position 又解散了，但是 Sister Position 又回来了，这一群人真的是各种分分合合啊，快把更多的妹系 galgame 端上来罢（）<br>暂时是玩不到 SP 社的新作品了吧，童贞兄妹毕竟大概是半年以前发出来的，好像已经有 DLC（APPEND）了，看上去也不像是能出续作的类型，可能还要再等一两年做一个全新的故事出来。<br>但是还有一个现实的问题在我眼前，就是我把妹禁手 1 推完后，明明已经知道妹禁手 2 的制作很垃，是否还要去把它给干碎。我需要好好考虑一下。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.3.20</title>
+    <url>/2023.3.20/</url>
+    <content><![CDATA[<p>我开始打多娜多娜，久闻大名的业界神作。打到 DAY56，剧情是到刚刚把梅蒂可从医院里救出来避免 NTR，想要推的是绮菈绮菈，好感度升到七级了都。<br>目前玩来，这个故事给我的感受是：「黑暗的人们用着黑暗的方式反抗着最为黑暗的社会」。这个游戏里，关于春销的部分有很多小剧情，其中第一个有小剧情的角色衣缝给了我很大的震撼。<br>衣缝原本是高二 JK，受着亚的教育催眠所害，在春销过程中对于世界的认知逐渐崩溃，发现了其黑暗的真面目。在她质问阿熊，认为他们反亚组织以春销作为手段赚钱同样也很黑暗之时，阿熊那做好了在亚毁灭的第二天被神明杀死的觉悟让我在某种方面肃然起敬。或许作为地下组织，他们同样是黑暗的，甚至可能更加黑暗，做着更加惨无人道的事情，但这一切都是为了反亚而做准备。<br>当然，这些反亚组织的春销做法在某种意义上确实违反人类道德，这又是一个无法解决的问题。还是那句话，一款小黄油能有如此深度，让我不得不佩服了……等下多娜多娜可是大黄油。<br>到目前为止多娜多娜我可以打满分。无论是剧情（前面有提，并且逻辑自洽，很好地埋许多伏笔）、音乐（他妈的 0dan map-2，我手疼了）、美术（赛博朋克风，完全喷射，并且 H scene 巨大的多）、游戏性（战斗难度适中、不需要刻意刷怪，部分角色设计很有意思，比如菊千代和爱丽丝两个角色都是高输出但是分别只能近战和远战）、人物（一大堆妹子，无论是什么 xp 总有一个满足你，cv 满分还有一大堆认识的）。主播有玩 HATIENAI RPG 时那种兴奋感了。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -861,26 +860,11 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.3.3</title>
-    <url>/2023.3.3/</url>
-    <content><![CDATA[<p>发现昨天 NOI 关于省选的通知，确定是全国统一省选了。对于身处浙江的我算是个好消息吧。<br>真的还有一个月省选了，身边的有全力冲刺的高二预备队爷阿丑和开摆了学 whk 的天才 lpz，不知道自己身处一个何种境地，但是现在我还站……坐在这里，写着所谓的闲话一类的东西。<br>还是像当时 NOIP 一样地对于身边的人感到遗憾，至少对于 chaotic 的 NOIP 滑铁卢是这样的，我觉得无论是天赋还是努力他都要比我多一倍，只有运气差了那一截。类似的还有麻神。<br>感觉自己并没有什么实力，只是一路侥幸地走到这里的吗。通常说走进浙江省队就相当于能摸到 Au 了，所以面前的相当于是最后一关了吗。<br>毕竟是学长，集集应该很急，我也很急，我也想进队，但我最后能够做到吗。<br>又通常说，与其思考这些还不如做题……无所谓，已经有脑震荡的感觉了！<br>我还是必须把这些写在这里，这个我所定义的垃圾桶，好让我心里的各种情绪有地方装。<br>当我想到省选的时候，总感觉那是一个站在我面前的巨人，带给我同样感觉的是 5dan 切那个死也过不去的坎，但愿我最后都能够跨过。<br>命运啊，拿来吧你！</p>
-<p><img src="https://z4a.net/images/2023/03/03/6d30d34eb04749a4bf9da48fc8f81b65.png" alt=""></p>
+    <title>2023.3.18</title>
+    <url>/2023.3.18/</url>
+    <content><![CDATA[<p>昨天月考结束<del>（虽然我并没有考。）</del>班级里团建，我顶着巨卡的 PS4 直接开只狼速通，从新档打到修罗结局最终 BOSS，可惜没能够通关。<br>最后还有个颁奖典礼，我因为之前的<a href="/2022.12.18">活字乱刷术</a>获得了十分满意的奖品！所有人都知道我是二次元了（大悲）不过这可是深夜内卷的利器啊。</p>
+<p><img src="https://z4a.net/images/2023/03/18/1f6f6fb48f12ea360c154556d52bd00b.jpg" alt=""></p>
 ]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.3.7</title>
-    <url>/2023.3.7/</url>
-    <content><![CDATA[<p>你说得对，但是我从昨天开始顶着翻译器打妹禁手了。第一印象朝日+真昼+弥生+……澄？的组合。<br>由于没有翻译我就机翻了，机翻给我四个人的名字分别是画眉、亚由香、枫、雪，我暂时就这么叫。<br>我这两天先是把画眉给干碎了。怎么觉得画眉是稍微小一点的朝日呢。不仅 cv 是同一个而且立绘表情什么的都极其相似，甚至有极度相似的搭肩膀 CG，不愧是你。<br>出现了，长女被钻内裤的传统艺能！这到底是怎么一回事！</p>
-<span id="more"></span>
-<p><img src="https://z4a.net/images/2023/03/07/198dd87517cff1b54.md.png" alt=""></p>
-<script type="math/tex; mode=display">\small\texttt{妹禁手1}</script><script type="math/tex; mode=display">\small\texttt{妹禁手2：还没玩}</script><p><img src="https://z4a.net/images/2023/03/07/1f4a589c435c895a8.md.png" alt=""></p>
-<script type="math/tex; mode=display">\small\texttt{妹吻1}</script><p><img src="https://z4a.net/images/2023/03/07/22dcdc7c426ba9745.md.png" alt=""></p>
-<script type="math/tex; mode=display">\small\texttt{妹吻2}</script><p><img src="https://z4a.net/images/2023/03/07/106fcd6f6501b0003.md.png" alt=""></p>
-<script type="math/tex; mode=display">\small\texttt{妹抱1}</script><p><img src="https://z4a.net/images/2023/03/07/209ba5f4664870ad9.md.png" alt=""></p>
-<script type="math/tex; mode=display">\small\texttt{妹抱2}</script>]]></content>
       <categories>
         <category>神秘</category>
       </categories>
@@ -895,11 +879,10 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.3.9</title>
-    <url>/2023.3.9/</url>
-    <content><![CDATA[<p>今天是最后的大合唱。故事就在我站上台时达到了高潮。<br>我唱的真的很尽兴。这是多美妙的故事啊。</p>
-<p>区区 29 级六兆年 ex，被我双指轻松 fc，真的被我瞧不起了！<br><del>虽然是带了五张判卡强行草过去的，但我终于学会接纵连了。</del></p>
-<p><img src="https://z4a.net/images/2023/03/09/ex-fc.jpg" alt=""></p>
+    <title>2023.3.3</title>
+    <url>/2023.3.3/</url>
+    <content><![CDATA[<p>发现昨天 NOI 关于省选的通知，确定是全国统一省选了。对于身处浙江的我算是个好消息吧。<br>真的还有一个月省选了，身边的有全力冲刺的高二预备队爷阿丑和开摆了学 whk 的天才 lpz，不知道自己身处一个何种境地，但是现在我还站……坐在这里，写着所谓的闲话一类的东西。<br>还是像当时 NOIP 一样地对于身边的人感到遗憾，至少对于 chaotic 的 NOIP 滑铁卢是这样的，我觉得无论是天赋还是努力他都要比我多一倍，只有运气差了那一截。类似的还有麻神。<br>感觉自己并没有什么实力，只是一路侥幸地走到这里的吗。通常说走进浙江省队就相当于能摸到 Au 了，所以面前的相当于是最后一关了吗。<br>毕竟是学长，集集应该很急，我也很急，我也想进队，但我最后能够做到吗。<br>又通常说，与其思考这些还不如做题……无所谓，已经有脑震荡的感觉了！<br>我还是必须把这些写在这里，这个我所定义的垃圾桶，好让我心里的各种情绪有地方装。<br>当我想到省选的时候，总感觉那是一个站在我面前的巨人，带给我同样感觉的是 5dan 切那个死也过不去的坎，但愿我最后都能够跨过。<br>命运啊，拿来吧你！</p>
+<p><img src="https://z4a.net/images/2023/03/03/6d30d34eb04749a4bf9da48fc8f81b65.png" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1218,7 +1201,7 @@
 </tr>
 <tr>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7FF" d="M392 259Q333 210 236 210H233Q163 210 109 262Q46 325 46 411T99 550Q164 622 264 622Q293 622 319 615T376 587T428 532T464 440T479 304Q479 167 400 78T217 -11Q140 -11 105 22T70 101Q70 124 84 138T122 153Q150 153 162 137T174 101Q174 91 168 76Q179 65 216 65Q267 65 300 93Q322 109 339 130T366 173T380 210T388 242T392 259ZM388 389Q388 438 357 492T268 546T185 520Q129 479 129 415Q129 384 138 363Q145 349 156 334T195 302T255 285Q305 285 345 313T388 389Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
-<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7F6" d="M42 305Q42 450 111 535T257 621Q335 621 390 562Q482 468 482 306Q482 174 418 82T262 -10T106 82T42 305ZM257 545Q209 545 168 481T126 320Q126 220 162 147Q204 65 262 65Q318 65 358 139T398 320V328Q395 411 364 470T284 543Q270 545 257 545Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><a href="/2023.3.20"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="red" stroke="red"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7F6" d="M42 305Q42 450 111 535T257 621Q335 621 390 562Q482 468 482 306Q482 174 418 82T262 -10T106 82T42 305ZM257 545Q209 545 168 481T126 320Q126 220 162 147Q204 65 262 65Q318 65 358 139T398 320V328Q395 411 364 470T284 543Q270 545 257 545Z" transform="translate(525,0)"></path></g></g></g></g></svg></mjx-container></a></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 1050 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 1050 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
@@ -1237,6 +1220,32 @@
 </tbody>
 </table>
 </div>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.3.7</title>
+    <url>/2023.3.7/</url>
+    <content><![CDATA[<p>你说得对，但是我从昨天开始顶着翻译器打妹禁手了。第一印象朝日+真昼+弥生+……澄？的组合。<br>由于没有翻译我就机翻了，机翻给我四个人的名字分别是画眉、亚由香、枫、雪，我暂时就这么叫。<br>我这两天先是把画眉给干碎了。怎么觉得画眉是稍微小一点的朝日呢。不仅 cv 是同一个而且立绘表情什么的都极其相似，甚至有极度相似的搭肩膀 CG，不愧是你。<br>出现了，长女被钻内裤的传统艺能！这到底是怎么一回事！</p>
+<span id="more"></span>
+<p><img src="https://z4a.net/images/2023/03/07/198dd87517cff1b54.md.png" alt=""></p>
+<script type="math/tex; mode=display">\small\texttt{妹禁手1}</script><script type="math/tex; mode=display">\small\texttt{妹禁手2：还没玩}</script><p><img src="https://z4a.net/images/2023/03/07/1f4a589c435c895a8.md.png" alt=""></p>
+<script type="math/tex; mode=display">\small\texttt{妹吻1}</script><p><img src="https://z4a.net/images/2023/03/07/22dcdc7c426ba9745.md.png" alt=""></p>
+<script type="math/tex; mode=display">\small\texttt{妹吻2}</script><p><img src="https://z4a.net/images/2023/03/07/106fcd6f6501b0003.md.png" alt=""></p>
+<script type="math/tex; mode=display">\small\texttt{妹抱1}</script><p><img src="https://z4a.net/images/2023/03/07/209ba5f4664870ad9.md.png" alt=""></p>
+<script type="math/tex; mode=display">\small\texttt{妹抱2}</script>]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.3.9</title>
+    <url>/2023.3.9/</url>
+    <content><![CDATA[<p>今天是最后的大合唱。故事就在我站上台时达到了高潮。<br>我唱的真的很尽兴。这是多美妙的故事啊。</p>
+<p>区区 29 级六兆年 ex，被我双指轻松 fc，真的被我瞧不起了！<br><del>虽然是带了五张判卡强行草过去的，但我终于学会接纵连了。</del></p>
+<p><img src="https://z4a.net/images/2023/03/09/ex-fc.jpg" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
