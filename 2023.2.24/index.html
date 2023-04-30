@@ -294,6 +294,7 @@
 
           </div>
           
+    <div class="comments" id="gitalk-container"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -551,6 +552,26 @@
     
 
   
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
+
+<script>
+NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
+    var gitalk = new Gitalk({
+      clientID    : 'a2cccc2d9616155390ee',
+      clientSecret: '8200ab871e6dc5e3481f95e86eddd6d75693e3fe',
+      repo        : 'gitalk-comments',
+      owner       : 'DimlyL',
+      admin       : ['DimlyL'],
+      id          : '7ad5fef372999c38edc5a3b4bdc0e107',
+        language: 'zh-CN',
+      distractionFreeMode: true
+    });
+    gitalk.render('gitalk-container');
+  }, window.Gitalk);
+});
+</script>
 
 <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/assets/z16.model.json"},"display":{"position":"right","width":200,"height":400,"hOffset":-15,"vOffset":-35},"mobile":{"show":true},"react":{"opacity":1},"log":false});</script></body>
 </html>

@@ -27,7 +27,7 @@
 <meta property="og:site_name" content="故事">
 <meta property="og:description" content="Bookmark for NexT  Introduce  Bookmark is a plugin that allow the users save their reading position. The users could just click the bookmark icon (like 🔖) in left-top of the page to save the position">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2023-04-21T18:18:02.442Z">
+<meta property="article:published_time" content="2023-04-30T16:57:30.014Z">
 <meta property="article:modified_time" content="2022-05-29T09:55:14.000Z">
 <meta property="article:author" content="Dimly">
 <meta name="twitter:card" content="summary">
@@ -273,6 +273,7 @@
 
           </div>
           
+    <div class="comments" id="gitalk-container"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -531,6 +532,26 @@
     
 
   
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
+
+<script>
+NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
+    var gitalk = new Gitalk({
+      clientID    : 'a2cccc2d9616155390ee',
+      clientSecret: '8200ab871e6dc5e3481f95e86eddd6d75693e3fe',
+      repo        : 'gitalk-comments',
+      owner       : 'DimlyL',
+      admin       : ['DimlyL'],
+      id          : '74bb25c84c31a6a683af183e1443e3f8',
+        language: 'zh-CN',
+      distractionFreeMode: true
+    });
+    gitalk.render('gitalk-container');
+  }, window.Gitalk);
+});
+</script>
 
 <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/assets/z16.model.json"},"display":{"position":"right","width":200,"height":400,"hOffset":-15,"vOffset":-35},"mobile":{"show":true},"react":{"opacity":1},"log":false});</script></body>
 </html>
