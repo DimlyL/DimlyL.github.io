@@ -28,6 +28,19 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.11.14</title>
+    <url>/2022.11.14/</url>
+    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
+<span id="more"></span>
+<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
+<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2022.11.15</title>
     <url>/2022.11.15/</url>
     <content><![CDATA[<p>好像说以后机房每天晚上都关电脑了。<br>那岂不是每天早上都要花半小时装一大堆安装包，尤其是这个 Hexo 博客老是搭不起来。</p>
@@ -48,19 +61,6 @@
 <p>常常抓右手食指上的包的最终结果是它破了。血流成河。<br>我发现这里出血量极大，十分钟停不下的那种，而且就算凝结了稍微碰一下又破了。<br>今天共计破了三次。释放的快感（雾）。<br>然后 2 号机房怎么人突然变那么多了（悲）。       </p>
 <p>另外一件事情是我发现我最近开始变得魔怔（大喜）。“你说得对”的频率高达 114514%！<br>真的是万能回复呢（主要是很多时候我真的不知道回答别人什么）。<br>再有一件事情是我发现我最近开始比较喜欢打扫卫生（？）。<br>为什么会这样啊，我也不知道，或许是寝室里根本没人值日的原因。<br>那么之前代替 zhaoyp 成为寝室长的政变是非常正确的，把寝室平均分拉高了 0.2。</p>
 ]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.11.14</title>
-    <url>/2022.11.14/</url>
-    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
-<span id="more"></span>
-<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
-<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>神秘</category>
       </categories>
@@ -541,6 +541,17 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.1.23</title>
+    <url>/2023.1.23/</url>
+    <content><![CDATA[<p>这几天一直在阴间作息，毕竟是好不容易能在晚上摸到电脑的机会。<br>貌似前天是四点睡的，昨天是五点，今天更是要到六点猝死！<br>即使通宵也没法完成昨天布置下的这么多任务啊……</p>
+<span id="more"></span>
+<p>这两天推掉了妹吻的朝日和真昼线。好像没有精神一次性接着推弥生和早弥线，可能是累了。<br>说起来这明明是 2016 年的游戏，UI 和画风什么的却好复古的样子，而且各种出 BUG 简直就像是老游戏无法适配新系统的那种感觉。拜托不要在 H scene 冲到一半的时候跳出来错误窗口啊喂（）<br>至于档案计划进展喜人，具体表现为我大致上一共工作了六七个小时却只写了九个人物。他妈的。<br>原本根本没想到要花的时间这么多。为什么会这么多？</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.1.26</title>
     <url>/2023.1.26/</url>
     <content><![CDATA[<p>深夜，在推妹吻 2。但是 QQ 突然响了起来。<br>久别重逢，从 0:40 聊到 2:40。无数的感慨与回忆在镜面之中回荡。<br>我觉得自己将要热泪盈眶，为这三年以来的故事写上“故事之后”，把终点再化作起点。<br>就算是做朋友也很不错了呢。</p>
@@ -569,11 +580,14 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.1.23</title>
-    <url>/2023.1.23/</url>
-    <content><![CDATA[<p>这几天一直在阴间作息，毕竟是好不容易能在晚上摸到电脑的机会。<br>貌似前天是四点睡的，昨天是五点，今天更是要到六点猝死！<br>即使通宵也没法完成昨天布置下的这么多任务啊……</p>
+    <title>2023.1.5</title>
+    <url>/2023.1.5/</url>
+    <content><![CDATA[<p>今天开了《献给神明般的你 EX》的新坑。首先把月咏线通掉了。真的是 HAPPY END 呢。<br>月咏治愈了我在亚托莉那里收到的刀子（）快说：谢谢你，月咏（）</p>
 <span id="more"></span>
-<p>这两天推掉了妹吻的朝日和真昼线。好像没有精神一次性接着推弥生和早弥线，可能是累了。<br>说起来这明明是 2016 年的游戏，UI 和画风什么的却好复古的样子，而且各种出 BUG 简直就像是老游戏无法适配新系统的那种感觉。拜托不要在 H scene 冲到一半的时候跳出来错误窗口啊喂（）<br>至于档案计划进展喜人，具体表现为我大致上一共工作了六七个小时却只写了九个人物。他妈的。<br>原本根本没想到要花的时间这么多。为什么会这么多？</p>
+<p>但是还是先刀后糖，no way。还是祝贺月咏成为我的下一任老婆（）<br>这个月咏线打下来感觉极好，无论什么方面都很优秀。不过查阅相关资料听说其他线路剧情很有问题，先等着。<br>虽然在自己打的时候也多多少少感觉剧情方面存在一些细节 BUG，比如月咏自爆的原因是“听说 C-AI 的消息”而来的，但此时她早就断网了，但是这种觉得并不影响整体，情绪渲染的还是很到位的。<br>貌似整个游戏体量巨大，还存在什么通关全游戏后二周目出新选项这种东西，很神秘。<br>另外你们学校里都是些什么人才啊。两个世界顶级黑客、两个爆红偶像、一个侦探和一个觉醒了爱情的 AI。也太离谱了吧。</p>
+<p>（搞了很久都没能成功拆包，下面的 CG 是自己截图的，画质不够。）</p>
+<p><img src="https://z4a.net/images/2023/01/05/693d20bce38164e3926053b67edd6138.png" alt=""></p>
+<p><img src="https://z4a.net/images/2023/01/05/20c65ce0f9f1ebf79.png" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -591,20 +605,6 @@
 </blockquote>
 <p>我觉得它想要描写这样的可能的未来里，各种可怕的黑暗的行为，以及击破它“神明”一般的人性光辉。<br>这样的作品果然还是非常难缠。你很难直接说它想要传达出怎样的一个内容，但是就是在内心深处被触动到了。<br>这些时光来，从前年的高捷少女，到去年中期的少女领域，一直过来，我差不多打了有十个 gal 了，也算是对这种游戏有点见解，而每一部 galgame 我都是慢慢玩用心体会的。完全沉浸于它所向我展现的那个另一个世界，在如此的游玩经历后再去评价这部游戏，我认为这是最基本的要求。如果只是全程按着 CTRL 草草略过，可以说几乎每一部 gal 的价值都不值一提。<br><strong>galgame 最重要的难道不是沉浸感吗？？？</strong><br>可能那些说是屑作的人并没有和我一样体验其中吧。因此我们互相是无法理解的。<br>这应该是我打的第一个风评不好的 galgame，也可能让我有着良好印象的游戏中的第一个风评不好的。<br>我大概知道了星星也是会被灰尘所遮蔽光芒的。或许以后我也应该再尝试扫一扫灰尘。<br>不经意之间就写了好多好多话啊，可能是我写闲话以来最长的一次了，但这也印证了这些都是我的内心真实感触。<br>想要把 galgame 提升到文学作品的层次，那几乎是不可能的。<br>最后，我只是觉得，很温暖而已。但是如果我能悟出些什么的话，那也最好了，不过即使没有悟出道理也没有什么关系。<br>“一部好的作品需要表达出什么”，这个看起来非常简单的道理是我在初二时才真正想明白的，也由此开始了“故事之后的故事”以及挂坠盒的创作。现在看来，我对这件事情的认知又更深入了一层。<br>其实应该是满矛盾的命题吧。真的很有意思呢。<br>不过目前神明这个 gal 我还没推完，对于叶月和会长我都比较感兴趣，希望能够不让我失望。<br>推她们的话得等到十三号回来了。那时候再见哦。</p>
 <p><img src="https://z4a.net/images/2023/01/09/16bf3ae18eabec259f2f477547ea53ec.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.1.5</title>
-    <url>/2023.1.5/</url>
-    <content><![CDATA[<p>今天开了《献给神明般的你 EX》的新坑。首先把月咏线通掉了。真的是 HAPPY END 呢。<br>月咏治愈了我在亚托莉那里收到的刀子（）快说：谢谢你，月咏（）</p>
-<span id="more"></span>
-<p>但是还是先刀后糖，no way。还是祝贺月咏成为我的下一任老婆（）<br>这个月咏线打下来感觉极好，无论什么方面都很优秀。不过查阅相关资料听说其他线路剧情很有问题，先等着。<br>虽然在自己打的时候也多多少少感觉剧情方面存在一些细节 BUG，比如月咏自爆的原因是“听说 C-AI 的消息”而来的，但此时她早就断网了，但是这种觉得并不影响整体，情绪渲染的还是很到位的。<br>貌似整个游戏体量巨大，还存在什么通关全游戏后二周目出新选项这种东西，很神秘。<br>另外你们学校里都是些什么人才啊。两个世界顶级黑客、两个爆红偶像、一个侦探和一个觉醒了爱情的 AI。也太离谱了吧。</p>
-<p>（搞了很久都没能成功拆包，下面的 CG 是自己截图的，画质不够。）</p>
-<p><img src="https://z4a.net/images/2023/01/05/693d20bce38164e3926053b67edd6138.png" alt=""></p>
-<p><img src="https://z4a.net/images/2023/01/05/20c65ce0f9f1ebf79.png" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -667,6 +667,18 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.2.19</title>
+    <url>/2023.2.19/</url>
+    <content><![CDATA[<p>但是我今天把妹抱后宫线和妹抱 2 的空线推完了。朝日和空这类既是姐姐又是妹妹的设定很戳我。<br>甚至于晚上我花了十分钟就认真地推完了妹吻 2 的真昼线。因为日常在朝日线看过了，然后剩下的大部分都是 H scene。<br>那这样看上去的话好像妹抱 2 比妹吻 2 的正常剧情要多一些。</p>
+<span id="more"></span>
+<p>发现奇怪的问题，可以接着我昨天的话谈。<br><del>我发现以下的话题需要排除掉某个人我确实很讨厌的人才能成立。</del><br>首先我昨天的闲话里阐述了我的生活方法是拉低自己的下限，俗称摆烂。久而久之大致上就会变得对很多事情不关心。<br>在我的寝室里有两位同学在长达十分钟的夜聊里非常喜欢锐评别人，不过由于我停课较多且不关心这些对于他们说的大部分事情都没有在场直接目击。比如最近他们常锐评班里某位上学期的编创课代表。<br>前情提要之类的是我们在选班歌，于是那位课代表自己写曲。我大致上听过一次，感觉上还好（我发现我经常使用“还好”这类不偏不倚的话语）<del>，虽然我觉得没有星光的曲好（人家毕竟是专业的我在想什么）</del>，但是他们一直在锐评他说他很展（展示）。他们顺带攻击另外一个人，详情的什么我不写了。<br>类似的事还有很多，也不止我寝室里的那两个同学，即使是学校里这个小小的社会也有着风评多变，谣言乱传的现象。当然我不敢肯定风评、谣言的真实性，只是因为这些事情与自己毫无关联而从旁观者的视角审视着一切，但是由于我自身的性格原因之类的我大致上最后给出的都是“还好”这样的中肯评价。<br>在一个方面，我会把我身边的人都想的很好，在他们锐评别人时我总是觉得他们的说法实在过度。这可能源于我对自己初中时那个暴躁的性格的厌恶，直到如今仍然认为自己是一个坏人，而大家都是好人。<br>可以再谈谈某个风评不好，以“腾飞”为著称的同学。是一个初中的同学，他的风评不好从初中就开始了，甚至延续到至今<del>（我初中整个班基本现在都还在这里。）</del>。我和他交情不多，但偶尔会碰上的。至少我也没感觉他人不是很好的样子，他也会拿自己的梗来开玩笑。<br>或许是我对很多事情真的了解不多，或许是他们对很多事情真的了解的很多。但是我只能从一个旁观者的角度来看。<br>可能在初中的时候我也体验过成为舆论的中心的感觉，也仅仅是一小会儿，因为与某个女同学关系较好而成为同学们的调侃对象。那个时候我大致上已经把自己的性格给修正好了所以我也没干什么不好的事情来反杀。<br>简而言之就是我真的不大懂他们的锐评行为，无论是锐评这个行为本身还是他们锐评的事情本身。<br>我不会做出这样的锐评，考虑到也有可能是一方面我不大想要招惹人。其实更多地也有可能是我对那类事情不感兴趣。<br>大概也是在初中的时候逐步认识到了很多人并不想听你说的话题（Quackity 的 Nobody Asked 真的直接点醒了我这一点），后来我就逐渐学会闭嘴了，把我想说的话通通丢进日记、博客、洛谷犇犇里。那是一个可以表达自己，如果有人看到了他也可以直接忽略，说不定还有人有兴趣来找你搭话的地方，真的要比找一个人说这个话题好很多。所以能有共同话题这种事情是很好的，比如我确能和 ths 聊关于创作的事情，和 Powerless233 聊音游和术力口，这些都是我甚是珍惜的事情。<br>我感觉我好像扯远了，而且我马上也要回寝室了，暂时就说这么多。</p>
+<p>（女未空↓）<br><img src="https://z4a.net/images/2023/02/19/e5643eb9c33fa9f4e11984b9733de735.jpg" alt=""></p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.2.20</title>
     <url>/2023.2.20/</url>
     <content><![CDATA[<p>我开始打人造人的研究记录了。<del>但是这个睡觉的音效和 HAITENAI RPG 一模一样，你们这套引擎都那么懒的吗。</del><br>我给她取名 Tysta，虽然只是随便想的，但好像是不错的名字。</p>
@@ -685,22 +697,22 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.2.24</title>
+    <url>/2023.2.24/</url>
+    <content><![CDATA[<p>我要撤回我之前在 19 号的暴论，说是妹抱 2 比妹吻 2 内容丰富。<br>因为我他妈前面只打了后宫线根本没有进单线！！！<br>四条线，我发了六次癫！朝日太美了啊啊啊啊啊啊啊啊啊啊啊！<br>不过这么一说，妹吻 2 和妹抱 2 的核心还是相同的：兄妹的羁绊。<br>你说它是拔作，但是 H 之外的内容永远不能忘记的。<br>Tinkle Position 真的好活。我或许之后会去打童贞兄妹，以及用翻译器去打妹禁手。</p>
+<p><img src="https://z4a.net/images/2023/02/24/6713f96858141bf13eb151188cd8e0fe.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.2.26</title>
     <url>/2023.2.26/</url>
     <content><![CDATA[<p>昨天回家后干碎妹抱 2 的茜线和琥珀线，今天干碎澄线和后宫线，在妹吻之后妹抱的故事也结束了呜呜呜。<br>Tinkle Position，让我们一起重建罗马吧！（雾）快给爷出妹吻和妹抱的第三部。我才不要 Grand Finale 和 Congratulations。We’ll go on！<br>给两个游戏拍了许久未见的全家福。<del>拍完我才发现我好像把妹吻家的妈给忘了。</del><br>妹抱使用手机截图的所以清晰度低的一批，改日再直接导出留作纪念。（2.27：已换源）<br>果然我已经彻彻底底地倒向了废萌。接下来是童贞兄妹了，Sister Position 见。</p>
 <p><img src="https://z4a.net/images/2023/02/26/af4138195a36a26707ed77cc354bb0b0.png" alt=""></p>
 <script type="math/tex; mode=display">\small\texttt{妹吻（四人为接吻时表情）}</script><p><img src="https://z4a.net/images/2023/02/27/e4a71ed47ba974fb45b59101a8286a7f.png" alt=""></p>
 <script type="math/tex; mode=display">\small\texttt{妹抱（不知道统一什么就用了同一个表情）}</script>]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.2.24</title>
-    <url>/2023.2.24/</url>
-    <content><![CDATA[<p>我要撤回我之前在 19 号的暴论，说是妹抱 2 比妹吻 2 内容丰富。<br>因为我他妈前面只打了后宫线根本没有进单线！！！<br>四条线，我发了六次癫！朝日太美了啊啊啊啊啊啊啊啊啊啊啊！<br>不过这么一说，妹吻 2 和妹抱 2 的核心还是相同的：兄妹的羁绊。<br>你说它是拔作，但是 H 之外的内容永远不能忘记的。<br>Tinkle Position 真的好活。我或许之后会去打童贞兄妹，以及用翻译器去打妹禁手。</p>
-<p><img src="https://z4a.net/images/2023/02/24/6713f96858141bf13eb151188cd8e0fe.png" alt=""></p>
-]]></content>
       <categories>
         <category>神秘</category>
       </categories>
@@ -756,18 +768,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.2.19</title>
-    <url>/2023.2.19/</url>
-    <content><![CDATA[<p>但是我今天把妹抱后宫线和妹抱 2 的空线推完了。朝日和空这类既是姐姐又是妹妹的设定很戳我。<br>甚至于晚上我花了十分钟就认真地推完了妹吻 2 的真昼线。因为日常在朝日线看过了，然后剩下的大部分都是 H scene。<br>那这样看上去的话好像妹抱 2 比妹吻 2 的正常剧情要多一些。</p>
-<span id="more"></span>
-<p>发现奇怪的问题，可以接着我昨天的话谈。<br><del>我发现以下的话题需要排除掉某个人我确实很讨厌的人才能成立。</del><br>首先我昨天的闲话里阐述了我的生活方法是拉低自己的下限，俗称摆烂。久而久之大致上就会变得对很多事情不关心。<br>在我的寝室里有两位同学在长达十分钟的夜聊里非常喜欢锐评别人，不过由于我停课较多且不关心这些对于他们说的大部分事情都没有在场直接目击。比如最近他们常锐评班里某位上学期的编创课代表。<br>前情提要之类的是我们在选班歌，于是那位课代表自己写曲。我大致上听过一次，感觉上还好（我发现我经常使用“还好”这类不偏不倚的话语）<del>，虽然我觉得没有星光的曲好（人家毕竟是专业的我在想什么）</del>，但是他们一直在锐评他说他很展（展示）。他们顺带攻击另外一个人，详情的什么我不写了。<br>类似的事还有很多，也不止我寝室里的那两个同学，即使是学校里这个小小的社会也有着风评多变，谣言乱传的现象。当然我不敢肯定风评、谣言的真实性，只是因为这些事情与自己毫无关联而从旁观者的视角审视着一切，但是由于我自身的性格原因之类的我大致上最后给出的都是“还好”这样的中肯评价。<br>在一个方面，我会把我身边的人都想的很好，在他们锐评别人时我总是觉得他们的说法实在过度。这可能源于我对自己初中时那个暴躁的性格的厌恶，直到如今仍然认为自己是一个坏人，而大家都是好人。<br>可以再谈谈某个风评不好，以“腾飞”为著称的同学。是一个初中的同学，他的风评不好从初中就开始了，甚至延续到至今<del>（我初中整个班基本现在都还在这里。）</del>。我和他交情不多，但偶尔会碰上的。至少我也没感觉他人不是很好的样子，他也会拿自己的梗来开玩笑。<br>或许是我对很多事情真的了解不多，或许是他们对很多事情真的了解的很多。但是我只能从一个旁观者的角度来看。<br>可能在初中的时候我也体验过成为舆论的中心的感觉，也仅仅是一小会儿，因为与某个女同学关系较好而成为同学们的调侃对象。那个时候我大致上已经把自己的性格给修正好了所以我也没干什么不好的事情来反杀。<br>简而言之就是我真的不大懂他们的锐评行为，无论是锐评这个行为本身还是他们锐评的事情本身。<br>我不会做出这样的锐评，考虑到也有可能是一方面我不大想要招惹人。其实更多地也有可能是我对那类事情不感兴趣。<br>大概也是在初中的时候逐步认识到了很多人并不想听你说的话题（Quackity 的 Nobody Asked 真的直接点醒了我这一点），后来我就逐渐学会闭嘴了，把我想说的话通通丢进日记、博客、洛谷犇犇里。那是一个可以表达自己，如果有人看到了他也可以直接忽略，说不定还有人有兴趣来找你搭话的地方，真的要比找一个人说这个话题好很多。所以能有共同话题这种事情是很好的，比如我确能和 ths 聊关于创作的事情，和 Powerless233 聊音游和术力口，这些都是我甚是珍惜的事情。<br>我感觉我好像扯远了，而且我马上也要回寝室了，暂时就说这么多。</p>
-<p>（女未空↓）<br><img src="https://z4a.net/images/2023/02/19/e5643eb9c33fa9f4e11984b9733de735.jpg" alt=""></p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.3.1</title>
     <url>/2023.3.1/</url>
     <content><![CDATA[<p>我要成为 DimlyP（迫真），开始用 V4C 去调班歌，《永远都会在》的 Cover。<br>我中文歌听得很少，但觉得原曲不错，班级里改词也很好。关于 OI 的那段词「文件输入流 根号又重构 代码运行的出口」究竟是谁填的呢。<br>反正我是在网上搜到了原曲的 MIDI，直接导入 V4 开始填词。现在才填了一半。<br>等我明天填完词开始调细节。<br>好像合唱是下周，但是据说我又要外出停课，所以没法去唱，就让 Miku 代我唱吧（恼）</p>
@@ -808,16 +808,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.3.17</title>
-    <url>/2023.3.17/</url>
-    <content><![CDATA[<p>主播偷偷地过了 5dan。叠有 98%。突然看懂乱和切了。切力有待提高。</p>
-<p><img src="https://z4a.net/images/2023/03/17/5dan-.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.3.15</title>
     <url>/2023.3.15/</url>
     <content><![CDATA[<p>你知道吗，这不禁让我想起了<a href="/列车少女">列车少女</a>的故事，期间各种间断时间后的偶然相遇。<br>或许那确实取材于现实，只是把现实中我所经历的更加夸张化了而已。<br>这么一说，仔细看看列车少女的写作时间，恰巧就是上一次我和她联系的时间，就中考与高考的互相加油这约定而发邮件。虽然那个时候我也基本上知道了中考对我而言根本算不上什么事，温州中学这是你做的唯一一件好事。<br>我要偷偷地在打了那么久的 OI 上得到成绩，到时候在我被她高考加油时才会有底气。</p>
@@ -825,6 +815,16 @@
 <p>加油✊谢谢小朋友哈哈哈哈哈哈哈哈哈哈唉生不逢时真的好难啊</p>
 </blockquote>
 <p>请让我生的逢时。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.3.17</title>
+    <url>/2023.3.17/</url>
+    <content><![CDATA[<p>主播偷偷地过了 5dan。叠有 98%。突然看懂乱和切了。切力有待提高。</p>
+<p><img src="https://z4a.net/images/2023/03/17/5dan-.png" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -879,6 +879,16 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.3.3</title>
+    <url>/2023.3.3/</url>
+    <content><![CDATA[<p>发现昨天 NOI 关于省选的通知，确定是全国统一省选了。对于身处浙江的我算是个好消息吧。<br>真的还有一个月省选了，身边的有全力冲刺的高二预备队爷阿丑和开摆了学 whk 的天才 lpz，不知道自己身处一个何种境地，但是现在我还站……坐在这里，写着所谓的闲话一类的东西。<br>还是像当时 NOIP 一样地对于身边的人感到遗憾，至少对于 chaotic 的 NOIP 滑铁卢是这样的，我觉得无论是天赋还是努力他都要比我多一倍，只有运气差了那一截。类似的还有麻神。<br>感觉自己并没有什么实力，只是一路侥幸地走到这里的吗。通常说走进浙江省队就相当于能摸到 Au 了，所以面前的相当于是最后一关了吗。<br>毕竟是学长，集集应该很急，我也很急，我也想进队，但我最后能够做到吗。<br>又通常说，与其思考这些还不如做题……无所谓，已经有脑震荡的感觉了！<br>我还是必须把这些写在这里，这个我所定义的垃圾桶，好让我心里的各种情绪有地方装。<br>当我想到省选的时候，总感觉那是一个站在我面前的巨人，带给我同样感觉的是 5dan 切那个死也过不去的坎，但愿我最后都能够跨过。<br>命运啊，拿来吧你！</p>
+<p><img src="https://z4a.net/images/2023/03/03/6d30d34eb04749a4bf9da48fc8f81b65.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.3.7</title>
     <url>/2023.3.7/</url>
     <content><![CDATA[<p>你说得对，但是我从昨天开始顶着翻译器打妹禁手了。第一印象朝日+真昼+弥生+……澄？的组合。<br>由于没有翻译我就机翻了，机翻给我四个人的名字分别是画眉、亚由香、枫、雪，我暂时就这么叫。<br>我这两天先是把画眉给干碎了。怎么觉得画眉是稍微小一点的朝日呢。不仅 cv 是同一个而且立绘表情什么的都极其相似，甚至有极度相似的搭肩膀 CG，不愧是你。<br>出现了，长女被钻内裤的传统艺能！这到底是怎么一回事！</p>
@@ -903,10 +913,9 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.3.3</title>
-    <url>/2023.3.3/</url>
-    <content><![CDATA[<p>发现昨天 NOI 关于省选的通知，确定是全国统一省选了。对于身处浙江的我算是个好消息吧。<br>真的还有一个月省选了，身边的有全力冲刺的高二预备队爷阿丑和开摆了学 whk 的天才 lpz，不知道自己身处一个何种境地，但是现在我还站……坐在这里，写着所谓的闲话一类的东西。<br>还是像当时 NOIP 一样地对于身边的人感到遗憾，至少对于 chaotic 的 NOIP 滑铁卢是这样的，我觉得无论是天赋还是努力他都要比我多一倍，只有运气差了那一截。类似的还有麻神。<br>感觉自己并没有什么实力，只是一路侥幸地走到这里的吗。通常说走进浙江省队就相当于能摸到 Au 了，所以面前的相当于是最后一关了吗。<br>毕竟是学长，集集应该很急，我也很急，我也想进队，但我最后能够做到吗。<br>又通常说，与其思考这些还不如做题……无所谓，已经有脑震荡的感觉了！<br>我还是必须把这些写在这里，这个我所定义的垃圾桶，好让我心里的各种情绪有地方装。<br>当我想到省选的时候，总感觉那是一个站在我面前的巨人，带给我同样感觉的是 5dan 切那个死也过不去的坎，但愿我最后都能够跨过。<br>命运啊，拿来吧你！</p>
-<p><img src="https://z4a.net/images/2023/03/03/6d30d34eb04749a4bf9da48fc8f81b65.png" alt=""></p>
+    <title>2023.3.8</title>
+    <url>/2023.3.8/</url>
+    <content><![CDATA[<p>现在的我选择妹禁手1和万华镜3双开。上一次我同时打两个 gal 是什么时候？<del>不就是之前妹吻妹抱双开吗。</del><br>万华镜3的话是经典的末世+智械吗，上一次碰到这个配置是亚托莉，神明的话没有末世。<br>目前的话亚璃子和灯露椎已经纳入后宫了，所以大概是第一阶段剧情结束，后面大概一堆 H scene。希望后续剧情展开足够精彩。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -936,17 +945,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.4.22</title>
-    <url>/2023.4.22/</url>
-    <content><![CDATA[<p>《1/2 summer》完成，但实际上真结局由于要睡觉了就没有细看。以及黑羽讲的那些传说虽然存档了但是还要再看一遍才能够理解真结局，顺带也查了一下维基百科。不过好想打 PSP 版啊，我的妹线。<br>在中文译名这方面我习惯叫这个游戏「半夏」，但看着英文「one side summer」，在某种意义上我看到的其它翻译「片面的夏天」说不定更为合适。</p>
-<span id="more"></span>
-<p>最近在其他方面也有或多或少的一些展开，比如打《战神 3》的二周目，重刷了《暗杀教室》，pjsk《Don’t Fight The Music》ex30 1good 之类的。反正我就是个废人。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.4.21</title>
     <url>/2023.4.21/</url>
     <content><![CDATA[<p>昨天在学校把爱理线通了，这也就代表着《纯白交响曲》终于来到了尾声。<br>现在在看番。说老实的这种没有后宫线的 gal 想改成番真的是蛮难的，为了讨好观众就得让男主雨露均沾从而导致篇幅和情感渲染不够以及自我攻略。还有樱乃线根本没了。学姐线因为相对来讲比较剧情向所以被当做主线了吗。<br>这让我不禁担忧起明年的亚托莉……哦人家是单线，随随便便动画化。<br>附一张自己做的刁图，玩学姐线时人给笑傻了。</p>
@@ -957,17 +955,11 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.4.29</title>
-    <url>/2023.4.29/</url>
-    <content><![CDATA[<p>今天推掉美樱线和杏线。怎么说呢……差强人意。美樱那个比较离谱，感觉剧情有点小浮夸，但也不算是烂吧。杏学姐的话，正常的双人格套路，这个我们在另外一个学姐香坂春风那里也体验过了，范围再大一点的话，远处的忍坂鸫也有着短暂的类双人格设定，不让 H 真的是一模一样？学姐线的剧情虽然很套路但是本身是没有问题的。但是我所期待艾蕾的 H scene 怎么只有口。过个五年调色板你炒冷饭的时候追加一下呗，顺便再写一条花子线。</p>
-<p>另外今天《战神3》二周目通关，只能说不愧是经典游戏，放到现在来看仍然不输许多大作。再一次感受到了奎托斯身上所承载的痛苦、愤怒与从中涅槃重生的希望。<br>注意到由于时代限制，旧《战神》系列用的并非越肩视角而是全局的俯视。我必须夸赞圣莫尼卡在运镜方面是很厉害的，尤其要称赞奎托斯沿着奥林匹斯之链向上爬中途那个先放远再放近的镜头，震撼感足够强。还有在结尾被宙斯打入黑暗之中探索的这一部分的画面处理也相当好。<br>以及《战神3》的美术风格也让我相当喜欢，比如那个比较神秘的开场动画（Overtune），说实在的我不大懂这算是什么风格。</p>
-<p>凌晨干碎缇娜线。注意了调色板这是废萌作，你再发刀子就把你干碎。<br>一件事两个刀，既干碎了当事人小春和爽又干碎了旁边的悠真和缇娜。你就说烦不烦吧。<br>不过好在结局缇娜又回来了，虽然有着很唯心的感觉但是此时此刻她能够回来的理由已经不重要了，重要的是她回来了！！！ohhhhhhhhhhhhhhhhh<br>以及我发现自己确实不是萝莉控。（？）<br>所以《恋花绽放樱飞时》被我光速干碎了。从整体上来看我觉得还算可以的，但是你废萌比不过《纯白交响曲》，剧情和刀子又比不过《9-nine-》，这个位置就很尴尬，调色板和田三部曲中地位最低了属于是（悲）。<br>不过从某种意义上这也是命中注定的，它想要传达的恋爱观就注定了它不能是一部美好的废萌作。《纯白》里面的恋爱是美好的，是各种颜色所组成的纯白交响曲；但是《恋花》是这样的东西。</p>
-<blockquote>
-<p>无法恋爱的女孩子，对恋爱毫无兴趣的男孩子，这样的两人坠入爱河，世界会发生怎样的改变呢。  </p>
-</blockquote>
-<p>我再次引用游戏开头的这段话就是来说明性质。《恋花》里的恋爱更多地是苦涩的。能把这个主题展现的最完备的还是小奈美线和缇娜线。<br>我可以再引用缇娜线结尾的话，大概也是点明主旨了：</p>
-<p>……</p>
-<p>你妈的这个存档的 backlog 怎么回不去。看不到了，算了。下次再说。<br>这下又颓废了许久了。我 PKUSC 肯定爆炸！</p>
+    <title>2023.4.22</title>
+    <url>/2023.4.22/</url>
+    <content><![CDATA[<p>《1/2 summer》完成，但实际上真结局由于要睡觉了就没有细看。以及黑羽讲的那些传说虽然存档了但是还要再看一遍才能够理解真结局，顺带也查了一下维基百科。不过好想打 PSP 版啊，我的妹线。<br>在中文译名这方面我习惯叫这个游戏「半夏」，但看着英文「one side summer」，在某种意义上我看到的其它翻译「片面的夏天」说不定更为合适。</p>
+<span id="more"></span>
+<p>最近在其他方面也有或多或少的一些展开，比如打《战神 3》的二周目，重刷了《暗杀教室》，pjsk《Don’t Fight The Music》ex30 1good 之类的。反正我就是个废人。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1004,6 +996,23 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.4.29</title>
+    <url>/2023.4.29/</url>
+    <content><![CDATA[<p>今天推掉美樱线和杏线。怎么说呢……差强人意。美樱那个比较离谱，感觉剧情有点小浮夸，但也不算是烂吧。杏学姐的话，正常的双人格套路，这个我们在另外一个学姐香坂春风那里也体验过了，范围再大一点的话，远处的忍坂鸫也有着短暂的类双人格设定，不让 H 真的是一模一样？学姐线的剧情虽然很套路但是本身是没有问题的。但是我所期待艾蕾的 H scene 怎么只有口。过个五年调色板你炒冷饭的时候追加一下呗，顺便再写一条花子线。</p>
+<p>另外今天《战神3》二周目通关，只能说不愧是经典游戏，放到现在来看仍然不输许多大作。再一次感受到了奎托斯身上所承载的痛苦、愤怒与从中涅槃重生的希望。<br>注意到由于时代限制，旧《战神》系列用的并非越肩视角而是全局的俯视。我必须夸赞圣莫尼卡在运镜方面是很厉害的，尤其要称赞奎托斯沿着奥林匹斯之链向上爬中途那个先放远再放近的镜头，震撼感足够强。还有在结尾被宙斯打入黑暗之中探索的这一部分的画面处理也相当好。<br>以及《战神3》的美术风格也让我相当喜欢，比如那个比较神秘的开场动画（Overtune），说实在的我不大懂这算是什么风格。</p>
+<p>凌晨干碎缇娜线。注意了调色板这是废萌作，你再发刀子就把你干碎。<br>一件事两个刀，既干碎了当事人小春和爽又干碎了旁边的悠真和缇娜。你就说烦不烦吧。<br>不过好在结局缇娜又回来了，虽然有着很唯心的感觉但是此时此刻她能够回来的理由已经不重要了，重要的是她回来了！！！ohhhhhhhhhhhhhhhhh<br>以及我发现自己确实不是萝莉控。（？）<br>所以《恋花绽放樱飞时》被我光速干碎了。从整体上来看我觉得还算可以的，但是你废萌比不过《纯白交响曲》，剧情和刀子又比不过《9-nine-》，这个位置就很尴尬，调色板和田三部曲中地位最低了属于是（悲）。<br>不过从某种意义上这也是命中注定的，它想要传达的恋爱观就注定了它不能是一部美好的废萌作。《纯白》里面的恋爱是美好的，是各种颜色所组成的纯白交响曲；但是《恋花》是这样的东西。</p>
+<blockquote>
+<p>无法恋爱的女孩子，对恋爱毫无兴趣的男孩子，这样的两人坠入爱河，世界会发生怎样的改变呢。  </p>
+</blockquote>
+<p>我再次引用游戏开头的这段话就是来说明性质。《恋花》里的恋爱更多地是苦涩的。能把这个主题展现的最完备的还是小奈美线和缇娜线。<br>我可以再引用缇娜线结尾的话，大概也是点明主旨了：</p>
+<p>……</p>
+<p>你妈的这个存档的 backlog 怎么回不去。看不到了，算了。下次再说。<br>这下又颓废了许久了。我 PKUSC 肯定爆炸！</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.4.30</title>
     <url>/2023.4.30/</url>
     <content><![CDATA[<p>在家里快乐颓废了一天，并且终于是把评论系统搞出来了，Gitalk 牛逼，Waline 傻逼。<br>现在突然就不知道把这些独自一人的时间拿来干什么了。本来应该去赶稿时巅 5 的但是开摆了。<br>或许我们可以再推一个 gal，不过调色板的经典作品已经被我玩完了。接下来打什么，柚子社吗，虽然貌似是经典废萌但是我实在不想碰，柚子厨什么太令人讨厌了，虽然本身作品质量是高的。<br>或者说我们继续那个二刷计划，在糖调那里就莫名其妙中断了。怎么说呢，貌似废萌作确实是不大适合二刷的，因为剧情这种东西比较适合二刷但日常并不是，虽然也有例外，比如我觉得暴太郎或者齐木楠雄随便点开一集都很好。<br>说到剧情作那就得是《9-nine-》了，不过才刚玩完一个月立刻二刷是不是不大好。不过我好像没有其他手头的剧情作了。<br>所以还是要回去赶稿吗，哭。不如学 whk 或者好好准备 PKUSC，拿个约才是最现实的。</p>
@@ -1016,6 +1025,16 @@
     <title>2023.4.8</title>
     <url>/2023.4.8/</url>
     <content><![CDATA[<p>回去上了一周的 whk，不知道我对此感觉如何，但可以知道的是：时间之巅 5.0 终于写到了我梦寐以求的第七小节和第 100 面，我的赶稿速度大幅提升了。我为了写这个小节等了一年半啊。虽然写完第七小节估计就又要萎了。<br>从某种意义上我还在大力推进 galgame 事业，目前还是《1/2 summer》和《纯白交响曲》双开，都是较早（前者 12 年，后者 09 年）的 gal 了吧。尝试让自己接受那个年代的画风。目前两个游戏进度分别是：推完叶、汐，在推鸫；推完安洁，在推樱乃。<br>有人说，你再过一周就要期中考了，你怎么还是那么颓废？有人说，你再过三个月就要学考了，你怎么还是那么颓废？我完全选择摆烂的。这个就是答案。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.5.2</title>
+    <url>/2023.5.2/</url>
+    <content><![CDATA[<p>不知道由于什么原因就冲动地去做《Recharge!》的 Cover 了，嘿嘿我的婕儿。但是根本找不到 midi 甚至没有谱，所以我只能自己扒谱，到现在的话花了四五个小时已经在 VOCALOID4 里把音符位置全调好了。原本想学习 VOCALOID5 但是发现这玩意根本读不出来我的 Miku V4C，人傻了。<br>可爱曲，这是好的。到时候拿 Rin 做一下某些和声。</p>
+<p>集集入坑 pjsk 了。感觉很厉害。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1425,15 +1444,69 @@
 </tbody>
 </table>
 </div>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.3.8</title>
-    <url>/2023.3.8/</url>
-    <content><![CDATA[<p>现在的我选择妹禁手1和万华镜3双开。上一次我同时打两个 gal 是什么时候？<del>不就是之前妹吻妹抱双开吗。</del><br>万华镜3的话是经典的末世+智械吗，上一次碰到这个配置是亚托莉，神明的话没有末世。<br>目前的话亚璃子和灯露椎已经纳入后宫了，所以大概是第一阶段剧情结束，后面大概一堆 H scene。希望后续剧情展开足够精彩。</p>
+<hr>
+<script type="math/tex; mode=display">\Huge\texttt{2023.5}</script><div class="table-container">
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">日</text></g></g></g></svg></mjx-container></th>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">一</text></g></g></g></svg></mjx-container></th>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">二</text></g></g></g></svg></mjx-container></th>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">三</text></g></g></g></svg></mjx-container></th>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">四</text></g></g></g></svg></mjx-container></th>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">五</text></g></g></g></svg></mjx-container></th>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">六</text></g></g></g></svg></mjx-container></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="grey" stroke="grey"><g data-mml-node="mtext"><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z"></path><path data-c="1D7F6" d="M42 305Q42 450 111 535T257 621Q335 621 390 562Q482 468 482 306Q482 174 418 82T262 -10T106 82T42 305ZM257 545Q209 545 168 481T126 320Q126 220 162 147Q204 65 262 65Q318 65 358 139T398 320V328Q395 411 364 470T284 543Q270 545 257 545Z" transform="translate(525,0)"></path></g></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 525 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><a href="/2023.5.2"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 525 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="red" stroke="red"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path></g></g></g></g></svg></mjx-container></a></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 525 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.412ex" role="img" focusable="false" viewBox="0 -624 525 624"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FA" d="M235 1Q213 10 213 32V38V46Q213 65 230 73Q236 76 274 76H314V168H183L52 169Q37 175 33 182T29 205V218L30 244Q53 283 155 443T264 613Q276 623 298 623H323H363Q378 616 385 601V244H429H450Q474 244 484 237T495 206Q495 179 477 171Q471 168 429 168H385V76H425H442Q466 76 476 69T487 38Q487 10 465 1H235ZM314 244V554L117 245L215 244H314Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.405ex" role="img" focusable="false" viewBox="0 -611 525 621"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FB" d="M387 189Q387 244 354 278T273 313Q230 313 205 301T163 271T138 249H120Q102 249 97 251Q85 258 83 266T80 311Q80 320 80 359T81 430Q81 587 82 591Q88 605 103 610H108Q112 610 120 610T138 610T163 610T192 611T225 611T260 611H415Q416 610 421 607T428 602T432 596T436 587T437 573Q437 567 437 562T434 554T431 548T427 543T423 540T418 538L415 536L289 535H164V363L170 366Q175 368 184 372T207 380T238 386T276 389Q357 389 414 331T472 187Q472 116 412 53T245 -10Q218 -10 209 -9Q126 5 89 48T52 137Q52 164 68 177T104 191Q130 191 143 175T156 141Q156 132 154 125T149 113T146 107Q146 104 155 95T188 76T245 65Q298 65 342 98T387 189Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 525 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FC" d="M357 536Q357 546 318 546Q258 546 205 497T133 357V353L144 361Q210 402 285 402Q362 402 414 350Q479 285 479 193Q479 111 418 50T263 -11Q234 -11 207 -3T149 26T97 81T60 171T45 301Q45 444 129 533T319 622Q388 622 421 589T454 510Q454 491 442 475T402 458Q373 458 362 475T350 510Q350 520 354 528L357 536ZM319 326T269 326T179 298T136 223Q136 202 143 174T176 112T237 68Q246 66 265 66Q319 66 360 107Q395 146 395 197Q395 250 356 289Q319 326 269 326Z"></path></g></g></g></svg></mjx-container></td>
+</tr>
+<tr>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.441ex" role="img" focusable="false" viewBox="0 -627 525 637"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FD" d="M204 -10Q162 -10 162 40Q162 146 198 261T310 477Q311 478 321 491T342 517T358 535H128V524Q128 506 119 497Q111 489 86 489H78Q55 489 46 508Q44 513 44 557V580Q44 605 52 616T88 627H93Q114 627 125 611H458Q474 598 477 593T480 573Q480 559 478 553T469 543T446 521T408 477Q252 290 246 49Q246 43 246 37T246 27T245 22Q243 11 233 1T204 -10Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.428ex" role="img" focusable="false" viewBox="0 -621 525 631"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FE" d="M58 460Q58 523 117 572T254 621Q290 621 298 620Q376 607 421 560T466 460Q466 441 460 424T443 393T421 370T397 352T374 340T357 332L350 330L356 328Q363 325 371 321T392 310T415 295T439 274T459 249T473 217T479 179Q479 102 418 46T262 -10T106 46T45 179Q45 202 52 222T70 257T96 284T123 305T148 319T167 328L174 330L170 332Q166 333 159 336T145 343Q104 362 81 393T58 460ZM382 458Q382 491 349 518T263 546Q215 546 179 521T142 458Q142 421 178 395T262 368Q315 368 348 396T382 458ZM396 178Q396 223 358 257T263 292Q206 292 167 258T128 178Q128 137 163 102T262 66Q324 66 360 101T396 178Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 525 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FF" d="M392 259Q333 210 236 210H233Q163 210 109 262Q46 325 46 411T99 550Q164 622 264 622Q293 622 319 615T376 587T428 532T464 440T479 304Q479 167 400 78T217 -11Q140 -11 105 22T70 101Q70 124 84 138T122 153Q150 153 162 137T174 101Q174 91 168 76Q179 65 216 65Q267 65 300 93Q322 109 339 130T366 173T380 210T388 242T392 259ZM388 389Q388 438 357 492T268 546T185 520Q129 479 129 415Q129 384 138 363Q145 349 156 334T195 302T255 285Q305 285 345 313T388 389Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7F6" d="M42 305Q42 450 111 535T257 621Q335 621 390 562Q482 468 482 306Q482 174 418 82T262 -10T106 82T42 305ZM257 545Q209 545 168 481T126 320Q126 220 162 147Q204 65 262 65Q318 65 358 139T398 320V328Q395 411 364 470T284 543Q270 545 257 545Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 1050 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 1050 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+</tr>
+<tr>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.412ex" role="img" focusable="false" viewBox="0 -624 1050 624"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7FA" d="M235 1Q213 10 213 32V38V46Q213 65 230 73Q236 76 274 76H314V168H183L52 169Q37 175 33 182T29 205V218L30 244Q53 283 155 443T264 613Q276 623 298 623H323H363Q378 616 385 601V244H429H450Q474 244 484 237T495 206Q495 179 477 171Q471 168 429 168H385V76H425H442Q466 76 476 69T487 38Q487 10 465 1H235ZM314 244V554L117 245L215 244H314Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7FB" d="M387 189Q387 244 354 278T273 313Q230 313 205 301T163 271T138 249H120Q102 249 97 251Q85 258 83 266T80 311Q80 320 80 359T81 430Q81 587 82 591Q88 605 103 610H108Q112 610 120 610T138 610T163 610T192 611T225 611T260 611H415Q416 610 421 607T428 602T432 596T436 587T437 573Q437 567 437 562T434 554T431 548T427 543T423 540T418 538L415 536L289 535H164V363L170 366Q175 368 184 372T207 380T238 386T276 389Q357 389 414 331T472 187Q472 116 412 53T245 -10Q218 -10 209 -9Q126 5 89 48T52 137Q52 164 68 177T104 191Q130 191 143 175T156 141Q156 132 154 125T149 113T146 107Q146 104 155 95T188 76T245 65Q298 65 342 98T387 189Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7FC" d="M357 536Q357 546 318 546Q258 546 205 497T133 357V353L144 361Q210 402 285 402Q362 402 414 350Q479 285 479 193Q479 111 418 50T263 -11Q234 -11 207 -3T149 26T97 81T60 171T45 301Q45 444 129 533T319 622Q388 622 421 589T454 510Q454 491 442 475T402 458Q373 458 362 475T350 510Q350 520 354 528L357 536ZM319 326T269 326T179 298T136 223Q136 202 143 174T176 112T237 68Q246 66 265 66Q319 66 360 107Q395 146 395 197Q395 250 356 289Q319 326 269 326Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.441ex" role="img" focusable="false" viewBox="0 -627 1050 637"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7FD" d="M204 -10Q162 -10 162 40Q162 146 198 261T310 477Q311 478 321 491T342 517T358 535H128V524Q128 506 119 497Q111 489 86 489H78Q55 489 46 508Q44 513 44 557V580Q44 605 52 616T88 627H93Q114 627 125 611H458Q474 598 477 593T480 573Q480 559 478 553T469 543T446 521T408 477Q252 290 246 49Q246 43 246 37T246 27T245 22Q243 11 233 1T204 -10Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7FE" d="M58 460Q58 523 117 572T254 621Q290 621 298 620Q376 607 421 560T466 460Q466 441 460 424T443 393T421 370T397 352T374 340T357 332L350 330L356 328Q363 325 371 321T392 310T415 295T439 274T459 249T473 217T479 179Q479 102 418 46T262 -10T106 46T45 179Q45 202 52 222T70 257T96 284T123 305T148 319T167 328L174 330L170 332Q166 333 159 336T145 343Q104 362 81 393T58 460ZM382 458Q382 491 349 518T263 546Q215 546 179 521T142 458Q142 421 178 395T262 368Q315 368 348 396T382 458ZM396 178Q396 223 358 257T263 292Q206 292 167 258T128 178Q128 137 163 102T262 66Q324 66 360 101T396 178Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7FF" d="M392 259Q333 210 236 210H233Q163 210 109 262Q46 325 46 411T99 550Q164 622 264 622Q293 622 319 615T376 587T428 532T464 440T479 304Q479 167 400 78T217 -11Q140 -11 105 22T70 101Q70 124 84 138T122 153Q150 153 162 137T174 101Q174 91 168 76Q179 65 216 65Q267 65 300 93Q322 109 339 130T366 173T380 210T388 242T392 259ZM388 389Q388 438 357 492T268 546T185 520Q129 479 129 415Q129 384 138 363Q145 349 156 334T195 302T255 285Q305 285 345 313T388 389Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7F6" d="M42 305Q42 450 111 535T257 621Q335 621 390 562Q482 468 482 306Q482 174 418 82T262 -10T106 82T42 305ZM257 545Q209 545 168 481T126 320Q126 220 162 147Q204 65 262 65Q318 65 358 139T398 320V328Q395 411 364 470T284 543Q270 545 257 545Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+</tr>
+<tr>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 1050 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 1050 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.412ex" role="img" focusable="false" viewBox="0 -624 1050 624"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FA" d="M235 1Q213 10 213 32V38V46Q213 65 230 73Q236 76 274 76H314V168H183L52 169Q37 175 33 182T29 205V218L30 244Q53 283 155 443T264 613Q276 623 298 623H323H363Q378 616 385 601V244H429H450Q474 244 484 237T495 206Q495 179 477 171Q471 168 429 168H385V76H425H442Q466 76 476 69T487 38Q487 10 465 1H235ZM314 244V554L117 245L215 244H314Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FB" d="M387 189Q387 244 354 278T273 313Q230 313 205 301T163 271T138 249H120Q102 249 97 251Q85 258 83 266T80 311Q80 320 80 359T81 430Q81 587 82 591Q88 605 103 610H108Q112 610 120 610T138 610T163 610T192 611T225 611T260 611H415Q416 610 421 607T428 602T432 596T436 587T437 573Q437 567 437 562T434 554T431 548T427 543T423 540T418 538L415 536L289 535H164V363L170 366Q175 368 184 372T207 380T238 386T276 389Q357 389 414 331T472 187Q472 116 412 53T245 -10Q218 -10 209 -9Q126 5 89 48T52 137Q52 164 68 177T104 191Q130 191 143 175T156 141Q156 132 154 125T149 113T146 107Q146 104 155 95T188 76T245 65Q298 65 342 98T387 189Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FC" d="M357 536Q357 546 318 546Q258 546 205 497T133 357V353L144 361Q210 402 285 402Q362 402 414 350Q479 285 479 193Q479 111 418 50T263 -11Q234 -11 207 -3T149 26T97 81T60 171T45 301Q45 444 129 533T319 622Q388 622 421 589T454 510Q454 491 442 475T402 458Q373 458 362 475T350 510Q350 520 354 528L357 536ZM319 326T269 326T179 298T136 223Q136 202 143 174T176 112T237 68Q246 66 265 66Q319 66 360 107Q395 146 395 197Q395 250 356 289Q319 326 269 326Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.441ex" role="img" focusable="false" viewBox="0 -627 1050 637"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FD" d="M204 -10Q162 -10 162 40Q162 146 198 261T310 477Q311 478 321 491T342 517T358 535H128V524Q128 506 119 497Q111 489 86 489H78Q55 489 46 508Q44 513 44 557V580Q44 605 52 616T88 627H93Q114 627 125 611H458Q474 598 477 593T480 573Q480 559 478 553T469 543T446 521T408 477Q252 290 246 49Q246 43 246 37T246 27T245 22Q243 11 233 1T204 -10Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+</tr>
+<tr>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FE" d="M58 460Q58 523 117 572T254 621Q290 621 298 620Q376 607 421 560T466 460Q466 441 460 424T443 393T421 370T397 352T374 340T357 332L350 330L356 328Q363 325 371 321T392 310T415 295T439 274T459 249T473 217T479 179Q479 102 418 46T262 -10T106 46T45 179Q45 202 52 222T70 257T96 284T123 305T148 319T167 328L174 330L170 332Q166 333 159 336T145 343Q104 362 81 393T58 460ZM382 458Q382 491 349 518T263 546Q215 546 179 521T142 458Q142 421 178 395T262 368Q315 368 348 396T382 458ZM396 178Q396 223 358 257T263 292Q206 292 167 258T128 178Q128 137 163 102T262 66Q324 66 360 101T396 178Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FF" d="M392 259Q333 210 236 210H233Q163 210 109 262Q46 325 46 411T99 550Q164 622 264 622Q293 622 319 615T376 587T428 532T464 440T479 304Q479 167 400 78T217 -11Q140 -11 105 22T70 101Q70 124 84 138T122 153Q150 153 162 137T174 101Q174 91 168 76Q179 65 216 65Q267 65 300 93Q322 109 339 130T366 173T380 210T388 242T392 259ZM388 389Q388 438 357 492T268 546T185 520Q129 479 129 415Q129 384 138 363Q145 349 156 334T195 302T255 285Q305 285 345 313T388 389Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z"></path><path data-c="1D7F6" d="M42 305Q42 450 111 535T257 621Q335 621 390 562Q482 468 482 306Q482 174 418 82T262 -10T106 82T42 305ZM257 545Q209 545 168 481T126 320Q126 220 162 147Q204 65 262 65Q318 65 358 139T398 320V328Q395 411 364 470T284 543Q270 545 257 545Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z"></path><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 525 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="grey" stroke="grey"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path></g></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 525 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="grey" stroke="grey"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path></g></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 525 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="grey" stroke="grey"><g data-mml-node="mtext"><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z"></path></g></g></g></g></svg></mjx-container></td>
+</tr>
+</tbody>
+</table>
+</div>
 ]]></content>
       <categories>
         <category>神秘</category>
