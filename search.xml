@@ -28,19 +28,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.14</title>
-    <url>/2022.11.14/</url>
-    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
-<span id="more"></span>
-<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
-<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.11.15</title>
     <url>/2022.11.15/</url>
     <content><![CDATA[<p>好像说以后机房每天晚上都关电脑了。<br>那岂不是每天早上都要花半小时装一大堆安装包，尤其是这个 Hexo 博客老是搭不起来。</p>
@@ -49,6 +36,19 @@
 <p>话说后天是不是就发榜了来着。不过 CCF 真的会那么准时吗。<br>这个发榜时间是不是太晚了点。</p>
 <p>今天又没有做多少题，就算了吧，上午心态搞得够崩了。<br>不过其实下午发现都不是很难的题，赛后补上了，这倒是好的。</p>
 ]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.11.14</title>
+    <url>/2022.11.14/</url>
+    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
+<span id="more"></span>
+<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
+<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>神秘</category>
       </categories>
@@ -463,6 +463,15 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.1.19</title>
+    <url>/2023.1.19/</url>
+    <content><![CDATA[<p>Powerless233 讲了励志的人生故事和逆天的初中经历（）。<br>果然我从出生到现在一直都是透明人/kk</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.1.18</title>
     <url>/2023.1.18/</url>
     <content><![CDATA[<p>本来想昨天写闲话的但是把电脑带到寝室之后死机了。还好今天上午活了。<br>接下来我将细数一下这段时间我违反了多少校规（）</p>
@@ -480,15 +489,6 @@
 <li>10.带fufu进来（不知道违不违反校规但是不像一个正常学生能做出来的事）</li>
 <li><del>11.打胶（应该不是）</del></li>
 </ul>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.1.19</title>
-    <url>/2023.1.19/</url>
-    <content><![CDATA[<p>Powerless233 讲了励志的人生故事和逆天的初中经历（）。<br>果然我从出生到现在一直都是透明人/kk</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -841,15 +841,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.3.20</title>
-    <url>/2023.3.20/</url>
-    <content><![CDATA[<p>我开始打多娜多娜，久闻大名的业界神作。打到 DAY56，剧情是到刚刚把梅蒂可从医院里救出来避免 NTR，想要推的是绮菈绮菈，好感度升到七级了都。<br>目前玩来，这个故事给我的感受是：「黑暗的人们用着黑暗的方式反抗着最为黑暗的社会」。这个游戏里，关于春销的部分有很多小剧情，其中第一个有小剧情的角色衣缝给了我很大的震撼。<br>衣缝原本是高二 JK，受着亚的教育催眠所害，在春销过程中对于世界的认知逐渐崩溃，发现了其黑暗的真面目。在她质问阿熊，认为他们反亚组织以春销作为手段赚钱同样也很黑暗之时，阿熊那做好了在亚毁灭的第二天被神明杀死的觉悟让我在某种方面肃然起敬。或许作为地下组织，他们同样是黑暗的，甚至可能更加黑暗，做着更加惨无人道的事情，但这一切都是为了反亚而做准备。<br>当然，这些反亚组织的春销做法在某种意义上确实违反人类道德，这又是一个无法解决的问题。还是那句话，一款小黄油能有如此深度，让我不得不佩服了……等下多娜多娜可是大黄油。<br>到目前为止多娜多娜我可以打满分。无论是剧情（前面有提，并且逻辑自洽，很好地埋许多伏笔）、音乐（他妈的 0dan map-2，我手疼了）、美术（赛博朋克风，完全喷射，并且 H scene 巨大的多）、游戏性（战斗难度适中、不需要刻意刷怪，部分角色设计很有意思，比如菊千代和爱丽丝两个角色都是高输出但是分别只能近战和远战）、人物（一大堆妹子，无论是什么 xp 总有一个满足你，cv 满分还有一大堆认识的）。主播有玩 HATIENAI RPG 时那种兴奋感了。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.3.2</title>
     <url>/2023.3.2/</url>
     <content><![CDATA[<p>今天是三月二号，《挂坠盒》落笔的二周年，卡斯诺生快。正巧这又是日志的三点钟！<br>萍水相逢也是前世之缘，马自立哒马自立哒！今天又是我<del>作为 DimlyP 初投稿</del>把班歌的 Cover 做完了。</p>
@@ -864,6 +855,15 @@
 <li>演唱：初音未来 V4C</li>
 </ul>
 <p>一个今天匆忙完成的半成品：<del><a href="https://github.com/DimlyL/BlogFile/blob/main/2023.3.2/%E6%B0%B8%E8%BF%9C%E9%83%BD%E4%BC%9A%E5%9C%A8%EF%BC%88feat.%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%EF%BC%89.wav">test004.wav</a></del>（第二天的重调版本：<a href="https://github.com/DimlyL/BlogFile/blob/main/2023.3.3/%E6%B0%B8%E8%BF%9C%E9%83%BD%E4%BC%9A%E5%9C%A8%EF%BC%88Cover%EF%BC%89%EF%BC%88feat.%20%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%EF%BC%89.wav">test007.wav</a>）。<br>第一次尝试调教，感觉好难而且调的很怪，但是已经很好了！（自我鼓励（？））</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.3.20</title>
+    <url>/2023.3.20/</url>
+    <content><![CDATA[<p>我开始打多娜多娜，久闻大名的业界神作。打到 DAY56，剧情是到刚刚把梅蒂可从医院里救出来避免 NTR，想要推的是绮菈绮菈，好感度升到七级了都。<br>目前玩来，这个故事给我的感受是：「黑暗的人们用着黑暗的方式反抗着最为黑暗的社会」。这个游戏里，关于春销的部分有很多小剧情，其中第一个有小剧情的角色衣缝给了我很大的震撼。<br>衣缝原本是高二 JK，受着亚的教育催眠所害，在春销过程中对于世界的认知逐渐崩溃，发现了其黑暗的真面目。在她质问阿熊，认为他们反亚组织以春销作为手段赚钱同样也很黑暗之时，阿熊那做好了在亚毁灭的第二天被神明杀死的觉悟让我在某种方面肃然起敬。或许作为地下组织，他们同样是黑暗的，甚至可能更加黑暗，做着更加惨无人道的事情，但这一切都是为了反亚而做准备。<br>当然，这些反亚组织的春销做法在某种意义上确实违反人类道德，这又是一个无法解决的问题。还是那句话，一款小黄油能有如此深度，让我不得不佩服了……等下多娜多娜可是大黄油。<br>到目前为止多娜多娜我可以打满分。无论是剧情（前面有提，并且逻辑自洽，很好地埋许多伏笔）、音乐（他妈的 0dan map-2，我手疼了）、美术（赛博朋克风，完全喷射，并且 H scene 巨大的多）、游戏性（战斗难度适中、不需要刻意刷怪，部分角色设计很有意思，比如菊千代和爱丽丝两个角色都是高输出但是分别只能近战和远战）、人物（一大堆妹子，无论是什么 xp 总有一个满足你，cv 满分还有一大堆认识的）。主播有玩 HATIENAI RPG 时那种兴奋感了。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1061,7 +1061,7 @@
   <entry>
     <title>2023.5.24</title>
     <url>/2023.5.24/</url>
-    <content><![CDATA[<p>今天在机房帮了一个高三学生的忙，他是政史地生，我一辈子达不到的高度。<br>他笨笨的，不会用电脑，感觉性格温柔老实，和我简直是两个极端了。<br>这种帮助陌生人或者被帮助的事情，大概一年也就有一次吧，希望我能为他的高考帮上一份忙。</p>
+    <content><![CDATA[<p>今天在机房帮了一个高三学生的忙，他是政史地的学生，我一辈子达不到的高度。<br>他笨笨的，不会用电脑，感觉性格温柔老实，和我简直是两个极端了。<br>这种帮助陌生人或者被帮助的事情，大概一年也就有一次吧，希望我能为他的高考帮上一份忙。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1069,7 +1069,7 @@
   </entry>
   <entry>
     <title>2023.5.27</title>
-    <url>/2023.5.28/</url>
+    <url>/2023.5.27/</url>
     <content><![CDATA[<p>今天终于 fc 了初音未来的消失 ex30。在此之外没有什么好说的了。<br>我不知道自己在做些什么。</p>
 ]]></content>
       <categories>
