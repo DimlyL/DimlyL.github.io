@@ -13,19 +13,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.15</title>
-    <url>/2022.11.15/</url>
-    <content><![CDATA[<p>好像说以后机房每天晚上都关电脑了。<br>那岂不是每天早上都要花半小时装一大堆安装包，尤其是这个 Hexo 博客老是搭不起来。</p>
-<span id="more"></span>
-<p>令人感到很败北的是今天早上的 NOIP 信心赛，只写了前两题就跑路写昨天晚上留下来的那道题了。<br>看 chaotic 和 rfsfreffr 他们半小时爆切前三题，还是要说自己思维能力不够。<br>rfs 总是强调我的码力巨量，我自己也同意这一点并且为其感到骄傲，但没有思维又有什么用呢？<br>但思维能力要怎么短时间训练啊，这是不可能的事吧。<br>距离 NOIP2022 只剩下 11 天了，怎么办啊。这也是让我感到败北的事情。<br>是不是初中生不能去了来着，为 zyy 哀悼。</p>
-<p>话说后天是不是就发榜了来着。不过 CCF 真的会那么准时吗。<br>这个发榜时间是不是太晚了点。</p>
-<p>今天又没有做多少题，就算了吧，上午心态搞得够崩了。<br>不过其实下午发现都不是很难的题，赛后补上了，这倒是好的。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.11.11</title>
     <url>/2022.11.11/</url>
     <content><![CDATA[<p>今天被 <a href="https://www.luogu.com.cn/problem/P7982">P7982 [JRKSJ R3] 琴琴的树</a> 折磨了一整天。<br>因此从早上十点头疼到晚上六点，不过最后做出来倒是感觉好多了。</p>
@@ -54,6 +41,31 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.11.16</title>
+    <url>/2022.11.16/</url>
+    <content><![CDATA[<p>今天早上我真的装了半个小时的安装包。草。<br>尤其是这个 npm 怎么老是挂掉连不上，开了镜像才能下东西。</p>
+<span id="more"></span>
+<p>常常抓右手食指上的包的最终结果是它破了。血流成河。<br>我发现这里出血量极大，十分钟停不下的那种，而且就算凝结了稍微碰一下又破了。<br>今天共计破了三次。释放的快感（雾）。<br>然后 2 号机房怎么人突然变那么多了（悲）。       </p>
+<p>另外一件事情是我发现我最近开始变得魔怔（大喜）。“你说得对”的频率高达 114514%！<br>真的是万能回复呢（主要是很多时候我真的不知道回答别人什么）。<br>再有一件事情是我发现我最近开始比较喜欢打扫卫生（？）。<br>为什么会这样啊，我也不知道，或许是寝室里根本没人值日的原因。<br>那么之前代替 zhaoyp 成为寝室长的政变是非常正确的，把寝室平均分拉高了 0.2。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.11.15</title>
+    <url>/2022.11.15/</url>
+    <content><![CDATA[<p>好像说以后机房每天晚上都关电脑了。<br>那岂不是每天早上都要花半小时装一大堆安装包，尤其是这个 Hexo 博客老是搭不起来。</p>
+<span id="more"></span>
+<p>令人感到很败北的是今天早上的 NOIP 信心赛，只写了前两题就跑路写昨天晚上留下来的那道题了。<br>看 chaotic 和 rfsfreffr 他们半小时爆切前三题，还是要说自己思维能力不够。<br>rfs 总是强调我的码力巨量，我自己也同意这一点并且为其感到骄傲，但没有思维又有什么用呢？<br>但思维能力要怎么短时间训练啊，这是不可能的事吧。<br>距离 NOIP2022 只剩下 11 天了，怎么办啊。这也是让我感到败北的事情。<br>是不是初中生不能去了来着，为 zyy 哀悼。</p>
+<p>话说后天是不是就发榜了来着。不过 CCF 真的会那么准时吗。<br>这个发榜时间是不是太晚了点。</p>
+<p>今天又没有做多少题，就算了吧，上午心态搞得够崩了。<br>不过其实下午发现都不是很难的题，赛后补上了，这倒是好的。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2022.11.17</title>
     <url>/2022.11.17/</url>
     <content><![CDATA[<p>我的颈椎啊。它要断了。</p>
@@ -61,18 +73,6 @@
 <p>今天没图。</p>
 <p>然后花了两个小时写掉了 <a href="https://www.luogu.com.cn/problem/CF666E">CF666E Forensic Examination</a>，但是颈椎还是一样。<br>最近早上从床上起来时总有一种四肢抽离浑身散架的感觉。<br>其实从初中就已经有这种现象了吧，不知道是不是都是这样的。<br>还有最近脚底巨痒，感觉都要磨出什么不好的东西了。这是坏的。</p>
 <p>说起来今天早上大概五点四十就出门了，只是因为昨天 chaotic 大清早爬出来的缘故。内卷。<br>然后因为我没有拖地寝室喜提 5.5 分（及格线 5.8 分）。果然没有我不行（恼怒）。<br>听到没有 zhaoyp，快扫地。@<a href="https://www.luogu.com.cn/user/302636">zhaoyp</a>。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.11.16</title>
-    <url>/2022.11.16/</url>
-    <content><![CDATA[<p>今天早上我真的装了半个小时的安装包。草。<br>尤其是这个 npm 怎么老是挂掉连不上，开了镜像才能下东西。</p>
-<span id="more"></span>
-<p>常常抓右手食指上的包的最终结果是它破了。血流成河。<br>我发现这里出血量极大，十分钟停不下的那种，而且就算凝结了稍微碰一下又破了。<br>今天共计破了三次。释放的快感（雾）。<br>然后 2 号机房怎么人突然变那么多了（悲）。       </p>
-<p>另外一件事情是我发现我最近开始变得魔怔（大喜）。“你说得对”的频率高达 114514%！<br>真的是万能回复呢（主要是很多时候我真的不知道回答别人什么）。<br>再有一件事情是我发现我最近开始比较喜欢打扫卫生（？）。<br>为什么会这样啊，我也不知道，或许是寝室里根本没人值日的原因。<br>那么之前代替 zhaoyp 成为寝室长的政变是非常正确的，把寝室平均分拉高了 0.2。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -105,6 +105,18 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.11.21</title>
+    <url>/2022.11.21/</url>
+    <content><![CDATA[<p>把星空列车推完了。甚是感动，但是没觉得很刀，可能是 Powerless233 提前说了一堆东西的原因。<br>可能说是大团圆结局的话刀的成分就会减少一点吧。姑且认为暗杀教室比这个刀，毕竟最后杀老师回不来了（？）</p>
+<span id="more"></span>
+<p>撒，来细数你玩过的 galgame 吧。不过应该没几部。<br>按顺序来应该是：高捷少女IS、少女*领域、糖调、ATRI、青空下的加缪、美少女万华镜（不知道应不应该算）、星空列车与白的旅行。<br>诚然前两部是给我影响最深的，尤其是从五年前就第一次接触高捷少女了，而且也只有这两个 gal 让我写了额外篇日记（一天写两篇）。<br>后面的四部，糖调和少女*领域是很像的东西，如果说我是先玩的糖调那么占有额外篇日记的就不是 Otome*Domain 了。不过糖调毕竟是我沿着 Otome*Domain 的 OST 找到的游戏，这是命了，而且我相比萝莉我更喜欢那种高中女生画风。<br>接着是 ATRI，Powerless233 推的游戏，既然如此就把它和星空列车与白的旅行放在一起说吧。这两部都是同样让我感觉不算很刀但是心里既难受又感动的作品，况且最后也都是团圆结局，nice 的。夏生和亚托莉还有六十年时间共度余生，真白心中的银河号还能永远地向前开着。<br>说到青空下的加缪，整体感觉内容是十分哲学的，令我肃然起敬，所以关于游戏内容的理解其实也很难说上什么。<del>唯一不满的地方是完全不知道选哪个好的选择支，一旦选错就 Bad End 了。</del><br>美少女万华镜只玩了前两部，说是拔作但是剧情确实不错，雾枝最后的献血真的颇为感动，雫也真的是完美的女孩。<br>话说我这个高一年纪阅历如此正常吗。是玩得少还是玩得多啊。</p>
+<p><img src="https://z4a.net/images/2022/11/21/080_large_evcg05b.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2022.11.22</title>
     <url>/2022.11.22/</url>
     <content><![CDATA[<p>我发现身边的人在聊世界杯，但是我一点不懂。<br>我好像对许多富有“男生个性”的东西不了解，比如说球、鞋之类的。<br>而且我还是特摄厨，特摄什么还是很容易遭受偏见的吧。</p>
@@ -113,18 +125,6 @@
 <p>我还发现月考提前到下个月 2 号和 3 号了。那这不是彻底寄掉了吗。<br>学长们是怎么对付 whk 的啊，这种东西永远也应付不来，况且基础本来就差。</p>
 <p>今天把图片透明的问题修掉了。这是好的。拿下面这只刚抓到的 Miku 测试↓。</p>
 <p><img src="https://z4a.net/images/2022/11/22/wallhaven-qz6l8q.jpg" alt=""></p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.11.21</title>
-    <url>/2022.11.21/</url>
-    <content><![CDATA[<p>把星空列车推完了。甚是感动，但是没觉得很刀，可能是 Powerless233 提前说了一堆东西的原因。<br>可能说是大团圆结局的话刀的成分就会减少一点吧。姑且认为暗杀教室比这个刀，毕竟最后杀老师回不来了（？）</p>
-<span id="more"></span>
-<p>撒，来细数你玩过的 galgame 吧。不过应该没几部。<br>按顺序来应该是：高捷少女IS、少女*领域、糖调、ATRI、青空下的加缪、美少女万华镜（不知道应不应该算）、星空列车与白的旅行。<br>诚然前两部是给我影响最深的，尤其是从五年前就第一次接触高捷少女了，而且也只有这两个 gal 让我写了额外篇日记（一天写两篇）。<br>后面的四部，糖调和少女*领域是很像的东西，如果说我是先玩的糖调那么占有额外篇日记的就不是 Otome*Domain 了。不过糖调毕竟是我沿着 Otome*Domain 的 OST 找到的游戏，这是命了，而且我相比萝莉我更喜欢那种高中女生画风。<br>接着是 ATRI，Powerless233 推的游戏，既然如此就把它和星空列车与白的旅行放在一起说吧。这两部都是同样让我感觉不算很刀但是心里既难受又感动的作品，况且最后也都是团圆结局，nice 的。夏生和亚托莉还有六十年时间共度余生，真白心中的银河号还能永远地向前开着。<br>说到青空下的加缪，整体感觉内容是十分哲学的，令我肃然起敬，所以关于游戏内容的理解其实也很难说上什么。<del>唯一不满的地方是完全不知道选哪个好的选择支，一旦选错就 Bad End 了。</del><br>美少女万华镜只玩了前两部，说是拔作但是剧情确实不错，雾枝最后的献血真的颇为感动，雫也真的是完美的女孩。<br>话说我这个高一年纪阅历如此正常吗。是玩得少还是玩得多啊。</p>
-<p><img src="https://z4a.net/images/2022/11/21/080_large_evcg05b.png" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -206,6 +206,18 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.11.6</title>
+    <url>/2022.11.6/</url>
+    <content><![CDATA[<p>昨天晚上梦到今天早上没有在寝室门口刷脸打卡。真是噩梦。      </p>
+<span id="more"></span>
+<p>今天 Powerless 等四人激情 Minecraft，我也想打。<br>但是发觉自己根本不会 MC，而且也没有笔记本电脑。<br>说起来如果有笔记本的话把 Hexo 搭在笔记本上会好很多吧……<br>万一一脚把机房电脑线踹断了这个博客就没了。或是被体验营的人关了。</p>
+<p>我把博客背景从草莓换成了高捷少女们。<br>虽然 NekoPara 的猫娘们也很可爱，但相对而言我还是更喜欢捷运站的日常。<br>但是我怎么好像就找不到一张四人合照啊（悲）只能把 NANA 先晾在一边了。<br><del>话说之前不是也只把 NANA 一人当博客背景了吗，这很平衡</del><br>说起来高捷少女的小说我还有好几本没有资源。淘宝上买不到实体书，原本以为有的。<br>外网能看到网络版，不过好贵啊，暂时没法看。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2022.11.5</title>
     <url>/2022.11.5/</url>
     <content><![CDATA[<p>来测试一下第一篇闲话。<br>今天在学校的机子上把 Hexo 博客搭起来了，可喜可贺。        </p>
@@ -219,39 +231,12 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.6</title>
-    <url>/2022.11.6/</url>
-    <content><![CDATA[<p>昨天晚上梦到今天早上没有在寝室门口刷脸打卡。真是噩梦。      </p>
-<span id="more"></span>
-<p>今天 Powerless 等四人激情 Minecraft，我也想打。<br>但是发觉自己根本不会 MC，而且也没有笔记本电脑。<br>说起来如果有笔记本的话把 Hexo 搭在笔记本上会好很多吧……<br>万一一脚把机房电脑线踹断了这个博客就没了。或是被体验营的人关了。</p>
-<p>我把博客背景从草莓换成了高捷少女们。<br>虽然 NekoPara 的猫娘们也很可爱，但相对而言我还是更喜欢捷运站的日常。<br>但是我怎么好像就找不到一张四人合照啊（悲）只能把 NANA 先晾在一边了。<br><del>话说之前不是也只把 NANA 一人当博客背景了吗，这很平衡</del><br>说起来高捷少女的小说我还有好几本没有资源。淘宝上买不到实体书，原本以为有的。<br>外网能看到网络版，不过好贵啊，暂时没法看。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.11.7</title>
     <url>/2022.11.7/</url>
     <content><![CDATA[<p>今天写了三道黑题，分别是 <a href="https://www.luogu.com.cn/problem/P5398">    P5398</a>、<a href="https://www.luogu.com.cn/problem/P4094">P4094</a>、<a href="https://www.luogu.com.cn/problem/P4770">P4770</a>。<br>一道莫队二次离线、两道字符串，我觉得今天已经很足够了。<br>但是又经常出现有思路但是没法写出来的情况，怎么办啊。     </p>
 <span id="more"></span>
 <p>好像隔壁省已经 CSP 出分了，不知道数据情况怎么样。好像 ZJ 明天 9:00 出分。<br>另外今天教练过来问，于是我们一大群人都报了 WC。还是希望能去线下观摩的。<br>尤其要看 ljc 杀穿全场（）</p>
 <p>打算找个时间看 BLACK SUN。好像十分深重的样子。<br>不过 BLACK 的 OP 是真的好听。<br>那么说起来等我旧平成了解的差不多后是不是应该去看看昭和骑士啊。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.12.17</title>
-    <url>/2022.12.17/</url>
-    <content><![CDATA[<p>我草我竟然活着回家了。上周末住校了可真痛苦。<br>好像疫情放开了，并且学校里出现了许多阳性。目前人还没事。</p>
-<span id="more"></span>
-<p>下周存在一个寝室文化建设，我打算展示我的 fufu 并且使用活字乱刷术配上生草语音。<br>今天晚上研究使用 PR，这个是成果。<a href="https://github.com/DimlyL/BlogFile/raw/main/2022.12.17/%E6%B4%BB%E5%AD%97%E4%B9%B1%E5%88%B7%E6%9C%AF.mp3">link</a>。</p>
-<blockquote>
-<p>大家好，我是一只fufu，也是5513的寝室长。</p>
-</blockquote>
-<p>还是未完成版，明天做完，嘿嘿。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -285,6 +270,21 @@
 <p>AI 情劣等生就是好啊。土味十足（<br>再比如之前写 <a href="https://www.luogu.com.cn/problem/P4070">P4070 [SDOI2016]生成魔咒</a> 时：</p>
 <figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="comment">/*</span></span><br><span class="line"><span class="comment">Buckle up it&#x27;s the time, yeah your fame is on the line</span></span><br><span class="line"><span class="comment">They are dealing with a lot of pressure all the fucking time</span></span><br><span class="line"><span class="comment">Spam your hearts, spam your hate, call &#x27;em losers, call &#x27;em great</span></span><br><span class="line"><span class="comment">Make a stupid thread discussing why your teams the best today (2×)</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">Red rabbits, yellow yaks, cyan creepers that&#x27;s a fact Is it llamas, is it bats, what&#x27;s their current mc stats?</span></span><br><span class="line"><span class="comment">Green guardians, axolotls, holy shit just pass the bottle</span></span><br><span class="line"><span class="comment">There&#x27;s a lot of people in here, but they&#x27;re probably just D tier</span></span><br><span class="line"><span class="comment">Purple pandas and the parrots, they will all just get embarrassed</span></span><br><span class="line"><span class="comment">I left ocelots at last, cuz i don’t know what rhymes with that</span></span><br><span class="line"><span class="comment">There are 10 teams, 40 people, and we&#x27;re gonna have some fun</span></span><br><span class="line"><span class="comment">Oh my god all of twitter&#x27;s fighting because they&#x27;ve never seen the sun before..</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">Wait- Dream has clients, Sapnap&#x27;s sighing, Michael&#x27;s busy running ads</span></span><br><span class="line"><span class="comment">I am dogshit, i have never even played mc like that Punz fell off, Sparklez’s cursed, Jack is really fucking bald</span></span><br><span class="line"><span class="comment">Seapeekay stick to your bedwars, guys just end the discord call</span></span><br><span class="line"><span class="comment">Tommyinnit will not win it, Philza&#x27;s back is cracking hard</span></span><br><span class="line"><span class="comment">Connor stick to bttv, Fundy&#x27;s playing from his yard</span></span><br><span class="line"><span class="comment">Scott&#x27;s played all the games already, whoops but he&#x27;s not really good</span></span><br><span class="line"><span class="comment">5up went, ripped off a soda, Antfrost just alt F4 dude</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">Wilbur&#x27;s using fast food wifi as his internet connection</span></span><br><span class="line"><span class="comment">Ranboo&#x27;s busy farming subs, Tubbo&#x27;s team won&#x27;t take a dub</span></span><br><span class="line"><span class="comment">Tap-L ring the bell, Captain Puffy think she&#x27;ll win</span></span><br><span class="line"><span class="comment">I give Niki A for effort but the chance to win is thin</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">(Chorus)</span></span><br><span class="line"><span class="comment">Buckle up it&#x27;s the time, yeah your fame is on the line They are dealing with a lot of pressure all the fucking time</span></span><br><span class="line"><span class="comment">Spam your hearts, spam your hate, call &#x27;em losers, call &#x27;em great</span></span><br><span class="line"><span class="comment">Make a stupid thread discussing why your teams the best today</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">Buckle up it&#x27;s the time, yeah your fame is on the line They are dealing with a lot of pressure all the fucking time</span></span><br><span class="line"><span class="comment">Spam your hearts, spam your hate, call &#x27;em losers, call &#x27;em great</span></span><br><span class="line"><span class="comment">Make a stupid thread discussing why your team is the best</span></span><br><span class="line"><span class="comment">Wait-</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">This is to show, hope you know, that we&#x27;re playing a block game If you&#x27;re mad at a performance, no one cares about your claims...</span></span><br><span class="line"><span class="comment">We&#x27;re just having fun (4x)</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">Just kidding my team is going to fucking win and shit on everyone else!</span></span><br><span class="line"><span class="comment">*/</span></span><br></pre></td></tr></table></figure>
 <p>我直接把 Quackity 的整首 MCC Song 歌词扔了上去。真的很好听，也很令人感动。<br>不过多数时候还是没有那么疯狂的，我也不想让开头的注释占掉我一半的码量。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.12.17</title>
+    <url>/2022.12.17/</url>
+    <content><![CDATA[<p>我草我竟然活着回家了。上周末住校了可真痛苦。<br>好像疫情放开了，并且学校里出现了许多阳性。目前人还没事。</p>
+<span id="more"></span>
+<p>下周存在一个寝室文化建设，我打算展示我的 fufu 并且使用活字乱刷术配上生草语音。<br>今天晚上研究使用 PR，这个是成果。<a href="https://github.com/DimlyL/BlogFile/raw/main/2022.12.17/%E6%B4%BB%E5%AD%97%E4%B9%B1%E5%88%B7%E6%9C%AF.mp3">link</a>。</p>
+<blockquote>
+<p>大家好，我是一只fufu，也是5513的寝室长。</p>
+</blockquote>
+<p>还是未完成版，明天做完，嘿嘿。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -340,6 +340,15 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.12.24</title>
+    <url>/2022.12.24/</url>
+    <content><![CDATA[<p>不算上 NOIP 的测题记录的话，一个月不写题计划圆满完成！（）<br>那么最近在大力地摆烂。pjsk &amp; PVZ2 &amp; Malody，就是不上网课。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2022.12.22</title>
     <url>/2022.12.22/</url>
     <content><![CDATA[<p>半夜时分发烧到四十度。<br>于是乎背诵《琵琶行》和《登泰山记》，前者漏了好多句话/kk</p>
@@ -355,15 +364,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.12.24</title>
-    <url>/2022.12.24/</url>
-    <content><![CDATA[<p>不算上 NOIP 的测题记录的话，一个月不写题计划圆满完成！（）<br>那么最近在大力地摆烂。pjsk &amp; PVZ2 &amp; Malody，就是不上网课。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.12.26</title>
     <url>/2022.12.26/</url>
     <content><![CDATA[<p>果然是说并不是世界上的所有人都喜欢我。嘿，既然是在这个世界，总是会听到负面消息的。<br>对于这种事情我一直是采取摆烂，即使讨厌别人的什么也不指出，被别人指出了什么也懒得反驳。不过我还是有点生气的。<br>大概是因为其他方面也类似的摆烂政策，自初中开始我就发现自己有着奇妙的低存在感。<del>还被初中班主任官方认证了。</del><br>所以大致上也没多少人来在意我，因此更不会评价我了。这是好的吧。<br>现在想来，故事既是从这里结束的，也是从这里重新开始的，还蛮有意思的呢。<br>我尚且还是喜欢着这个世界，至少目前它待我不错。</p>
@@ -371,20 +371,6 @@
 <p>我这两晚在仔细考证。因为要做「故事之后的故事」整理计划，所以一整晚在翻日记。<br>像是前天晚上为了找到「故事之后的故事」这个词的源头，我发现在《日记5-终局》里提到了它的核心精神，《日记6-2021.9.5》中第一次用了这个词。不过仅是找到这两点就花了我一个半小时。这可好累。<br>而昨天晚上则是《列车少女》。虽然很明确的 2021.12.20 + 2022.6.9~2022.6.12 + 2022.6.14 都在脑子里了但还是翻了好久。<br>大概也与晚上的环境有关吧……？总是会胡思乱想的。</p>
 <p>接着我开了一个随机 mod 的只狼一周目坑。好家伙一上来就剑圣·苇名一心和无首狮子猿的战斗记忆。<br>目前打来一切正常，还没有开局撞脸樱龙，我人还好（）别说完就刷我脸上（）</p>
 <p>sanaka87 建议我打 CF。<br>正好开始复健 OI 了。找机会试试？</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.12.28</title>
-    <url>/2022.12.28/</url>
-    <content><![CDATA[<p>无论怎么听歌最终总会绕回<a href="https://music.163.com/song?id=4886068">快乐合成器</a>。<br>又回来了，我该如何逃出这莫比乌斯之环？</p>
-<span id="more"></span>
-<p>说起来明天还有个恋爱 FLOPS 第 12 集看，这周末啥都没得看了。孤独摇滚完结，Geats 年末停播一周，呜呜呜。<br>没事，进入一月我又有很多的厕纸可以观察（？）</p>
-<p>又打了好几天的 pjsk，发现完全失去 4k 能力。又退化到 1dan 水平了，哼啊啊啊啊啊。<br>等下我又会了，感谢 Powerless233 告诉我要把手给抬起来打，底力大幅提升。<br>3dan 切好像有点会打了。</p>
-<p><img src="https://z4a.net/images/2022/12/28/-3dan-.png" alt=""></p>
-<p>今天二刷完了《少女*领域》，是结束了 Kazari 线，前两天分别是 Hinata 线和 Yuzu 线，和最初的打法反着来。<br>阅读文本速度甚至比第一次打的时候还要慢。真的是想仔细感受这美好的故事呢。<br>Hinata 线至今仍是我觉得做的最好的 galgame 路线。又重新被刀了一次呜呜呜。<br>然后接下来是《糖调》的二刷计划，Kori 我来了（）</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -405,6 +391,20 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.12.28</title>
+    <url>/2022.12.28/</url>
+    <content><![CDATA[<p>无论怎么听歌最终总会绕回<a href="https://music.163.com/song?id=4886068">快乐合成器</a>。<br>又回来了，我该如何逃出这莫比乌斯之环？</p>
+<span id="more"></span>
+<p>说起来明天还有个恋爱 FLOPS 第 12 集看，这周末啥都没得看了。孤独摇滚完结，Geats 年末停播一周，呜呜呜。<br>没事，进入一月我又有很多的厕纸可以观察（？）</p>
+<p>又打了好几天的 pjsk，发现完全失去 4k 能力。又退化到 1dan 水平了，哼啊啊啊啊啊。<br>等下我又会了，感谢 Powerless233 告诉我要把手给抬起来打，底力大幅提升。<br>3dan 切好像有点会打了。</p>
+<p><img src="https://z4a.net/images/2022/12/28/-3dan-.png" alt=""></p>
+<p>今天二刷完了《少女*领域》，是结束了 Kazari 线，前两天分别是 Hinata 线和 Yuzu 线，和最初的打法反着来。<br>阅读文本速度甚至比第一次打的时候还要慢。真的是想仔细感受这美好的故事呢。<br>Hinata 线至今仍是我觉得做的最好的 galgame 路线。又重新被刀了一次呜呜呜。<br>然后接下来是《糖调》的二刷计划，Kori 我来了（）</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2022.12.30</title>
     <url>/2022.12.30/</url>
     <content><![CDATA[<p>最近沉迷于 pjsk 剧情。看上去好像有好多要补的。<br>今天把 WS 的主线给看掉了，评价是非常喜剧（？）<br>然后接着看了一些活动剧情。</p>
@@ -417,6 +417,18 @@
     <title>2022.12.31</title>
     <url>/2022.12.31/</url>
     <content><![CDATA[<p>2022 年的最后一天，结果是睡到十二点才醒的。昨晚写数学作业写着写着就睡着了是怎么一回事。<br>我是否应该发表一些年终感言之类的，不过还是算了吧。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.12.4</title>
+    <url>/2022.12.4/</url>
+    <content><![CDATA[<p>周末回来了，以及这几天 OI 班被拉出来大力单独补课。不用月考了耶耶耶。<br>但是还有期末考。真是令人悲伤的事情。    </p>
+<span id="more"></span>
+<p>闲着没事开着双难速通了一个只狼的六周目档，复归常人结局。<br>被三年前义父前面那个大胖子在一丝血的情况下打死两次是什么鬼啊。人给气炸了。<br>话说战神 5 都快发售一个月了，我还是没得玩，也不知道老爸什么时候才会买。<br>等等等等打住，现在是 whk 时间，不能打太多游戏。暂且把许多的颓废活动安排到寒假吧。<br><del>我觉得上面这句话仅限于脑内革命而无法实践于行动中。</del></p>
+<p>关于最近的创作想法。好久没写东西了不是吗？<br>ths 有一个关于日记的想法。我是对此赞成的，至少我曾有过类似的“伪日记”，虽然从未实施。<br><del>那个选择拿来当伪日记的本子现在是我的日志 1。真是奇妙。</del><br>我则有关于“命中注定的对决”的想法。像是乔纳森和迪奥，BLACK 和影月，铠武和巴隆。<br>目前的思路是扩展到了“勇者斗恶龙”上面……？</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -445,18 +457,6 @@
 <span id="more"></span> 
 <p>大约今天凌晨 4:40 时通关了《献给神明般的你》。打完的时候快猝死了。<br>首先好像我把霧香的名字叫错了，至少我这边汉化组写的是霧而不是雾。不过好像差不多。<br>今天凌晨的情况大致上是正常通关玲音线，仔细观察叶月线，光速快进爱彩梨线。<br>玲音线没有期待的好。会长你最后是不是忘记了什么（指你哥）。还有你为什么天天卖我啊。（月咏、玲音、叶月线）<br>然后叶月线玩下来觉得很惊艳，先是速通了三个女主的主线，后面块斗和流浪仓鼠对拼真的精彩。<br>说到 AI 相关的问题，很经典的就是关于 AI 的自我感情这一事，这个在月咏线得到体现；另一个就是人类是否能够战胜 AI，这个就是叶月线了。所以把这两个放在封面 C 位了是吧，<del>拉娜和霧香痛哭流涕。</del><br>叶月只是那个刚好在那个时候下载了改变性格 APP 的人，如此的巧合算是缘分吧。<br>我最近有在思考关于缘分的事情，因此就也就感悟较深。<br>爱彩梨线没仔细看，因为是快进掉的。但是好像这个小丫头也很厉害，最后也很暖。<br>所以总算是把这一整个 gal 打完了，应该是我目前为止玩过的体量最大的 gal 了吧。大致上数了一下好像一共有十四个结局（月咏、拉娜HE、拉娜BE、霧香HE、霧香BE、索菲亚、爱彩梨、玲音、叶月1、叶月2、旧拉娜HE、旧拉娜BE、旧索菲亚1、旧索菲亚2）。<br>无数的心愿与救赎……还得是这个世界啊。</p>
 <p>因为通关了所以现在可以看相关信息了。首先是把 OP 和 ED 听了，因为每次通关都要看 ED 所以这个歌我已经很熟悉了，而且完整版也确确实实好听的。<br>另外再逛了一下，貌似认为剧情很烂的人也不是特别的多，可能只是一个星期前我碰巧看到了太多负面消息了。现在感觉好多了！</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.12.4</title>
-    <url>/2022.12.4/</url>
-    <content><![CDATA[<p>周末回来了，以及这几天 OI 班被拉出来大力单独补课。不用月考了耶耶耶。<br>但是还有期末考。真是令人悲伤的事情。    </p>
-<span id="more"></span>
-<p>闲着没事开着双难速通了一个只狼的六周目档，复归常人结局。<br>被三年前义父前面那个大胖子在一丝血的情况下打死两次是什么鬼啊。人给气炸了。<br>话说战神 5 都快发售一个月了，我还是没得玩，也不知道老爸什么时候才会买。<br>等等等等打住，现在是 whk 时间，不能打太多游戏。暂且把许多的颓废活动安排到寒假吧。<br><del>我觉得上面这句话仅限于脑内革命而无法实践于行动中。</del></p>
-<p>关于最近的创作想法。好久没写东西了不是吗？<br>ths 有一个关于日记的想法。我是对此赞成的，至少我曾有过类似的“伪日记”，虽然从未实施。<br><del>那个选择拿来当伪日记的本子现在是我的日志 1。真是奇妙。</del><br>我则有关于“命中注定的对决”的想法。像是乔纳森和迪奥，BLACK 和影月，铠武和巴隆。<br>目前的思路是扩展到了“勇者斗恶龙”上面……？</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -515,17 +515,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.1.23</title>
-    <url>/2023.1.23/</url>
-    <content><![CDATA[<p>这几天一直在阴间作息，毕竟是好不容易能在晚上摸到电脑的机会。<br>貌似前天是四点睡的，昨天是五点，今天更是要到六点猝死！<br>即使通宵也没法完成昨天布置下的这么多任务啊……</p>
-<span id="more"></span>
-<p>这两天推掉了妹吻的朝日和真昼线。好像没有精神一次性接着推弥生和早弥线，可能是累了。<br>说起来这明明是 2016 年的游戏，UI 和画风什么的却好复古的样子，而且各种出 BUG 简直就像是老游戏无法适配新系统的那种感觉。拜托不要在 H scene 冲到一半的时候跳出来错误窗口啊喂（）<br>至于档案计划进展喜人，具体表现为我大致上一共工作了六七个小时却只写了九个人物。他妈的。<br>原本根本没想到要花的时间这么多。为什么会这么多？</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.1.22</title>
     <url>/2023.1.22/</url>
     <content><![CDATA[<p>这几天事情比较多，也比较忙，没有机会写闲话，就连日记也敷衍了事了。<br>大概在这里稍稍地梳理一下过去与未来。</p>
@@ -552,10 +541,11 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.1.28</title>
-    <url>/2023.1.28/</url>
-    <content><![CDATA[<p>我愿意称南京为静电之城，已经被电了无数次了，从此不敢再按电梯按钮。<br>今天晚上不知道跑去哪里玩了，但是全都是人。<br>这样的人满为患令我感到恐惧，反倒是回来的地铁让我舒心。</p>
-<p>另外在手机上尝试下了一点 galgame，也终于弄了一个 xp3player。到手了！<br>以后进入手机 galgame 时代了（雾），虽然应该还是用 PC 玩的舒服吧。<br>也在手机上直接下了一个 Summer Pockets，当时暑假看 Stogic 推。就是不知道下过来有没有中文，可能没有？没有的话就只好再找资源丢进 xp3player 了。</p>
+    <title>2023.1.23</title>
+    <url>/2023.1.23/</url>
+    <content><![CDATA[<p>这几天一直在阴间作息，毕竟是好不容易能在晚上摸到电脑的机会。<br>貌似前天是四点睡的，昨天是五点，今天更是要到六点猝死！<br>即使通宵也没法完成昨天布置下的这么多任务啊……</p>
+<span id="more"></span>
+<p>这两天推掉了妹吻的朝日和真昼线。好像没有精神一次性接着推弥生和早弥线，可能是累了。<br>说起来这明明是 2016 年的游戏，UI 和画风什么的却好复古的样子，而且各种出 BUG 简直就像是老游戏无法适配新系统的那种感觉。拜托不要在 H scene 冲到一半的时候跳出来错误窗口啊喂（）<br>至于档案计划进展喜人，具体表现为我大致上一共工作了六七个小时却只写了九个人物。他妈的。<br>原本根本没想到要花的时间这么多。为什么会这么多？</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -571,9 +561,10 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.1.4</title>
-    <url>/2023.1.4/</url>
-    <content><![CDATA[<p>然后我又掉到了落日之中，被血红色的光芒包围而燃烧着。</p>
+    <title>2023.1.28</title>
+    <url>/2023.1.28/</url>
+    <content><![CDATA[<p>我愿意称南京为静电之城，已经被电了无数次了，从此不敢再按电梯按钮。<br>今天晚上不知道跑去哪里玩了，但是全都是人。<br>这样的人满为患令我感到恐惧，反倒是回来的地铁让我舒心。</p>
+<p>另外在手机上尝试下了一点 galgame，也终于弄了一个 xp3player。到手了！<br>以后进入手机 galgame 时代了（雾），虽然应该还是用 PC 玩的舒服吧。<br>也在手机上直接下了一个 Summer Pockets，当时暑假看 Stogic 推。就是不知道下过来有没有中文，可能没有？没有的话就只好再找资源丢进 xp3player 了。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -588,6 +579,15 @@
 <p>（搞了很久都没能成功拆包，下面的 CG 是自己截图的，画质不够。）</p>
 <p><img src="https://z4a.net/images/2023/01/05/693d20bce38164e3926053b67edd6138.png" alt=""></p>
 <p><img src="https://z4a.net/images/2023/01/05/20c65ce0f9f1ebf79.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.1.4</title>
+    <url>/2023.1.4/</url>
+    <content><![CDATA[<p>然后我又掉到了落日之中，被血红色的光芒包围而燃烧着。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -611,6 +611,16 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.1.9</title>
+    <url>/2023.1.9/</url>
+    <content><![CDATA[<p>开始复健 OI 了，开始了开始了。结束摆烂生活，<del>一个星期后继续。</del><br>学校机房 Malody 不能，实在是太卡了没法读谱，而且键盘也不一样。<br>争取下周把笔记本电脑和键盘带过来。</p>
+<p>全！身！全！霊！MORE MORE JUMP！</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.2.10</title>
     <url>/2023.2.10/</url>
     <content><![CDATA[<p>肯定是我前些日子匆匆忙忙地把茜线推掉的缘故，茜现在在诅咒我遭受寒冰的攻击。<br>你妈的为什么从南京回到温州了还是那么冷啊。这还是大中午的时候呢。</p>
@@ -618,16 +628,6 @@
 <p>今天是开始停课的第二天，不过因为神秘的模拟赛心态大爆炸力。<br>顺带一提之前在 NOIP 停课时期的<a href="https://www.luogu.com.cn/blog/Dimly/BaiLan">停课记录</a>现在继续更新了。<br>现在的业余爱好大致上是学习 VOCALOID 以及在故事方面的填坑。有机会就打 gal。<br>以及努力地开始变得自律，引体向上连十个都做不了的现在的我没有资格面对过去那个自己！<br>我突然想起来是不是得抽时间看红楼梦。悲。    </p>
 <p>今天打饭的时候被连续插队了两次是什么鬼。</p>
 <p>最近会看<a href="https://space.bilibili.com/186463/">奈奈</a>直播。马上就是兔子的四周年了呢！</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.1.9</title>
-    <url>/2023.1.9/</url>
-    <content><![CDATA[<p>开始复健 OI 了，开始了开始了。结束摆烂生活，<del>一个星期后继续。</del><br>学校机房 Malody 不能，实在是太卡了没法读谱，而且键盘也不一样。<br>争取下周把笔记本电脑和键盘带过来。</p>
-<p>全！身！全！霊！MORE MORE JUMP！</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -656,23 +656,23 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.2.19</title>
-    <url>/2023.2.19/</url>
-    <content><![CDATA[<p>但是我今天把妹抱后宫线和妹抱 2 的空线推完了。朝日和空这类既是姐姐又是妹妹的设定很戳我。<br>甚至于晚上我花了十分钟就认真地推完了妹吻 2 的真昼线。因为日常在朝日线看过了，然后剩下的大部分都是 H scene。<br>那这样看上去的话好像妹抱 2 比妹吻 2 的正常剧情要多一些。</p>
+    <title>2023.2.18</title>
+    <url>/2023.2.18/</url>
+    <content><![CDATA[<p>最近听到自己名字的机会少了，有更多的人在叫我 Dimly。<br>我不认为在现实生活中丢失自己的原本姓名是一件好事。这就是 Internet Ruined Me 的最好证明吧？</p>
 <span id="more"></span>
-<p>发现奇怪的问题，可以接着我昨天的话谈。<br><del>我发现以下的话题需要排除掉某个人我确实很讨厌的人才能成立。</del><br>首先我昨天的闲话里阐述了我的生活方法是拉低自己的下限，俗称摆烂。久而久之大致上就会变得对很多事情不关心。<br>在我的寝室里有两位同学在长达十分钟的夜聊里非常喜欢锐评别人，不过由于我停课较多且不关心这些对于他们说的大部分事情都没有在场直接目击。比如最近他们常锐评班里某位上学期的编创课代表。<br>前情提要之类的是我们在选班歌，于是那位课代表自己写曲。我大致上听过一次，感觉上还好（我发现我经常使用“还好”这类不偏不倚的话语）<del>，虽然我觉得没有星光的曲好（人家毕竟是专业的我在想什么）</del>，但是他们一直在锐评他说他很展（展示）。他们顺带攻击另外一个人，详情的什么我不写了。<br>类似的事还有很多，也不止我寝室里的那两个同学，即使是学校里这个小小的社会也有着风评多变，谣言乱传的现象。当然我不敢肯定风评、谣言的真实性，只是因为这些事情与自己毫无关联而从旁观者的视角审视着一切，但是由于我自身的性格原因之类的我大致上最后给出的都是“还好”这样的中肯评价。<br>在一个方面，我会把我身边的人都想的很好，在他们锐评别人时我总是觉得他们的说法实在过度。这可能源于我对自己初中时那个暴躁的性格的厌恶，直到如今仍然认为自己是一个坏人，而大家都是好人。<br>可以再谈谈某个风评不好，以“腾飞”为著称的同学。是一个初中的同学，他的风评不好从初中就开始了，甚至延续到至今<del>（我初中整个班基本现在都还在这里。）</del>。我和他交情不多，但偶尔会碰上的。至少我也没感觉他人不是很好的样子，他也会拿自己的梗来开玩笑。<br>或许是我对很多事情真的了解不多，或许是他们对很多事情真的了解的很多。但是我只能从一个旁观者的角度来看。<br>可能在初中的时候我也体验过成为舆论的中心的感觉，也仅仅是一小会儿，因为与某个女同学关系较好而成为同学们的调侃对象。那个时候我大致上已经把自己的性格给修正好了所以我也没干什么不好的事情来反杀。<br>简而言之就是我真的不大懂他们的锐评行为，无论是锐评这个行为本身还是他们锐评的事情本身。<br>我不会做出这样的锐评，考虑到也有可能是一方面我不大想要招惹人。其实更多地也有可能是我对那类事情不感兴趣。<br>大概也是在初中的时候逐步认识到了很多人并不想听你说的话题（Quackity 的 Nobody Asked 真的直接点醒了我这一点），后来我就逐渐学会闭嘴了，把我想说的话通通丢进日记、博客、洛谷犇犇里。那是一个可以表达自己，如果有人看到了他也可以直接忽略，说不定还有人有兴趣来找你搭话的地方，真的要比找一个人说这个话题好很多。所以能有共同话题这种事情是很好的，比如我确能和 ths 聊关于创作的事情，和 Powerless233 聊音游和术力口，这些都是我甚是珍惜的事情。<br>我感觉我好像扯远了，而且我马上也要回寝室了，暂时就说这么多。</p>
-<p>（女未空↓）<br><img src="https://z4a.net/images/2023/02/19/e5643eb9c33fa9f4e11984b9733de735.jpg" alt=""></p>
+<p>谈论一下关于最近的在身边发生的某些事情的感想，并且不对相关人员指名道姓。<br>首先是自己三年级时做手术留下的疤的那件事情，直到现在多少年了还是留在那里，记得小学时我对这个很是自卑，不过现在已经无所谓了，如此想来大概是初中的过程中逐渐淡化掉了这种观念。<br>另外一个是初中那时我很讨厌一个人<del>（真的完全可以想到是谁。）</del>，不过现在也无所谓了。<br>类似的事情也有很多，大致上可以描述成随着年龄的增长我的各种心态已经逐渐摆烂了。<br>无论是高兴的还是悲伤的情绪通通摆烂，懒得去思考了。这样的心态不是很棒吗。<br>提到这个摆烂的心态还要论我初中时奉行的一个理论，我觉得这个会与那个心态变化有关。<br>简单来说，这个理论描述的是人与生活的对峙。生活指的大概是每个人的日常生活，也包括他在社会中的地位，在人际关系中的地位之类。<br>人确实有改变生活的潜力，但是人往往无法在这件事情上得到成功。我想每个人大致上都深有体会。<br>所以改变生活不如改变自己，永远自己不是天选之人就不要尝试鲁莽地与生活站在对立面。<br>像是我就选择拉低自己的下限，让自己更易于接受生活。因此活的不要脸。这不也蛮好。<br>因此对于这两天关于某个人的 emo 的消息我也很是希望他能够接受我这种想法。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
       </categories>
   </entry>
   <entry>
-    <title>2023.2.18</title>
-    <url>/2023.2.18/</url>
-    <content><![CDATA[<p>最近听到自己名字的机会少了，有更多的人在叫我 Dimly。<br>我不认为在现实生活中丢失自己的原本姓名是一件好事。这就是 Internet Ruined Me 的最好证明吧？</p>
+    <title>2023.2.19</title>
+    <url>/2023.2.19/</url>
+    <content><![CDATA[<p>但是我今天把妹抱后宫线和妹抱 2 的空线推完了。朝日和空这类既是姐姐又是妹妹的设定很戳我。<br>甚至于晚上我花了十分钟就认真地推完了妹吻 2 的真昼线。因为日常在朝日线看过了，然后剩下的大部分都是 H scene。<br>那这样看上去的话好像妹抱 2 比妹吻 2 的正常剧情要多一些。</p>
 <span id="more"></span>
-<p>谈论一下关于最近的在身边发生的某些事情的感想，并且不对相关人员指名道姓。<br>首先是自己三年级时做手术留下的疤的那件事情，直到现在多少年了还是留在那里，记得小学时我对这个很是自卑，不过现在已经无所谓了，如此想来大概是初中的过程中逐渐淡化掉了这种观念。<br>另外一个是初中那时我很讨厌一个人<del>（真的完全可以想到是谁。）</del>，不过现在也无所谓了。<br>类似的事情也有很多，大致上可以描述成随着年龄的增长我的各种心态已经逐渐摆烂了。<br>无论是高兴的还是悲伤的情绪通通摆烂，懒得去思考了。这样的心态不是很棒吗。<br>提到这个摆烂的心态还要论我初中时奉行的一个理论，我觉得这个会与那个心态变化有关。<br>简单来说，这个理论描述的是人与生活的对峙。生活指的大概是每个人的日常生活，也包括他在社会中的地位，在人际关系中的地位之类。<br>人确实有改变生活的潜力，但是人往往无法在这件事情上得到成功。我想每个人大致上都深有体会。<br>所以改变生活不如改变自己，永远自己不是天选之人就不要尝试鲁莽地与生活站在对立面。<br>像是我就选择拉低自己的下限，让自己更易于接受生活。因此活的不要脸。这不也蛮好。<br>因此对于这两天关于某个人的 emo 的消息我也很是希望他能够接受我这种想法。</p>
+<p>发现奇怪的问题，可以接着我昨天的话谈。<br><del>我发现以下的话题需要排除掉某个人我确实很讨厌的人才能成立。</del><br>首先我昨天的闲话里阐述了我的生活方法是拉低自己的下限，俗称摆烂。久而久之大致上就会变得对很多事情不关心。<br>在我的寝室里有两位同学在长达十分钟的夜聊里非常喜欢锐评别人，不过由于我停课较多且不关心这些对于他们说的大部分事情都没有在场直接目击。比如最近他们常锐评班里某位上学期的编创课代表。<br>前情提要之类的是我们在选班歌，于是那位课代表自己写曲。我大致上听过一次，感觉上还好（我发现我经常使用“还好”这类不偏不倚的话语）<del>，虽然我觉得没有星光的曲好（人家毕竟是专业的我在想什么）</del>，但是他们一直在锐评他说他很展（展示）。他们顺带攻击另外一个人，详情的什么我不写了。<br>类似的事还有很多，也不止我寝室里的那两个同学，即使是学校里这个小小的社会也有着风评多变，谣言乱传的现象。当然我不敢肯定风评、谣言的真实性，只是因为这些事情与自己毫无关联而从旁观者的视角审视着一切，但是由于我自身的性格原因之类的我大致上最后给出的都是“还好”这样的中肯评价。<br>在一个方面，我会把我身边的人都想的很好，在他们锐评别人时我总是觉得他们的说法实在过度。这可能源于我对自己初中时那个暴躁的性格的厌恶，直到如今仍然认为自己是一个坏人，而大家都是好人。<br>可以再谈谈某个风评不好，以“腾飞”为著称的同学。是一个初中的同学，他的风评不好从初中就开始了，甚至延续到至今<del>（我初中整个班基本现在都还在这里。）</del>。我和他交情不多，但偶尔会碰上的。至少我也没感觉他人不是很好的样子，他也会拿自己的梗来开玩笑。<br>或许是我对很多事情真的了解不多，或许是他们对很多事情真的了解的很多。但是我只能从一个旁观者的角度来看。<br>可能在初中的时候我也体验过成为舆论的中心的感觉，也仅仅是一小会儿，因为与某个女同学关系较好而成为同学们的调侃对象。那个时候我大致上已经把自己的性格给修正好了所以我也没干什么不好的事情来反杀。<br>简而言之就是我真的不大懂他们的锐评行为，无论是锐评这个行为本身还是他们锐评的事情本身。<br>我不会做出这样的锐评，考虑到也有可能是一方面我不大想要招惹人。其实更多地也有可能是我对那类事情不感兴趣。<br>大概也是在初中的时候逐步认识到了很多人并不想听你说的话题（Quackity 的 Nobody Asked 真的直接点醒了我这一点），后来我就逐渐学会闭嘴了，把我想说的话通通丢进日记、博客、洛谷犇犇里。那是一个可以表达自己，如果有人看到了他也可以直接忽略，说不定还有人有兴趣来找你搭话的地方，真的要比找一个人说这个话题好很多。所以能有共同话题这种事情是很好的，比如我确能和 ths 聊关于创作的事情，和 Powerless233 聊音游和术力口，这些都是我甚是珍惜的事情。<br>我感觉我好像扯远了，而且我马上也要回寝室了，暂时就说这么多。</p>
+<p>（女未空↓）<br><img src="https://z4a.net/images/2023/02/19/e5643eb9c33fa9f4e11984b9733de735.jpg" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -707,6 +707,16 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.2.27</title>
+    <url>/2023.2.27/</url>
+    <content><![CDATA[<p>花了两个小时给妹抱立绘抠图，最后做了这么一张合照，Tinkle Position 最终纪念。</p>
+<p><img src="https://z4a.net/images/2023/02/27/7abbaee1ffb385f4b7198d46554e4886.png" alt=""></p>
+<script type="math/tex; mode=display">\small\texttt{Tinkle Position}</script>]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.2.26</title>
     <url>/2023.2.26/</url>
     <content><![CDATA[<p>昨天回家后干碎妹抱 2 的茜线和琥珀线，今天干碎澄线和后宫线，在妹吻之后妹抱的故事也结束了呜呜呜。<br>Tinkle Position，让我们一起重建罗马吧！（雾）快给爷出妹吻和妹抱的第三部。我才不要 Grand Finale 和 Congratulations。We’ll go on！<br>给两个游戏拍了许久未见的全家福。<del>拍完我才发现我好像把妹吻家的妈给忘了。</del><br>妹抱使用手机截图的所以清晰度低的一批，改日再直接导出留作纪念。（2.27：已换源）<br>果然我已经彻彻底底地倒向了废萌。接下来是童贞兄妹了，Sister Position 见。</p>
@@ -718,19 +728,31 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.2.27</title>
-    <url>/2023.2.27/</url>
-    <content><![CDATA[<p>花了两个小时给妹抱立绘抠图，最后做了这么一张合照，Tinkle Position 最终纪念。</p>
-<p><img src="https://z4a.net/images/2023/02/27/7abbaee1ffb385f4b7198d46554e4886.png" alt=""></p>
-<script type="math/tex; mode=display">\small\texttt{Tinkle Position}</script>]]></content>
+    <title>2023.2.28</title>
+    <url>/2023.2.28/</url>
+    <content><![CDATA[<p>昨天的我躺在床上回忆了时间之巅的所有故事，从它还是个雏形开始，走出了红色的基地，经历了欢笑和离别，于飞翔在天空中的梦里猛然惊醒，随后删除存档抛弃一切执念再次陷入梦中。<br>但那执念是不会消灭的，无数的梦境叠加逐渐构造出了那三人之间的永恒的爱。随着梦境醒来，从这一点出发，映射出了由平行世界组成的漫天星空。施展奥义、戴上面具、穿梭时空、崩坏重组、虚无主义、彩虹之间、再次坠落、失去梦境、文件海洋、傀儡情感、记忆回显、循环结局……<br>从时间之巅上跳下去的话，一切都停止了。但是时律知道，到目前为止这还没有发生。<br>无限重生的故事之后，回过头来的紫维露出了微笑。<br>时幻，我的故事和你一样，永远也不会结束啊！</p>
+]]></content>
       <categories>
         <category>神秘</category>
       </categories>
   </entry>
   <entry>
-    <title>2023.2.28</title>
-    <url>/2023.2.28/</url>
-    <content><![CDATA[<p>昨天的我躺在床上回忆了时间之巅的所有故事，从它还是个雏形开始，走出了红色的基地，经历了欢笑和离别，于飞翔在天空中的梦里猛然惊醒，随后删除存档抛弃一切执念再次陷入梦中。<br>但那执念是不会消灭的，无数的梦境叠加逐渐构造出了那三人之间的永恒的爱。随着梦境醒来，从这一点出发，映射出了由平行世界组成的漫天星空。施展奥义、戴上面具、穿梭时空、崩坏重组、虚无主义、彩虹之间、再次坠落、失去梦境、文件海洋、傀儡情感、记忆回显、循环结局……<br>从时间之巅上跳下去的话，一切都停止了。但是时律知道，到目前为止这还没有发生。<br>无限重生的故事之后，回过头来的紫维露出了微笑。<br>时幻，我的故事和你一样，永远也不会结束啊！</p>
+    <title>2023.2.6</title>
+    <url>/2023.2.6/</url>
+    <content><![CDATA[<p>回学校力，但是我还是在摆烂的。<br>昨天晚上整理完了术力口歌单，继续推了一点 galgame 档案计划。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.3.13</title>
+    <url>/2023.3.13/</url>
+    <content><![CDATA[<p>这段日子高强度折磨自己。顶着胃肠炎右手抽血暴打初音未来的消失 ex 结果苦苦卡在 1miss，熬夜尝试续写一年半前弃坑的时巅 5，然后又开始学痛苦的网络流。为什么要这样对自己呢。</p>
+<p>距离省选还有半个月的说，摆烂的时间还剩下半个月的说。求求了让实在不想学 whk 的我侥幸摸进神明一般的浙江省队吧。</p>
+<p>不过说实在的，这些痛苦的事情起码都不算讨厌，尤其是时巅 5，我还是想把它写好的，如果可能的话。</p>
+<p>就根据我目前的整体剧情规划来看，好像九上时我一个月的工作完成了全部内容的四分之一，写了大概两万字吧，可能不到。</p>
+<p>问题不大。这一回我再写两万字再弃坑，过个两年我又想起来这回事再写两万字，再过两年我又想起来这回事就把它写完了。这多好。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -759,9 +781,18 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.2.6</title>
-    <url>/2023.2.6/</url>
-    <content><![CDATA[<p>回学校力，但是我还是在摆烂的。<br>昨天晚上整理完了术力口歌单，继续推了一点 galgame 档案计划。</p>
+    <title>2023.3.14</title>
+    <url>/2023.3.14/</url>
+    <content><![CDATA[<p>打妹禁手，并且干碎了亚由香线。下一个就是你了，妹尾枫！<br>由于和少女领域里的日向是一个 cv 所以很期待，并且也是已经熟悉了的三妹傲娇风格。<br>但是我偷偷地去月幕上面查了一下那个问题：Tinkle Position 和 Galette 到底是什么关系？</p>
+<p><img src="https://z4a.net/images/2023/03/14/TP.png" alt="">   </p>
+<p>我只能查到 TP 是从 Galette 里面分裂出来的，但这到底是怎么一回事呢。<br>在我没有任何直接性的资料的时候，我要根据已有的线索进行一波分析！</p>
+<ul>
+<li>妹禁手 1：2014 年</li>
+<li>妹吻 1：2016 年</li>
+<li>妹吻 2：2017 年</li>
+<li>妹禁手 2：2017 年</li>
+</ul>
+<p>可以看到妹吻其实是在妹禁手 1 后，妹禁手 2 前的。<br>并且已知妹禁手 2 画师和 cv 全都大换血，很可以得出 Galette 的原本的主要成员，包括像 K 子那类画师全都跑路去 Tinkle Position 了，妹禁手 2 只是 Galette 分崩离析的残余，最后的挣扎，并且说这一部做的也很烂。Galette 确实在妹禁手 2 之后就没有作品了。<br>虽然后面 Tinkle Position 又解散了，但是 Sister Position 又回来了，这一群人真的是各种分分合合啊，快把更多的妹系 galgame 端上来罢（）<br>暂时是玩不到 SP 社的新作品了吧，童贞兄妹毕竟大概是半年以前发出来的，好像已经有 DLC（APPEND）了，看上去也不像是能出续作的类型，可能还要再等一两年做一个全新的故事出来。<br>但是还有一个现实的问题在我眼前，就是我把妹禁手 1 推完后，明明已经知道妹禁手 2 的制作很垃，是否还要去把它给干碎。我需要好好考虑一下。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -771,19 +802,6 @@
     <title>2023.3.1</title>
     <url>/2023.3.1/</url>
     <content><![CDATA[<p>我要成为 DimlyP（迫真），开始用 V4C 去调班歌，《永远都会在》的 Cover。<br>我中文歌听得很少，但觉得原曲不错，班级里改词也很好。关于 OI 的那段词「文件输入流 根号又重构 代码运行的出口」究竟是谁填的呢。<br>反正我是在网上搜到了原曲的 MIDI，直接导入 V4 开始填词。现在才填了一半。<br>等我明天填完词开始调细节。<br>好像合唱是下周，但是据说我又要外出停课，所以没法去唱，就让 Miku 代我唱吧（恼）</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.3.13</title>
-    <url>/2023.3.13/</url>
-    <content><![CDATA[<p>这段日子高强度折磨自己。顶着胃肠炎右手抽血暴打初音未来的消失 ex 结果苦苦卡在 1miss，熬夜尝试续写一年半前弃坑的时巅 5，然后又开始学痛苦的网络流。为什么要这样对自己呢。</p>
-<p>距离省选还有半个月的说，摆烂的时间还剩下半个月的说。求求了让实在不想学 whk 的我侥幸摸进神明一般的浙江省队吧。</p>
-<p>不过说实在的，这些痛苦的事情起码都不算讨厌，尤其是时巅 5，我还是想把它写好的，如果可能的话。</p>
-<p>就根据我目前的整体剧情规划来看，好像九上时我一个月的工作完成了全部内容的四分之一，写了大概两万字吧，可能不到。</p>
-<p>问题不大。这一回我再写两万字再弃坑，过个两年我又想起来这回事再写两万字，再过两年我又想起来这回事就把它写完了。这多好。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -803,28 +821,10 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.3.14</title>
-    <url>/2023.3.14/</url>
-    <content><![CDATA[<p>打妹禁手，并且干碎了亚由香线。下一个就是你了，妹尾枫！<br>由于和少女领域里的日向是一个 cv 所以很期待，并且也是已经熟悉了的三妹傲娇风格。<br>但是我偷偷地去月幕上面查了一下那个问题：Tinkle Position 和 Galette 到底是什么关系？</p>
-<p><img src="https://z4a.net/images/2023/03/14/TP.png" alt="">   </p>
-<p>我只能查到 TP 是从 Galette 里面分裂出来的，但这到底是怎么一回事呢。<br>在我没有任何直接性的资料的时候，我要根据已有的线索进行一波分析！</p>
-<ul>
-<li>妹禁手 1：2014 年</li>
-<li>妹吻 1：2016 年</li>
-<li>妹吻 2：2017 年</li>
-<li>妹禁手 2：2017 年</li>
-</ul>
-<p>可以看到妹吻其实是在妹禁手 1 后，妹禁手 2 前的。<br>并且已知妹禁手 2 画师和 cv 全都大换血，很可以得出 Galette 的原本的主要成员，包括像 K 子那类画师全都跑路去 Tinkle Position 了，妹禁手 2 只是 Galette 分崩离析的残余，最后的挣扎，并且说这一部做的也很烂。Galette 确实在妹禁手 2 之后就没有作品了。<br>虽然后面 Tinkle Position 又解散了，但是 Sister Position 又回来了，这一群人真的是各种分分合合啊，快把更多的妹系 galgame 端上来罢（）<br>暂时是玩不到 SP 社的新作品了吧，童贞兄妹毕竟大概是半年以前发出来的，好像已经有 DLC（APPEND）了，看上去也不像是能出续作的类型，可能还要再等一两年做一个全新的故事出来。<br>但是还有一个现实的问题在我眼前，就是我把妹禁手 1 推完后，明明已经知道妹禁手 2 的制作很垃，是否还要去把它给干碎。我需要好好考虑一下。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.3.17</title>
-    <url>/2023.3.17/</url>
-    <content><![CDATA[<p>主播偷偷地过了 5dan。叠有 98%。突然看懂乱和切了。切力有待提高。</p>
-<p><img src="https://z4a.net/images/2023/03/17/5dan-.png" alt=""></p>
+    <title>2023.3.18</title>
+    <url>/2023.3.18/</url>
+    <content><![CDATA[<p>昨天月考结束<del>（虽然我并没有考。）</del>班级里团建，我顶着巨卡的 PS4 直接开只狼速通，从新档打到修罗结局最终 BOSS，可惜没能够通关。<br>最后还有个颁奖典礼，我因为之前的<a href="/2022.12.18">活字乱刷术</a>获得了十分满意的奖品！所有人都知道我是二次元了（大悲）不过这可是深夜内卷的利器啊。</p>
+<p><img src="https://z4a.net/images/2023/03/18/1f6f6fb48f12ea360c154556d52bd00b.jpg" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -851,19 +851,19 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.3.18</title>
-    <url>/2023.3.18/</url>
-    <content><![CDATA[<p>昨天月考结束<del>（虽然我并没有考。）</del>班级里团建，我顶着巨卡的 PS4 直接开只狼速通，从新档打到修罗结局最终 BOSS，可惜没能够通关。<br>最后还有个颁奖典礼，我因为之前的<a href="/2022.12.18">活字乱刷术</a>获得了十分满意的奖品！所有人都知道我是二次元了（大悲）不过这可是深夜内卷的利器啊。</p>
-<p><img src="https://z4a.net/images/2023/03/18/1f6f6fb48f12ea360c154556d52bd00b.jpg" alt=""></p>
+    <title>2023.3.20</title>
+    <url>/2023.3.20/</url>
+    <content><![CDATA[<p>我开始打多娜多娜，久闻大名的业界神作。打到 DAY56，剧情是到刚刚把梅蒂可从医院里救出来避免 NTR，想要推的是绮菈绮菈，好感度升到七级了都。<br>目前玩来，这个故事给我的感受是：「黑暗的人们用着黑暗的方式反抗着最为黑暗的社会」。这个游戏里，关于春销的部分有很多小剧情，其中第一个有小剧情的角色衣缝给了我很大的震撼。<br>衣缝原本是高二 JK，受着亚的教育催眠所害，在春销过程中对于世界的认知逐渐崩溃，发现了其黑暗的真面目。在她质问阿熊，认为他们反亚组织以春销作为手段赚钱同样也很黑暗之时，阿熊那做好了在亚毁灭的第二天被神明杀死的觉悟让我在某种方面肃然起敬。或许作为地下组织，他们同样是黑暗的，甚至可能更加黑暗，做着更加惨无人道的事情，但这一切都是为了反亚而做准备。<br>当然，这些反亚组织的春销做法在某种意义上确实违反人类道德，这又是一个无法解决的问题。还是那句话，一款小黄油能有如此深度，让我不得不佩服了……等下多娜多娜可是大黄油。<br>到目前为止多娜多娜我可以打满分。无论是剧情（前面有提，并且逻辑自洽，很好地埋许多伏笔）、音乐（他妈的 0dan map-2，我手疼了）、美术（赛博朋克风，完全喷射，并且 H scene 巨大的多）、游戏性（战斗难度适中、不需要刻意刷怪，部分角色设计很有意思，比如菊千代和爱丽丝两个角色都是高输出但是分别只能近战和远战）、人物（一大堆妹子，无论是什么 xp 总有一个满足你，cv 满分还有一大堆认识的）。主播有玩 HATIENAI RPG 时那种兴奋感了。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
       </categories>
   </entry>
   <entry>
-    <title>2023.3.20</title>
-    <url>/2023.3.20/</url>
-    <content><![CDATA[<p>我开始打多娜多娜，久闻大名的业界神作。打到 DAY56，剧情是到刚刚把梅蒂可从医院里救出来避免 NTR，想要推的是绮菈绮菈，好感度升到七级了都。<br>目前玩来，这个故事给我的感受是：「黑暗的人们用着黑暗的方式反抗着最为黑暗的社会」。这个游戏里，关于春销的部分有很多小剧情，其中第一个有小剧情的角色衣缝给了我很大的震撼。<br>衣缝原本是高二 JK，受着亚的教育催眠所害，在春销过程中对于世界的认知逐渐崩溃，发现了其黑暗的真面目。在她质问阿熊，认为他们反亚组织以春销作为手段赚钱同样也很黑暗之时，阿熊那做好了在亚毁灭的第二天被神明杀死的觉悟让我在某种方面肃然起敬。或许作为地下组织，他们同样是黑暗的，甚至可能更加黑暗，做着更加惨无人道的事情，但这一切都是为了反亚而做准备。<br>当然，这些反亚组织的春销做法在某种意义上确实违反人类道德，这又是一个无法解决的问题。还是那句话，一款小黄油能有如此深度，让我不得不佩服了……等下多娜多娜可是大黄油。<br>到目前为止多娜多娜我可以打满分。无论是剧情（前面有提，并且逻辑自洽，很好地埋许多伏笔）、音乐（他妈的 0dan map-2，我手疼了）、美术（赛博朋克风，完全喷射，并且 H scene 巨大的多）、游戏性（战斗难度适中、不需要刻意刷怪，部分角色设计很有意思，比如菊千代和爱丽丝两个角色都是高输出但是分别只能近战和远战）、人物（一大堆妹子，无论是什么 xp 总有一个满足你，cv 满分还有一大堆认识的）。主播有玩 HATIENAI RPG 时那种兴奋感了。</p>
+    <title>2023.3.17</title>
+    <url>/2023.3.17/</url>
+    <content><![CDATA[<p>主播偷偷地过了 5dan。叠有 98%。突然看懂乱和切了。切力有待提高。</p>
+<p><img src="https://z4a.net/images/2023/03/17/5dan-.png" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -922,22 +922,34 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.3.9</title>
-    <url>/2023.3.9/</url>
-    <content><![CDATA[<p>今天是最后的大合唱。故事就在我站上台时达到了高潮。<br>我唱的真的很尽兴。这是多美妙的故事啊。</p>
-<p>区区 29 级六兆年 ex，被我双指轻松 fc，真的被我瞧不起了！<br><del>虽然是带了五张判卡强行草过去的，但我终于学会接纵连了。</del></p>
-<p><img src="https://z4a.net/images/2023/03/09/ex-fc.jpg" alt=""></p>
+    <title>2023.4.21</title>
+    <url>/2023.4.21/</url>
+    <content><![CDATA[<p>昨天在学校把爱理线通了，这也就代表着《纯白交响曲》终于来到了尾声。<br>现在在看番。说老实的这种没有后宫线的 gal 想改成番真的是蛮难的，为了讨好观众就得让男主雨露均沾从而导致篇幅和情感渲染不够以及自我攻略。还有樱乃线根本没了。学姐线因为相对来讲比较剧情向所以被当做主线了吗。<br>这让我不禁担忧起明年的亚托莉……哦人家是单线，随随便便动画化。<br>附一张自己做的刁图，玩学姐线时人给笑傻了。</p>
+<p><img src="https://z4a.net/images/2023/04/22/Palette.png" alt=""></p>
+<script type="math/tex; mode=display">\texttt{左：《纯白交响曲》；右：《9-nine-天色天歌天籁音》}</script>]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.4.2</title>
+    <url>/2023.4.2/</url>
+    <content><![CDATA[<p>省选结束了，小樟和阿丑应该都能进队，我输麻了。<br>现在我回到了中间机房整理后事。估计暂时不会回来了，但肯定的是我还会回到这里。<br>把电脑基本上东西全删掉了，不排除把电脑带回家之后被我爸使用的可能性，还是保险起见为好。   </p>
+<p>$\texttt{踏着夜路，独自摇曳，}\overset{\texttt{dimly}}{\texttt{依稀地}}{走到科技楼下，于闪耀的灯光中被眼泪模糊了世界。}$</p>
+<p><img src="https://z4a.net/images/2023/04/02/1.5--5.jpg" alt=""></p>
+<p><img src="https://z4a.net/images/2023/04/02/af002b160308bb302301321931b00a0e.png" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
       </categories>
   </entry>
   <entry>
-    <title>2023.4.21</title>
-    <url>/2023.4.21/</url>
-    <content><![CDATA[<p>昨天在学校把爱理线通了，这也就代表着《纯白交响曲》终于来到了尾声。<br>现在在看番。说老实的这种没有后宫线的 gal 想改成番真的是蛮难的，为了讨好观众就得让男主雨露均沾从而导致篇幅和情感渲染不够以及自我攻略。还有樱乃线根本没了。学姐线因为相对来讲比较剧情向所以被当做主线了吗。<br>这让我不禁担忧起明年的亚托莉……哦人家是单线，随随便便动画化。<br>附一张自己做的刁图，玩学姐线时人给笑傻了。</p>
-<p><img src="https://z4a.net/images/2023/04/22/Palette.png" alt=""></p>
-<script type="math/tex; mode=display">\texttt{左：《纯白交响曲》；右：《9-nine-天色天歌天籁音》}</script>]]></content>
+    <title>2023.3.9</title>
+    <url>/2023.3.9/</url>
+    <content><![CDATA[<p>今天是最后的大合唱。故事就在我站上台时达到了高潮。<br>我唱的真的很尽兴。这是多美妙的故事啊。</p>
+<p>区区 29 级六兆年 ex，被我双指轻松 fc，真的被我瞧不起了！<br><del>虽然是带了五张判卡强行草过去的，但我终于学会接纵连了。</del></p>
+<p><img src="https://z4a.net/images/2023/03/09/ex-fc.jpg" alt=""></p>
+]]></content>
       <categories>
         <category>神秘</category>
       </categories>
@@ -954,12 +966,27 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.4.2</title>
-    <url>/2023.4.2/</url>
-    <content><![CDATA[<p>省选结束了，小樟和阿丑应该都能进队，我输麻了。<br>现在我回到了中间机房整理后事。估计暂时不会回来了，但肯定的是我还会回到这里。<br>把电脑基本上东西全删掉了，不排除把电脑带回家之后被我爸使用的可能性，还是保险起见为好。   </p>
-<p>$\texttt{踏着夜路，独自摇曳，}\overset{\texttt{dimly}}{\texttt{依稀地}}{走到科技楼下，于闪耀的灯光中被眼泪模糊了世界。}$</p>
-<p><img src="https://z4a.net/images/2023/04/02/1.5--5.jpg" alt=""></p>
-<p><img src="https://z4a.net/images/2023/04/02/af002b160308bb302301321931b00a0e.png" alt=""></p>
+    <title>2023.4.28</title>
+    <url>/2023.4.28/</url>
+    <content><![CDATA[<p>我又不知道我这几天干了什么……哦，把《恋花绽放樱飞时》的小奈美线推掉了，巨难受无比。<br>主要是实妹的缘故。前面《纯白交响曲》由于樱乃是义妹所以有着很好的结局。但是在这里，虽然悠真和小奈美经过自己的努力让周围的人认可了他们之间跨越血缘的爱情，甚至有三年不能相见，但是这终究没有解决问题，在未来走上社会时他们还会因此受到更多的挫折。这并不是一个完美结局，让我烦躁。<br>但这也意味着无论未来遇上什么困难，他们都能共同渡过难关，这又令人感到温暖。<br><code>无法恋爱的女孩子，对恋爱毫无兴趣的男孩子，这样的两人坠入爱河，世界会发生怎样的改变呢。</code><br>游戏开头是这么写道的。不排除其他的线最后也是不完美结局……那我要直接整个烦死。<br>不过我希望其他人不会那么严重。小奈美的无法恋爱是因为是实妹，夕莉应该是风纪委员，美樱是对男性身体接触恐惧，杏不知道，缇娜更是不大懂，这俩好像和主线剧情有关。不过看起来还是小奈美最严重，也无法解决。</p>
+<p>我花了一天推掉夕莉线，感觉还算是不错的，只是有点没搞懂关于休伯利安的事情。是纯粹因为休伯利安是男同才想要拆散两人，还是因为那是个类似于预言的东西，两人不分手花子就会死。如果是这样的话两人先分手再复合可不就是卡 bug 了。<br>夹击妹抖……真是好啊（流口水），反差萌做的够到位。夕莉好涩。还有调色板你为什么不做花子线，我觉得大家会喜欢的。<br>现在在推美樱线了。希望能是向安洁那样非常治愈的线路。<br>不过说到男性恐惧症就不得不提我们《9-nine-》的香坂春风了。虽然但是学姐有双人格，而且男性恐惧症大概也没有美樱那么严重，所以又不是一回事了。<br>顺带一提在学生会室里看到熊喵我直接立起来了。为什么（？）</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.4.29</title>
+    <url>/2023.4.29/</url>
+    <content><![CDATA[<p>今天推掉美樱线和杏线。怎么说呢……差强人意。美樱那个比较离谱，感觉剧情有点小浮夸，但也不算是烂吧。杏学姐的话，正常的双人格套路，这个我们在另外一个学姐香坂春风那里也体验过了，范围再大一点的话，远处的忍坂鸫也有着短暂的类双人格设定，不让 H 真的是一模一样？学姐线的剧情虽然很套路但是本身是没有问题的。但是我所期待艾蕾的 H scene 怎么只有口。过个五年调色板你炒冷饭的时候追加一下呗，顺便再写一条花子线。</p>
+<p>另外今天《战神3》二周目通关，只能说不愧是经典游戏，放到现在来看仍然不输许多大作。再一次感受到了奎托斯身上所承载的痛苦、愤怒与从中涅槃重生的希望。<br>注意到由于时代限制，旧《战神》系列用的并非越肩视角而是全局的俯视。我必须夸赞圣莫尼卡在运镜方面是很厉害的，尤其要称赞奎托斯沿着奥林匹斯之链向上爬中途那个先放远再放近的镜头，震撼感足够强。还有在结尾被宙斯打入黑暗之中探索的这一部分的画面处理也相当好。<br>以及《战神3》的美术风格也让我相当喜欢，比如那个比较神秘的开场动画（Overtune），说实在的我不大懂这算是什么风格。</p>
+<p>凌晨干碎缇娜线。注意了调色板这是废萌作，你再发刀子就把你干碎。<br>一件事两个刀，既干碎了当事人小春和爽又干碎了旁边的悠真和缇娜。你就说烦不烦吧。<br>不过好在结局缇娜又回来了，虽然有着很唯心的感觉但是此时此刻她能够回来的理由已经不重要了，重要的是她回来了！！！ohhhhhhhhhhhhhhhhh<br>以及我发现自己确实不是萝莉控。（？）<br>所以《恋花绽放樱飞时》被我光速干碎了。从整体上来看我觉得还算可以的，但是你废萌比不过《纯白交响曲》，剧情和刀子又比不过《9-nine-》，这个位置就很尴尬，调色板和田三部曲中地位最低了属于是（悲）。<br>不过从某种意义上这也是命中注定的，它想要传达的恋爱观就注定了它不能是一部美好的废萌作。《纯白》里面的恋爱是美好的，是各种颜色所组成的纯白交响曲；但是《恋花》是这样的东西。</p>
+<blockquote>
+<p>无法恋爱的女孩子，对恋爱毫无兴趣的男孩子，这样的两人坠入爱河，世界会发生怎样的改变呢。  </p>
+</blockquote>
+<p>我再次引用游戏开头的这段话就是来说明性质。《恋花》里的恋爱更多地是苦涩的。能把这个主题展现的最完备的还是小奈美线和缇娜线。<br>我可以再引用缇娜线结尾的话，大概也是点明主旨了：</p>
+<p>……</p>
+<p>你妈的这个存档的 backlog 怎么回不去。看不到了，算了。下次再说。<br>这下又颓废了许久了。我 PKUSC 肯定爆炸！</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -986,27 +1013,9 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.4.29</title>
-    <url>/2023.4.29/</url>
-    <content><![CDATA[<p>今天推掉美樱线和杏线。怎么说呢……差强人意。美樱那个比较离谱，感觉剧情有点小浮夸，但也不算是烂吧。杏学姐的话，正常的双人格套路，这个我们在另外一个学姐香坂春风那里也体验过了，范围再大一点的话，远处的忍坂鸫也有着短暂的类双人格设定，不让 H 真的是一模一样？学姐线的剧情虽然很套路但是本身是没有问题的。但是我所期待艾蕾的 H scene 怎么只有口。过个五年调色板你炒冷饭的时候追加一下呗，顺便再写一条花子线。</p>
-<p>另外今天《战神3》二周目通关，只能说不愧是经典游戏，放到现在来看仍然不输许多大作。再一次感受到了奎托斯身上所承载的痛苦、愤怒与从中涅槃重生的希望。<br>注意到由于时代限制，旧《战神》系列用的并非越肩视角而是全局的俯视。我必须夸赞圣莫尼卡在运镜方面是很厉害的，尤其要称赞奎托斯沿着奥林匹斯之链向上爬中途那个先放远再放近的镜头，震撼感足够强。还有在结尾被宙斯打入黑暗之中探索的这一部分的画面处理也相当好。<br>以及《战神3》的美术风格也让我相当喜欢，比如那个比较神秘的开场动画（Overtune），说实在的我不大懂这算是什么风格。</p>
-<p>凌晨干碎缇娜线。注意了调色板这是废萌作，你再发刀子就把你干碎。<br>一件事两个刀，既干碎了当事人小春和爽又干碎了旁边的悠真和缇娜。你就说烦不烦吧。<br>不过好在结局缇娜又回来了，虽然有着很唯心的感觉但是此时此刻她能够回来的理由已经不重要了，重要的是她回来了！！！ohhhhhhhhhhhhhhhhh<br>以及我发现自己确实不是萝莉控。（？）<br>所以《恋花绽放樱飞时》被我光速干碎了。从整体上来看我觉得还算可以的，但是你废萌比不过《纯白交响曲》，剧情和刀子又比不过《9-nine-》，这个位置就很尴尬，调色板和田三部曲中地位最低了属于是（悲）。<br>不过从某种意义上这也是命中注定的，它想要传达的恋爱观就注定了它不能是一部美好的废萌作。《纯白》里面的恋爱是美好的，是各种颜色所组成的纯白交响曲；但是《恋花》是这样的东西。</p>
-<blockquote>
-<p>无法恋爱的女孩子，对恋爱毫无兴趣的男孩子，这样的两人坠入爱河，世界会发生怎样的改变呢。  </p>
-</blockquote>
-<p>我再次引用游戏开头的这段话就是来说明性质。《恋花》里的恋爱更多地是苦涩的。能把这个主题展现的最完备的还是小奈美线和缇娜线。<br>我可以再引用缇娜线结尾的话，大概也是点明主旨了：</p>
-<p>……</p>
-<p>你妈的这个存档的 backlog 怎么回不去。看不到了，算了。下次再说。<br>这下又颓废了许久了。我 PKUSC 肯定爆炸！</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.4.28</title>
-    <url>/2023.4.28/</url>
-    <content><![CDATA[<p>我又不知道我这几天干了什么……哦，把《恋花绽放樱飞时》的小奈美线推掉了，巨难受无比。<br>主要是实妹的缘故。前面《纯白交响曲》由于樱乃是义妹所以有着很好的结局。但是在这里，虽然悠真和小奈美经过自己的努力让周围的人认可了他们之间跨越血缘的爱情，甚至有三年不能相见，但是这终究没有解决问题，在未来走上社会时他们还会因此受到更多的挫折。这并不是一个完美结局，让我烦躁。<br>但这也意味着无论未来遇上什么困难，他们都能共同渡过难关，这又令人感到温暖。<br><code>无法恋爱的女孩子，对恋爱毫无兴趣的男孩子，这样的两人坠入爱河，世界会发生怎样的改变呢。</code><br>游戏开头是这么写道的。不排除其他的线最后也是不完美结局……那我要直接整个烦死。<br>不过我希望其他人不会那么严重。小奈美的无法恋爱是因为是实妹，夕莉应该是风纪委员，美樱是对男性身体接触恐惧，杏不知道，缇娜更是不大懂，这俩好像和主线剧情有关。不过看起来还是小奈美最严重，也无法解决。</p>
-<p>我花了一天推掉夕莉线，感觉还算是不错的，只是有点没搞懂关于休伯利安的事情。是纯粹因为休伯利安是男同才想要拆散两人，还是因为那是个类似于预言的东西，两人不分手花子就会死。如果是这样的话两人先分手再复合可不就是卡 bug 了。<br>夹击妹抖……真是好啊（流口水），反差萌做的够到位。夕莉好涩。还有调色板你为什么不做花子线，我觉得大家会喜欢的。<br>现在在推美樱线了。希望能是向安洁那样非常治愈的线路。<br>不过说到男性恐惧症就不得不提我们《9-nine-》的香坂春风了。虽然但是学姐有双人格，而且男性恐惧症大概也没有美樱那么严重，所以又不是一回事了。<br>顺带一提在学生会室里看到熊喵我直接立起来了。为什么（？）</p>
+    <title>2023.4.30</title>
+    <url>/2023.4.30/</url>
+    <content><![CDATA[<p>在家里快乐颓废了一天，并且终于是把评论系统搞出来了，Gitalk 牛逼，Waline 傻逼。<br>现在突然就不知道把这些独自一人的时间拿来干什么了。本来应该去赶稿时巅 5 的但是开摆了。<br>或许我们可以再推一个 gal，不过调色板的经典作品已经被我玩完了。接下来打什么，柚子社吗，虽然貌似是经典废萌但是我实在不想碰，柚子厨什么太令人讨厌了，虽然本身作品质量是高的。<br>或者说我们继续那个二刷计划，在糖调那里就莫名其妙中断了。怎么说呢，貌似废萌作确实是不大适合二刷的，因为剧情这种东西比较适合二刷但日常并不是，虽然也有例外，比如我觉得暴太郎或者齐木楠雄随便点开一集都很好。<br>说到剧情作那就得是《9-nine-》了，不过才刚玩完一个月立刻二刷是不是不大好。不过我好像没有其他手头的剧情作了。<br>所以还是要回去赶稿吗，哭。不如学 whk 或者好好准备 PKUSC，拿个约才是最现实的。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1016,15 +1025,6 @@
     <title>2023.4.8</title>
     <url>/2023.4.8/</url>
     <content><![CDATA[<p>回去上了一周的 whk，不知道我对此感觉如何，但可以知道的是：时间之巅 5.0 终于写到了我梦寐以求的第七小节和第 100 面，我的赶稿速度大幅提升了。我为了写这个小节等了一年半啊。虽然写完第七小节估计就又要萎了。<br>从某种意义上我还在大力推进 galgame 事业，目前还是《1/2 summer》和《纯白交响曲》双开，都是较早（前者 12 年，后者 09 年）的 gal 了吧。尝试让自己接受那个年代的画风。目前两个游戏进度分别是：推完叶、汐，在推鸫；推完安洁，在推樱乃。<br>有人说，你再过一周就要期中考了，你怎么还是那么颓废？有人说，你再过三个月就要学考了，你怎么还是那么颓废？我完全选择摆烂的。这个就是答案。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.4.30</title>
-    <url>/2023.4.30/</url>
-    <content><![CDATA[<p>在家里快乐颓废了一天，并且终于是把评论系统搞出来了，Gitalk 牛逼，Waline 傻逼。<br>现在突然就不知道把这些独自一人的时间拿来干什么了。本来应该去赶稿时巅 5 的但是开摆了。<br>或许我们可以再推一个 gal，不过调色板的经典作品已经被我玩完了。接下来打什么，柚子社吗，虽然貌似是经典废萌但是我实在不想碰，柚子厨什么太令人讨厌了，虽然本身作品质量是高的。<br>或者说我们继续那个二刷计划，在糖调那里就莫名其妙中断了。怎么说呢，貌似废萌作确实是不大适合二刷的，因为剧情这种东西比较适合二刷但日常并不是，虽然也有例外，比如我觉得暴太郎或者齐木楠雄随便点开一集都很好。<br>说到剧情作那就得是《9-nine-》了，不过才刚玩完一个月立刻二刷是不是不大好。不过我好像没有其他手头的剧情作了。<br>所以还是要回去赶稿吗，哭。不如学 whk 或者好好准备 PKUSC，拿个约才是最现实的。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1145,10 +1145,9 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.6.9</title>
-    <url>/2023.6.9/</url>
-    <content><![CDATA[<p>还是摆了，选择开推时停社《5分钟的邂逅！时间停止与不可避免的命运》，HULOTTE 也正是因为这一代表作而被称为“时停社”的。<br>随手一查发现阵容熟悉。与《神明》相比，OP 和 ED 还是 Duca，音乐还是 Peak A Soul+。<br>但是在 cv 这一方面向外关联倒是很少，能找到的两个只有妹妹是霧香，胡桃是芽瑠。<br>推这一部的顺序的话果然还是从上到下吧，我的行为。</p>
-<p>谔……然后发现篇幅很短。瑠璃线时间没算，但樱良线感觉上好像只用了一个小时。比较之下《神明》里的四条大女主线我用的都是两个小时。<br>所以目前是过了瑠璃线和樱良线了，再拿去对比一下发现其实更像的是《恋花绽放樱飞时》（两个游戏男主都叫悠真，发现盲点）。这不是我们调色板的月岛夕莉吗，怎么跑到这里来了（指第一眼看到瑠璃）。<br>怎么说呢……感觉编剧水平不行。瑠璃线还好，虽然结尾那段悠真智商高达 880 属实让人没绷住，但是他要说的意思我是懂得，只能说文本质量不够。另外感情也够。<br>但是樱良……怎么说呢……这个……我原本还在夸赞樱良的立绘是画的极佳的，但是这个剧情……<br>首先就是实妹这事，你们不仅做了之后啥想法没有，又没有成为恋人？这个中间形态是什么？虽然我知道悠真开始发奋学习但是我觉得多少这一段写的有点幼稚了？（没办法，我认为这就是 galgame 界普遍的编剧硬伤，以及你也不可能给玩家写的太符合现实，毕竟要为了剧情的简易化和游戏的制作难度服务）<br>感觉编剧写樱良线全程神情恍惚。你倒是也没有刀子啥的。相比之下小奈美线真的很厉害！</p>
+    <title>2023.7.2</title>
+    <url>/2023.7.2/</url>
+    <content><![CDATA[<p>考完了。摆烂。不过实际上并不知道自己在做些什么。<br>正式地向 scp 提交了退赛申请。很快就放下了。<br>听说 Zyingyzzz 没考上 wzms 的特色招生。<br>因为从下午开始一直在颓废的原因，感觉 25 点的我状态很虚，打算干一些比较苦力的活，比如给《4AM》扒谱之类的。<br>实际上我找到了五线谱，但是我真的不大会看。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1164,9 +1163,10 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.7.2</title>
-    <url>/2023.7.2/</url>
-    <content><![CDATA[<p>考完了。摆烂。不过实际上并不知道自己在做些什么。<br>正式地向 scp 提交了退赛申请。很快就放下了。<br>听说 Zyingyzzz 没考上 wzms 的特色招生。<br>因为从下午开始一直在颓废的原因，感觉 25 点的我状态很虚，打算干一些比较苦力的活，比如给《4AM》扒谱之类的。<br>实际上我找到了五线谱，但是我真的不大会看。</p>
+    <title>2023.6.9</title>
+    <url>/2023.6.9/</url>
+    <content><![CDATA[<p>还是摆了，选择开推时停社《5分钟的邂逅！时间停止与不可避免的命运》，HULOTTE 也正是因为这一代表作而被称为“时停社”的。<br>随手一查发现阵容熟悉。与《神明》相比，OP 和 ED 还是 Duca，音乐还是 Peak A Soul+。<br>但是在 cv 这一方面向外关联倒是很少，能找到的两个只有妹妹是霧香，胡桃是芽瑠。<br>推这一部的顺序的话果然还是从上到下吧，我的行为。</p>
+<p>谔……然后发现篇幅很短。瑠璃线时间没算，但樱良线感觉上好像只用了一个小时。比较之下《神明》里的四条大女主线我用的都是两个小时。<br>所以目前是过了瑠璃线和樱良线了，再拿去对比一下发现其实更像的是《恋花绽放樱飞时》（两个游戏男主都叫悠真，发现盲点）。这不是我们调色板的月岛夕莉吗，怎么跑到这里来了（指第一眼看到瑠璃）。<br>怎么说呢……感觉编剧水平不行。瑠璃线还好，虽然结尾那段悠真智商高达 880 属实让人没绷住，但是他要说的意思我是懂得，只能说文本质量不够。另外感情也够。<br>但是樱良……怎么说呢……这个……我原本还在夸赞樱良的立绘是画的极佳的，但是这个剧情……<br>首先就是实妹这事，你们不仅做了之后啥想法没有，又没有成为恋人？这个中间形态是什么？虽然我知道悠真开始发奋学习但是我觉得多少这一段写的有点幼稚了？（没办法，我认为这就是 galgame 界普遍的编剧硬伤，以及你也不可能给玩家写的太符合现实，毕竟要为了剧情的简易化和游戏的制作难度服务）<br>感觉编剧写樱良线全程神情恍惚。你倒是也没有刀子啥的。相比之下小奈美线真的很厉害！</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1209,6 +1209,25 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.8.4</title>
+    <url>/2023.8.4/</url>
+    <content><![CDATA[<p>发现自己到头来只是一个故步自封的废物。我不是向生活妥协，而是远离了生活。</p>
+<p>宣传一下播客：<a href="https://music.163.com/radio/?id=993069527">Dimly’s VOCALOID</a>。里面的 4AM 比起前几天博客里发的又调整过了，虽然音量好像大了点。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.8.8</title>
+    <url>/2023.8.8/</url>
+    <content><![CDATA[<p>这不马上就瓶颈了，今天发现剩下的 master 中终于没有我可以 fc 的了。后天抽完卡，台服皆传 11.3 退游（）<br>今天又整理了一遍我常听的 Wilbur &amp; Lovejoy 的曲子，一共有 23 首，甚至其中有两首的翻译是我传的。<br>讲真，当初听 Wilbur 的歌是因为厨 MCYT，现在不看 MCYT 了却依然关注 Lovejoy，因为他们的曲子真的很帅。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.7.29</title>
     <url>/2023.7.29/</url>
     <content><![CDATA[<p><img src="https://z4a.net/images/2023/07/29/10.jpg" alt=""></p>
@@ -1242,16 +1261,6 @@
 </ul>
 <p>在这里，体现的最为重要的一点就是<strong>剧本家是否意识到了这是一部简单的废萌校园 galgame</strong>。<br>《时停》中，剧本家没有注意到这一点，于是大肆引入“时空”相关概念，又在花音线里写很多科幻小说相关内容，很难不怀疑是掺杂私货。但是对于一般废萌 gal 玩家来说，他们先前若是没有对这些东西感兴趣，在玩该作品时也会对他们感到无趣。<br>《透明药》就显得聪明很多，对于 T 的来源只是简单地说成千年前的仙人制作的丹药，而不展开阐述，因为玩家是不会对展开的内容感兴趣的。<br>最好的处理方式就是，<strong>唯心的东西就解释成唯心的，而不要强行套上科学的唯物主义</strong>。因为这是一部<strong>废萌 galgame</strong>，玩家并不关心你<strong>唯物</strong>的部分，用<strong>唯心</strong>的方式一笔带过，突出感情线的重点不是更好？</p>
 <p>综上所述，这是我认为《透明药》剧情优于《时停》的地方。（为什么没有提《时停》的梓线和胡桃线？因为我当时白亚线打完已经对这两条线不感兴趣了，并且《透明药》中并没有紫绪线和雾线进行对照，只有附赠的福利场景）</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.8.4</title>
-    <url>/2023.8.4/</url>
-    <content><![CDATA[<p>发现自己到头来只是一个故步自封的废物。我不是向生活妥协，而是远离了生活。</p>
-<p>宣传一下播客：<a href="https://music.163.com/radio/?id=993069527">Dimly’s VOCALOID</a>。里面的 4AM 比起前几天博客里发的又调整过了，虽然音量好像大了点。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1899,7 +1908,7 @@
 <tr>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 525 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FC" d="M357 536Q357 546 318 546Q258 546 205 497T133 357V353L144 361Q210 402 285 402Q362 402 414 350Q479 285 479 193Q479 111 418 50T263 -11Q234 -11 207 -3T149 26T97 81T60 171T45 301Q45 444 129 533T319 622Q388 622 421 589T454 510Q454 491 442 475T402 458Q373 458 362 475T350 510Q350 520 354 528L357 536ZM319 326T269 326T179 298T136 223Q136 202 143 174T176 112T237 68Q246 66 265 66Q319 66 360 107Q395 146 395 197Q395 250 356 289Q319 326 269 326Z"></path></g></g></g></svg></mjx-container></td>
 <td style="text-align:center"><a href="/2023.8.7"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.441ex" role="img" focusable="false" viewBox="0 -627 525 637"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="red" stroke="red"><g data-mml-node="mtext"><path data-c="1D7FD" d="M204 -10Q162 -10 162 40Q162 146 198 261T310 477Q311 478 321 491T342 517T358 535H128V524Q128 506 119 497Q111 489 86 489H78Q55 489 46 508Q44 513 44 557V580Q44 605 52 616T88 627H93Q114 627 125 611H458Q474 598 477 593T480 573Q480 559 478 553T469 543T446 521T408 477Q252 290 246 49Q246 43 246 37T246 27T245 22Q243 11 233 1T204 -10Z"></path></g></g></g></g></svg></mjx-container></a></td>
-<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.428ex" role="img" focusable="false" viewBox="0 -621 525 631"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FE" d="M58 460Q58 523 117 572T254 621Q290 621 298 620Q376 607 421 560T466 460Q466 441 460 424T443 393T421 370T397 352T374 340T357 332L350 330L356 328Q363 325 371 321T392 310T415 295T439 274T459 249T473 217T479 179Q479 102 418 46T262 -10T106 46T45 179Q45 202 52 222T70 257T96 284T123 305T148 319T167 328L174 330L170 332Q166 333 159 336T145 343Q104 362 81 393T58 460ZM382 458Q382 491 349 518T263 546Q215 546 179 521T142 458Q142 421 178 395T262 368Q315 368 348 396T382 458ZM396 178Q396 223 358 257T263 292Q206 292 167 258T128 178Q128 137 163 102T262 66Q324 66 360 101T396 178Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><a href="/2023.8.8"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.428ex" role="img" focusable="false" viewBox="0 -621 525 631"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="red" stroke="red"><g data-mml-node="mtext"><path data-c="1D7FE" d="M58 460Q58 523 117 572T254 621Q290 621 298 620Q376 607 421 560T466 460Q466 441 460 424T443 393T421 370T397 352T374 340T357 332L350 330L356 328Q363 325 371 321T392 310T415 295T439 274T459 249T473 217T479 179Q479 102 418 46T262 -10T106 46T45 179Q45 202 52 222T70 257T96 284T123 305T148 319T167 328L174 330L170 332Q166 333 159 336T145 343Q104 362 81 393T58 460ZM382 458Q382 491 349 518T263 546Q215 546 179 521T142 458Q142 421 178 395T262 368Q315 368 348 396T382 458ZM396 178Q396 223 358 257T263 292Q206 292 167 258T128 178Q128 137 163 102T262 66Q324 66 360 101T396 178Z"></path></g></g></g></g></svg></mjx-container></a></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 525 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FF" d="M392 259Q333 210 236 210H233Q163 210 109 262Q46 325 46 411T99 550Q164 622 264 622Q293 622 319 615T376 587T428 532T464 440T479 304Q479 167 400 78T217 -11Q140 -11 105 22T70 101Q70 124 84 138T122 153Q150 153 162 137T174 101Q174 91 168 76Q179 65 216 65Q267 65 300 93Q322 109 339 130T366 173T380 210T388 242T392 259ZM388 389Q388 438 357 492T268 546T185 520Q129 479 129 415Q129 384 138 363Q145 349 156 334T195 302T255 285Q305 285 345 313T388 389Z"></path></g></g></g></svg></mjx-container></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7F6" d="M42 305Q42 450 111 535T257 621Q335 621 390 562Q482 468 482 306Q482 174 418 82T262 -10T106 82T42 305ZM257 545Q209 545 168 481T126 320Q126 220 162 147Q204 65 262 65Q318 65 358 139T398 320V328Q395 411 364 470T284 543Q270 545 257 545Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 1050 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
