@@ -13,6 +13,19 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.11.14</title>
+    <url>/2022.11.14/</url>
+    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
+<span id="more"></span>
+<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
+<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2022.11.11</title>
     <url>/2022.11.11/</url>
     <content><![CDATA[<p>今天被 <a href="https://www.luogu.com.cn/problem/P7982">P7982 [JRKSJ R3] 琴琴的树</a> 折磨了一整天。<br>因此从早上十点头疼到晚上六点，不过最后做出来倒是感觉好多了。</p>
@@ -41,14 +54,14 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.11.14</title>
-    <url>/2022.11.14/</url>
-    <content><![CDATA[<p>yjj 说话越来越像阿丑了<del>（越来越抽象了）</del>。<br><em>“想击剑怎么办？”</em><br>好吧这句不像。</p>
+    <title>2022.11.17</title>
+    <url>/2022.11.17/</url>
+    <content><![CDATA[<p>我的颈椎啊。它要断了。</p>
 <span id="more"></span>
-<p>今天写了很多 ARC，但是经常 C 题就卡了，不过偶尔也能做到 D。<br>晚上主要是后缀数组场，发现了神秘题<a href="https://www.luogu.com.cn/problem/CF1073G">CF1073G Yet Another LCP Problem</a>。有意思的。</p>
-<p>后面的日子大概需要复习一下自己写的做题笔记。<br>距离 NOIP 只有 12 天了，恼怒啊。<br>谁来救救我的 whk。话说第二次月考是什么时候啊，希望能晚一点，多点时间复习。<br>发现 <a href="https://music.163.com/song?id=26124988">Lost one 的号哭</a> 和 <a href="https://music.163.com/song?id=444058092">假面骑士 BLACK RX</a> 都很好听。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">黒板のこの漢字が読めますか</span><br><span class="line">会读黑板上的这个汉字吗</span><br><span class="line">あの子の心象は読めますか</span><br><span class="line">能解读那个孩子心情吗</span><br><span class="line">その心を黒く染めたのは</span><br><span class="line">将那颗心染黑的</span><br><span class="line">おい誰なんだよ おい誰なんだよ</span><br><span class="line">到底是谁啊 到底是谁啊</span><br></pre></td></tr></table></figure>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Wake Up, The ヒーロー 燃え上がれ</span><br><span class="line">醒来吧，英雄 燃烧吧</span><br><span class="line">光と闇の果てしないバトル</span><br><span class="line">光与暗永无止境的战斗</span><br><span class="line">Wake Up, The ヒーロー 太陽よ</span><br><span class="line">觉醒吧，英雄 太阳啊</span><br><span class="line">愛に勇気を与えてくれ</span><br><span class="line">赋予我对爱的勇气</span><br></pre></td></tr></table></figure>]]></content>
+<p>今天没图。</p>
+<p>然后花了两个小时写掉了 <a href="https://www.luogu.com.cn/problem/CF666E">CF666E Forensic Examination</a>，但是颈椎还是一样。<br>最近早上从床上起来时总有一种四肢抽离浑身散架的感觉。<br>其实从初中就已经有这种现象了吧，不知道是不是都是这样的。<br>还有最近脚底巨痒，感觉都要磨出什么不好的东西了。这是坏的。</p>
+<p>说起来今天早上大概五点四十就出门了，只是因为昨天 chaotic 大清早爬出来的缘故。内卷。<br>然后因为我没有拖地寝室喜提 5.5 分（及格线 5.8 分）。果然没有我不行（恼怒）。<br>听到没有 zhaoyp，快扫地。@<a href="https://www.luogu.com.cn/user/302636">zhaoyp</a>。</p>
+]]></content>
       <categories>
         <category>神秘</category>
       </categories>
@@ -71,19 +84,6 @@
     <content><![CDATA[<p>昨天晚上是 120 周年校庆文艺汇演，但是完全没看反而让 Powerless233 给我讲了题。<br>题是 Foreverlasting 出的那场模拟赛 T3，真的好神秘。<br>然后昨天晚上狂暴写，最后 RE 80pts？？？今天才发现数据挂了草。</p>
 <span id="more"></span>
 <p>我觉得现在右下角这个小人蛮好看的，虽然不知道是什么角色。（查了一下好像是舰娘？）<br>研究了一下，其实是可以自定义而非用插件给的小人的，不过我手上没资源，也不知道改什么。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.11.17</title>
-    <url>/2022.11.17/</url>
-    <content><![CDATA[<p>我的颈椎啊。它要断了。</p>
-<span id="more"></span>
-<p>今天没图。</p>
-<p>然后花了两个小时写掉了 <a href="https://www.luogu.com.cn/problem/CF666E">CF666E Forensic Examination</a>，但是颈椎还是一样。<br>最近早上从床上起来时总有一种四肢抽离浑身散架的感觉。<br>其实从初中就已经有这种现象了吧，不知道是不是都是这样的。<br>还有最近脚底巨痒，感觉都要磨出什么不好的东西了。这是坏的。</p>
-<p>说起来今天早上大概五点四十就出门了，只是因为昨天 chaotic 大清早爬出来的缘故。内卷。<br>然后因为我没有拖地寝室喜提 5.5 分（及格线 5.8 分）。果然没有我不行（恼怒）。<br>听到没有 zhaoyp，快扫地。@<a href="https://www.luogu.com.cn/user/302636">zhaoyp</a>。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -276,6 +276,15 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.12.20</title>
+    <url>/2022.12.20/</url>
+    <content><![CDATA[<p>星光又发新专了，我要爽死。<br>都去听！<a href="https://music.163.com/#/album?id=156837632">the Grimoire of Starlight 02 : Forever Mapledise</a>。<br>感觉上像是阳了，一直在大力咳嗽，不过等明天展示活字乱刷术之后再撤离学校为好。<br>摆烂，赫赫。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2022.12.17</title>
     <url>/2022.12.17/</url>
     <content><![CDATA[<p>我草我竟然活着回家了。上周末住校了可真痛苦。<br>好像疫情放开了，并且学校里出现了许多阳性。目前人还没事。</p>
@@ -331,24 +340,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2022.12.20</title>
-    <url>/2022.12.20/</url>
-    <content><![CDATA[<p>星光又发新专了，我要爽死。<br>都去听！<a href="https://music.163.com/#/album?id=156837632">the Grimoire of Starlight 02 : Forever Mapledise</a>。<br>感觉上像是阳了，一直在大力咳嗽，不过等明天展示活字乱刷术之后再撤离学校为好。<br>摆烂，赫赫。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.12.24</title>
-    <url>/2022.12.24/</url>
-    <content><![CDATA[<p>不算上 NOIP 的测题记录的话，一个月不写题计划圆满完成！（）<br>那么最近在大力地摆烂。pjsk &amp; PVZ2 &amp; Malody，就是不上网课。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2022.12.22</title>
     <url>/2022.12.22/</url>
     <content><![CDATA[<p>半夜时分发烧到四十度。<br>于是乎背诵《琵琶行》和《登泰山记》，前者漏了好多句话/kk</p>
@@ -358,6 +349,15 @@
 <p><img src="https://z4a.net/images/2022/12/22/6d8432b9d1d5be0440a105f7227dbb2a.png" alt=""></p>
 <p>呜呜呜。</p>
 <p>然后把日记摘录更新了，终于是赶上了现在的进度。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2022.12.24</title>
+    <url>/2022.12.24/</url>
+    <content><![CDATA[<p>不算上 NOIP 的测题记录的话，一个月不写题计划圆满完成！（）<br>那么最近在大力地摆烂。pjsk &amp; PVZ2 &amp; Malody，就是不上网课。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -385,15 +385,6 @@
 <p>又打了好几天的 pjsk，发现完全失去 4k 能力。又退化到 1dan 水平了，哼啊啊啊啊啊。<br>等下我又会了，感谢 Powerless233 告诉我要把手给抬起来打，底力大幅提升。<br>3dan 切好像有点会打了。</p>
 <p><img src="https://z4a.net/images/2022/12/28/-3dan-.png" alt=""></p>
 <p>今天二刷完了《少女*领域》，是结束了 Kazari 线，前两天分别是 Hinata 线和 Yuzu 线，和最初的打法反着来。<br>阅读文本速度甚至比第一次打的时候还要慢。真的是想仔细感受这美好的故事呢。<br>Hinata 线至今仍是我觉得做的最好的 galgame 路线。又重新被刀了一次呜呜呜。<br>然后接下来是《糖调》的二刷计划，Kori 我来了（）</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2022.12.30</title>
-    <url>/2022.12.30/</url>
-    <content><![CDATA[<p>最近沉迷于 pjsk 剧情。看上去好像有好多要补的。<br>今天把 WS 的主线给看掉了，评价是非常喜剧（？）<br>然后接着看了一些活动剧情。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -435,6 +426,15 @@
       </categories>
   </entry>
   <entry>
+    <title>2022.12.30</title>
+    <url>/2022.12.30/</url>
+    <content><![CDATA[<p>最近沉迷于 pjsk 剧情。看上去好像有好多要补的。<br>今天把 WS 的主线给看掉了，评价是非常喜剧（？）<br>然后接着看了一些活动剧情。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.1.14</title>
     <url>/2023.1.14/</url>
     <content><![CDATA[<p>终于是带着笔记本去学校了。再也不用顶着那个巨低的帧率打 Malody 了。<br>但是底力还是大幅度掉落！每日坠机。   </p>
@@ -447,9 +447,16 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.1.19</title>
-    <url>/2023.1.19/</url>
-    <content><![CDATA[<p>Powerless233 讲了励志的人生故事和逆天的初中经历（）。<br>果然我从出生到现在一直都是透明人/kk</p>
+    <title>2023.1.10</title>
+    <url>/2023.1.10/</url>
+    <content><![CDATA[<p>学习了 LCT <del>并且并不懂这玩意的工作原理</del>。<br>原来也没指望能半个小时搞懂了，摆烂摆烂，不如继续补 pjsk 剧情，像是中午把 VBS 主线冲掉了。</p>
+<span id="more"></span>
+<p>还是说心态问题。如何面对这个令人纠结的 OI。<br>在强省弱校和 NOIP 240pts 的前提下，感觉省选翻盘的机会不大，但说不定有那么点机会呢？<br>可是 whk 又烂得一批啊，我应该怎么办。<br>我发现了，每次我在学校写鲜花就永远会提到 OI 和 whk 的矛盾这个问题！<br>如果调整好心态去冲其中一个的话说不定会更好呢，不过我的摆烂心还是太严重了。<br>如何减少自己的摆烂时间啊。</p>
+<p>说这些不如来听听某个在创作方面已经摆烂了半年的人的新 idea。</p>
+<blockquote>
+<p>我还是会好奇关于时律的事情，五年前的她一脚踹进时幻家门。<br>那里的她，到底是谁？<br>我决定重新为她创作一个故事，赋予她一个抽象意义。</p>
+</blockquote>
+<p>确实大概是五年前左右我第一次想到了时律这个人物，不过她后来没机会进入“故事之后的故事”。<br>作为我的洛谷用户名，我还是给她一个机会吧，让她的事情看起来没那么幼稚而富有哲理。<br>打算先想个几天，等我有时间写了，我就要复现当时三天冲完《列车少女》的奇迹，毕竟我一拖就什么也干不好了。具体下笔时间可能是农历新年，那个时候可以回家。<br>就目前而言，时幻正在带着时律于黑夜中在郊外飙车（？）</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -493,6 +500,15 @@
 <p>以及，打了两次才成功的，无限暂停过 4dan。</p>
 <p><img src="https://z4a.net/images/2023/01/02/4dan.png" alt=""></p>
 <p>这绝对是甲亢了好吧。不愧是我。<br>虽然但是，这个还不能算是过 4dan，等底力真正上来能够无暂停过后我才能真正认可自己。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.1.19</title>
+    <url>/2023.1.19/</url>
+    <content><![CDATA[<p>Powerless233 讲了励志的人生故事和逆天的初中经历（）。<br>果然我从出生到现在一直都是透明人/kk</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -545,35 +561,10 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.1.10</title>
-    <url>/2023.1.10/</url>
-    <content><![CDATA[<p>学习了 LCT <del>并且并不懂这玩意的工作原理</del>。<br>原来也没指望能半个小时搞懂了，摆烂摆烂，不如继续补 pjsk 剧情，像是中午把 VBS 主线冲掉了。</p>
-<span id="more"></span>
-<p>还是说心态问题。如何面对这个令人纠结的 OI。<br>在强省弱校和 NOIP 240pts 的前提下，感觉省选翻盘的机会不大，但说不定有那么点机会呢？<br>可是 whk 又烂得一批啊，我应该怎么办。<br>我发现了，每次我在学校写鲜花就永远会提到 OI 和 whk 的矛盾这个问题！<br>如果调整好心态去冲其中一个的话说不定会更好呢，不过我的摆烂心还是太严重了。<br>如何减少自己的摆烂时间啊。</p>
-<p>说这些不如来听听某个在创作方面已经摆烂了半年的人的新 idea。</p>
-<blockquote>
-<p>我还是会好奇关于时律的事情，五年前的她一脚踹进时幻家门。<br>那里的她，到底是谁？<br>我决定重新为她创作一个故事，赋予她一个抽象意义。</p>
-</blockquote>
-<p>确实大概是五年前左右我第一次想到了时律这个人物，不过她后来没机会进入“故事之后的故事”。<br>作为我的洛谷用户名，我还是给她一个机会吧，让她的事情看起来没那么幼稚而富有哲理。<br>打算先想个几天，等我有时间写了，我就要复现当时三天冲完《列车少女》的奇迹，毕竟我一拖就什么也干不好了。具体下笔时间可能是农历新年，那个时候可以回家。<br>就目前而言，时幻正在带着时律于黑夜中在郊外飙车（？）</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.1.28</title>
     <url>/2023.1.28/</url>
     <content><![CDATA[<p>我愿意称南京为静电之城，已经被电了无数次了，从此不敢再按电梯按钮。<br>今天晚上不知道跑去哪里玩了，但是全都是人。<br>这样的人满为患令我感到恐惧，反倒是回来的地铁让我舒心。</p>
 <p>另外在手机上尝试下了一点 galgame，也终于弄了一个 xp3player。到手了！<br>以后进入手机 galgame 时代了（雾），虽然应该还是用 PC 玩的舒服吧。<br>也在手机上直接下了一个 Summer Pockets，当时暑假看 Stogic 推。就是不知道下过来有没有中文，可能没有？没有的话就只好再找资源丢进 xp3player 了。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.1.4</title>
-    <url>/2023.1.4/</url>
-    <content><![CDATA[<p>然后我又掉到了落日之中，被血红色的光芒包围而燃烧着。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -588,6 +579,15 @@
 <p>（搞了很久都没能成功拆包，下面的 CG 是自己截图的，画质不够。）</p>
 <p><img src="https://z4a.net/images/2023/01/05/693d20bce38164e3926053b67edd6138.png" alt=""></p>
 <p><img src="https://z4a.net/images/2023/01/05/20c65ce0f9f1ebf79.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.1.4</title>
+    <url>/2023.1.4/</url>
+    <content><![CDATA[<p>然后我又掉到了落日之中，被血红色的光芒包围而燃烧着。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -621,6 +621,43 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.10.3</title>
+    <url>/2023.10.3/</url>
+    <content><![CDATA[<h3 id="兰斯"><a href="#兰斯" class="headerlink" title="兰斯"></a>兰斯</h3><p>加奈美：诶，诶——————————————————————————————</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.10.4</title>
+    <url>/2023.10.4/</url>
+    <content><![CDATA[<h3 id="兰斯"><a href="#兰斯" class="headerlink" title="兰斯"></a>兰斯</h3><p>非常好兰斯，使我彻夜不眠。<br>目前的进度是通了 R1 和 R3，看了 R1 的动画，现在开始打 R7。<br>我发现我还蛮喜欢这个鬼畜战士的，强大的人格魅力——他着实是一个自由的人。<br>印象最深的 BGM 是米莉和兰斯各自的 Theme。鬼畜进行曲！</p>
+<h3 id="逆转检事"><a href="#逆转检事" class="headerlink" title="逆转检事"></a>逆转检事</h3><p>第二部昨天终于打完了，他妈的最后凶手是猿代草太这一点也太震撼了……壮阔的逆转！</p>
+<h3 id="VOCALOID"><a href="#VOCALOID" class="headerlink" title="VOCALOID"></a>VOCALOID</h3><p>我直到现在才发现原来插件就在自带的根目录里？？？</p>
+<hr>
+<p>最近接受了 MARETU《饕餮》的风格。</p>
+<blockquote>
+<p>致命傷、躰、只、有痛<br>不鮮明、切取、差出、恐々<br>無抵抗、心、只、憂鬱<br>不平等、読込、書出、後遺症<br>多人数、歴史、只、流通<br>不公正、切取、誇示誇示、行動<br>不戦勝、”正義”、只、憂愁<br>不平等、読込、書出、<br>躁快</p>
+</blockquote>
+<p>听多了真的觉得很好听！继续推进土曲补完计划。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.10.2</title>
+    <url>/2023.10.2/</url>
+    <content><![CDATA[<h3 id="兰斯"><a href="#兰斯" class="headerlink" title="兰斯"></a>兰斯</h3><p>Alicesoft 大名鼎鼎的兰斯系列，开推！<br>今天凌晨打到今天下午把兰斯 1 给通了（后面开修改器了，开摆）。<br>然后不喜欢兰斯 2 就直接开推兰斯 3。有 cv，完全能冲！</p>
+<h3 id="pjsk"><a href="#pjsk" class="headerlink" title="pjsk"></a>pjsk</h3><p>fes 池一发十连三彩三黄，sega 很酷不说话。<br>台服《Unhappy Refrain》上了，ma31。在 Powerless 的板子上初见 1miss，自己在家里又打了两次就 fc 了，可以说是 31 之耻。</p>
+<h3 id="P-主模仿计划"><a href="#P-主模仿计划" class="headerlink" title="P 主模仿计划"></a>P 主模仿计划</h3><p>把《Hand in Hand》勉强地弄完了，模仿地非常不像，不过就这样吧。<br>接下来是谁呢？暂时打算做 ryo《B★RS》。顺带一提现在 BLACK★ROCK SHOOTER 是我的起床铃。<br>不过考虑到 B★RS 是 2008 年的作品，我是不是得下个 Miku V2 过来才对。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.2.10</title>
     <url>/2023.2.10/</url>
     <content><![CDATA[<p>肯定是我前些日子匆匆忙忙地把茜线推掉的缘故，茜现在在诅咒我遭受寒冰的攻击。<br>你妈的为什么从南京回到温州了还是那么冷啊。这还是大中午的时候呢。</p>
@@ -634,15 +671,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.2.14</title>
-    <url>/2023.2.14/</url>
-    <content><![CDATA[<p>？如果不是群友讨论我都忘了原来今天还是个情人节来着。真可怜。<br>没人送我巧克力那我自己签收一箱巧克力。<br><img src="https://z4a.net/images/2023/02/14/c5a1de99996d0c6f34d2342d817e93b1.jpg" alt=""></p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.2.13</title>
     <url>/2023.2.13/</url>
     <content><![CDATA[<p>因为之前被那道莫反 T3 按着打所以这几天一直在学莫反。今天总算是回过头来把那道题杀了。<br>那玩意最后有一个 </p>
@@ -650,6 +678,15 @@
 <p>这多有意思。</p>
 <span id="more"></span>
 <p>终于是在学校里同时用上了两个显示屏……？这种做法是否有一点抽象。<br>不过大显示屏确实是好，虽然这种双屏的方式以前都没用过。<br>现在可以一边写题一边看奈奈四周年直播力（喜）。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.2.14</title>
+    <url>/2023.2.14/</url>
+    <content><![CDATA[<p>？如果不是群友讨论我都忘了原来今天还是个情人节来着。真可怜。<br>没人送我巧克力那我自己签收一箱巧克力。<br><img src="https://z4a.net/images/2023/02/14/c5a1de99996d0c6f34d2342d817e93b1.jpg" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -679,18 +716,18 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.2.23</title>
-    <url>/2023.2.23/</url>
-    <content><![CDATA[<p>我今天终于把《公主大人才不会认输呢》给推完了。顺带着写掉档案计划。<br>最近因为忙于推游戏所以有所懈怠，这几天要认真补题了。</p>
+    <title>2023.2.20</title>
+    <url>/2023.2.20/</url>
+    <content><![CDATA[<p>我开始打人造人的研究记录了。<del>但是这个睡觉的音效和 HAITENAI RPG 一模一样，你们这套引擎都那么懒的吗。</del><br>我给她取名 Tysta，虽然只是随便想的，但好像是不错的名字。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
       </categories>
   </entry>
   <entry>
-    <title>2023.2.20</title>
-    <url>/2023.2.20/</url>
-    <content><![CDATA[<p>我开始打人造人的研究记录了。<del>但是这个睡觉的音效和 HAITENAI RPG 一模一样，你们这套引擎都那么懒的吗。</del><br>我给她取名 Tysta，虽然只是随便想的，但好像是不错的名字。</p>
+    <title>2023.2.23</title>
+    <url>/2023.2.23/</url>
+    <content><![CDATA[<p>我今天终于把《公主大人才不会认输呢》给推完了。顺带着写掉档案计划。<br>最近因为忙于推游戏所以有所懈怠，这几天要认真补题了。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -728,6 +765,24 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.2.28</title>
+    <url>/2023.2.28/</url>
+    <content><![CDATA[<p>昨天的我躺在床上回忆了时间之巅的所有故事，从它还是个雏形开始，走出了红色的基地，经历了欢笑和离别，于飞翔在天空中的梦里猛然惊醒，随后删除存档抛弃一切执念再次陷入梦中。<br>但那执念是不会消灭的，无数的梦境叠加逐渐构造出了那三人之间的永恒的爱。随着梦境醒来，从这一点出发，映射出了由平行世界组成的漫天星空。施展奥义、戴上面具、穿梭时空、崩坏重组、虚无主义、彩虹之间、再次坠落、失去梦境、文件海洋、傀儡情感、记忆回显、循环结局……<br>从时间之巅上跳下去的话，一切都停止了。但是时律知道，到目前为止这还没有发生。<br>无限重生的故事之后，回过头来的紫维露出了微笑。<br>时幻，我的故事和你一样，永远也不会结束啊！</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.3.1</title>
+    <url>/2023.3.1/</url>
+    <content><![CDATA[<p>我要成为 DimlyP（迫真），开始用 V4C 去调班歌，《永远都会在》的 Cover。<br>我中文歌听得很少，但觉得原曲不错，班级里改词也很好。关于 OI 的那段词「文件输入流 根号又重构 代码运行的出口」究竟是谁填的呢。<br>反正我是在网上搜到了原曲的 MIDI，直接导入 V4 开始填词。现在才填了一半。<br>等我明天填完词开始调细节。<br>好像合唱是下周，但是据说我又要外出停课，所以没法去唱，就让 Miku 代我唱吧（恼）</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.2.3</title>
     <url>/2023.2.3/</url>
     <content><![CDATA[<p>一直在摆烂，明天晚上就要回温州了。<br>回想一下我这些日子都干了什么——好像也没能干出来什么。<br>我所过着的就是这样的毫无意义的生活。</p>
@@ -750,40 +805,9 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.2.28</title>
-    <url>/2023.2.28/</url>
-    <content><![CDATA[<p>昨天的我躺在床上回忆了时间之巅的所有故事，从它还是个雏形开始，走出了红色的基地，经历了欢笑和离别，于飞翔在天空中的梦里猛然惊醒，随后删除存档抛弃一切执念再次陷入梦中。<br>但那执念是不会消灭的，无数的梦境叠加逐渐构造出了那三人之间的永恒的爱。随着梦境醒来，从这一点出发，映射出了由平行世界组成的漫天星空。施展奥义、戴上面具、穿梭时空、崩坏重组、虚无主义、彩虹之间、再次坠落、失去梦境、文件海洋、傀儡情感、记忆回显、循环结局……<br>从时间之巅上跳下去的话，一切都停止了。但是时律知道，到目前为止这还没有发生。<br>无限重生的故事之后，回过头来的紫维露出了微笑。<br>时幻，我的故事和你一样，永远也不会结束啊！</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.2.6</title>
     <url>/2023.2.6/</url>
     <content><![CDATA[<p>回学校力，但是我还是在摆烂的。<br>昨天晚上整理完了术力口歌单，继续推了一点 galgame 档案计划。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.3.13</title>
-    <url>/2023.3.13/</url>
-    <content><![CDATA[<p>这段日子高强度折磨自己。顶着胃肠炎右手抽血暴打初音未来的消失 ex 结果苦苦卡在 1miss，熬夜尝试续写一年半前弃坑的时巅 5，然后又开始学痛苦的网络流。为什么要这样对自己呢。</p>
-<p>距离省选还有半个月的说，摆烂的时间还剩下半个月的说。求求了让实在不想学 whk 的我侥幸摸进神明一般的浙江省队吧。</p>
-<p>不过说实在的，这些痛苦的事情起码都不算讨厌，尤其是时巅 5，我还是想把它写好的，如果可能的话。</p>
-<p>就根据我目前的整体剧情规划来看，好像九上时我一个月的工作完成了全部内容的四分之一，写了大概两万字吧，可能不到。</p>
-<p>问题不大。这一回我再写两万字再弃坑，过个两年我又想起来这回事再写两万字，再过两年我又想起来这回事就把它写完了。这多好。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.3.1</title>
-    <url>/2023.3.1/</url>
-    <content><![CDATA[<p>我要成为 DimlyP（迫真），开始用 V4C 去调班歌，《永远都会在》的 Cover。<br>我中文歌听得很少，但觉得原曲不错，班级里改词也很好。关于 OI 的那段词「文件输入流 根号又重构 代码运行的出口」究竟是谁填的呢。<br>反正我是在网上搜到了原曲的 MIDI，直接导入 V4 开始填词。现在才填了一半。<br>等我明天填完词开始调细节。<br>好像合唱是下周，但是据说我又要外出停课，所以没法去唱，就让 Miku 代我唱吧（恼）</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -808,6 +832,19 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.3.13</title>
+    <url>/2023.3.13/</url>
+    <content><![CDATA[<p>这段日子高强度折磨自己。顶着胃肠炎右手抽血暴打初音未来的消失 ex 结果苦苦卡在 1miss，熬夜尝试续写一年半前弃坑的时巅 5，然后又开始学痛苦的网络流。为什么要这样对自己呢。</p>
+<p>距离省选还有半个月的说，摆烂的时间还剩下半个月的说。求求了让实在不想学 whk 的我侥幸摸进神明一般的浙江省队吧。</p>
+<p>不过说实在的，这些痛苦的事情起码都不算讨厌，尤其是时巅 5，我还是想把它写好的，如果可能的话。</p>
+<p>就根据我目前的整体剧情规划来看，好像九上时我一个月的工作完成了全部内容的四分之一，写了大概两万字吧，可能不到。</p>
+<p>问题不大。这一回我再写两万字再弃坑，过个两年我又想起来这回事再写两万字，再过两年我又想起来这回事就把它写完了。这多好。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.3.15</title>
     <url>/2023.3.15/</url>
     <content><![CDATA[<p>你知道吗，这不禁让我想起了<a href="/列车少女">列车少女</a>的故事，期间各种间断时间后的偶然相遇。<br>或许那确实取材于现实，只是把现实中我所经历的更加夸张化了而已。<br>这么一说，仔细看看列车少女的写作时间，恰巧就是上一次我和她联系的时间，就中考与高考的互相加油这约定而发邮件。虽然那个时候我也基本上知道了中考对我而言根本算不上什么事，温州中学这是你做的唯一一件好事。<br>我要偷偷地在打了那么久的 OI 上得到成绩，到时候在我被她高考加油时才会有底气。</p>
@@ -821,20 +858,20 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.3.18</title>
-    <url>/2023.3.18/</url>
-    <content><![CDATA[<p>昨天月考结束<del>（虽然我并没有考。）</del>班级里团建，我顶着巨卡的 PS4 直接开只狼速通，从新档打到修罗结局最终 BOSS，可惜没能够通关。<br>最后还有个颁奖典礼，我因为之前的<a href="/2022.12.18">活字乱刷术</a>获得了十分满意的奖品！所有人都知道我是二次元了（大悲）不过这可是深夜内卷的利器啊。</p>
-<p><img src="https://z4a.net/images/2023/03/18/1f6f6fb48f12ea360c154556d52bd00b.jpg" alt=""></p>
+    <title>2023.3.17</title>
+    <url>/2023.3.17/</url>
+    <content><![CDATA[<p>主播偷偷地过了 5dan。叠有 98%。突然看懂乱和切了。切力有待提高。</p>
+<p><img src="https://z4a.net/images/2023/03/17/5dan-.png" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
       </categories>
   </entry>
   <entry>
-    <title>2023.3.17</title>
-    <url>/2023.3.17/</url>
-    <content><![CDATA[<p>主播偷偷地过了 5dan。叠有 98%。突然看懂乱和切了。切力有待提高。</p>
-<p><img src="https://z4a.net/images/2023/03/17/5dan-.png" alt=""></p>
+    <title>2023.3.18</title>
+    <url>/2023.3.18/</url>
+    <content><![CDATA[<p>昨天月考结束<del>（虽然我并没有考。）</del>班级里团建，我顶着巨卡的 PS4 直接开只狼速通，从新档打到修罗结局最终 BOSS，可惜没能够通关。<br>最后还有个颁奖典礼，我因为之前的<a href="/2022.12.18">活字乱刷术</a>获得了十分满意的奖品！所有人都知道我是二次元了（大悲）不过这可是深夜内卷的利器啊。</p>
+<p><img src="https://z4a.net/images/2023/03/18/1f6f6fb48f12ea360c154556d52bd00b.jpg" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -861,18 +898,18 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.3.20</title>
-    <url>/2023.3.20/</url>
-    <content><![CDATA[<p>我开始打多娜多娜，久闻大名的业界神作。打到 DAY56，剧情是到刚刚把梅蒂可从医院里救出来避免 NTR，想要推的是绮菈绮菈，好感度升到七级了都。<br>目前玩来，这个故事给我的感受是：「黑暗的人们用着黑暗的方式反抗着最为黑暗的社会」。这个游戏里，关于春销的部分有很多小剧情，其中第一个有小剧情的角色衣缝给了我很大的震撼。<br>衣缝原本是高二 JK，受着亚的教育催眠所害，在春销过程中对于世界的认知逐渐崩溃，发现了其黑暗的真面目。在她质问阿熊，认为他们反亚组织以春销作为手段赚钱同样也很黑暗之时，阿熊那做好了在亚毁灭的第二天被神明杀死的觉悟让我在某种方面肃然起敬。或许作为地下组织，他们同样是黑暗的，甚至可能更加黑暗，做着更加惨无人道的事情，但这一切都是为了反亚而做准备。<br>当然，这些反亚组织的春销做法在某种意义上确实违反人类道德，这又是一个无法解决的问题。还是那句话，一款小黄油能有如此深度，让我不得不佩服了……等下多娜多娜可是大黄油。<br>到目前为止多娜多娜我可以打满分。无论是剧情（前面有提，并且逻辑自洽，很好地埋许多伏笔）、音乐（他妈的 0dan map-2，我手疼了）、美术（赛博朋克风，完全喷射，并且 H scene 巨大的多）、游戏性（战斗难度适中、不需要刻意刷怪，部分角色设计很有意思，比如菊千代和爱丽丝两个角色都是高输出但是分别只能近战和远战）、人物（一大堆妹子，无论是什么 xp 总有一个满足你，cv 满分还有一大堆认识的）。主播有玩 HATIENAI RPG 时那种兴奋感了。</p>
+    <title>2023.3.23</title>
+    <url>/2023.3.23/</url>
+    <content><![CDATA[<p>我还是想就《多娜多娜》的男主角阿熊的事情谈一谈，毕竟我发现网上关于剧情的负面评价基本上都是怼着他了。<br>确实，反亚的帮派的春销行为虽然是为了苟活而不得不做的事，但是这种行为仍然是违反社会道德的，就算最后他们推翻了亚总义，这改变不了他们作为恶人的事实。阿熊也确实承认了他万恶不赦，他要背负着恶名为他的姐姐报仇毁灭亚总义。我没有想要洗白阿熊的想法，只是在这里说明他的心态：“承认自己是恶人”。<br>所以可以看出来了：阿熊是典型的反英雄形象。说到这里我还要拿出一个也很经典的反英雄人物：奎托斯。<br>在旧战神三部曲里，奎爷确实杀死了邪恶的众神，摧毁了奥林匹斯的统治，最后将希望撒播向人间，但身为斯巴达将军他也在战争中杀死无数平民百姓，而杀死众神的过程中将世界变为一片混乱（因为失去神的管理，世间万物无法正常运作，比如波塞冬死后海平面上升淹死无数人）。<br>可以看出来反英雄很多时候都是这种不上不下的人物，他们只能通过牺牲比自己低的人物去推倒比自己高的人物，这无疑是一场悲剧。<br>回到关于阿熊的问题上，我上面最后提到他的心态。在我看来，要是他没有意识到这一点，关于他的问题会严重的多。他不能被定义为纯粹的恶人，因为他的目的并非是作恶，他甚至也尽量排斥让自己的同伴来做春销，为的就是不让他们也沾染上他应受的恶。<br>为什么是应受的恶？回顾一下主角团十个人，大致上真正拥有反亚目的的人大概也就阿熊和菊千代，其他人基本上都是“随心所欲”，如果想要退出那由多的话完全是可能的，但是阿熊就不行，他必须坚定地在反亚这条道路上走下去，春销作为唯一的经济来源成为了他应受的恶。提到菊千代，关于两人的个人剧情也是阿熊教菊千代春销<del>虽然后面就变成各种 H scene 了。</del>并且菊千代在东云派时期也是对春销不甚了解，脏活是给品须干。从某种意义上菊千代也是想帮阿熊承担那一部分他们都应受的恶。<br>对于阿熊“双标”的说法，我觉得你说得对，但他不双标还能怎样？在必须春销的前提下，他要把他的同伴们抓去春销？这个想法很弱智。还有一个事情可以说：梅蒂可的第一个 H scene。梅蒂可自己就无法忍受春销的行为，并且让阿熊强掉自己使自己感受到同等的罪恶感。并且，阿熊抓人时也带有原则：不用“外面”的人作春销，比如梅蒂可；甚至抓到加乃乃还想放她回去来着。我再重复一遍我没有在洗白阿熊，我只是觉得他从思想上来讲至少不是一个衣冠禽兽，因此不至于罪大恶极的程度。<br>我又想到《进击的巨人》，但是关于艾伦我前面忘了，中间忘了，后面忘了，不说了。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
       </categories>
   </entry>
   <entry>
-    <title>2023.3.23</title>
-    <url>/2023.3.23/</url>
-    <content><![CDATA[<p>我还是想就《多娜多娜》的男主角阿熊的事情谈一谈，毕竟我发现网上关于剧情的负面评价基本上都是怼着他了。<br>确实，反亚的帮派的春销行为虽然是为了苟活而不得不做的事，但是这种行为仍然是违反社会道德的，就算最后他们推翻了亚总义，这改变不了他们作为恶人的事实。阿熊也确实承认了他万恶不赦，他要背负着恶名为他的姐姐报仇毁灭亚总义。我没有想要洗白阿熊的想法，只是在这里说明他的心态：“承认自己是恶人”。<br>所以可以看出来了：阿熊是典型的反英雄形象。说到这里我还要拿出一个也很经典的反英雄人物：奎托斯。<br>在旧战神三部曲里，奎爷确实杀死了邪恶的众神，摧毁了奥林匹斯的统治，最后将希望撒播向人间，但身为斯巴达将军他也在战争中杀死无数平民百姓，而杀死众神的过程中将世界变为一片混乱（因为失去神的管理，世间万物无法正常运作，比如波塞冬死后海平面上升淹死无数人）。<br>可以看出来反英雄很多时候都是这种不上不下的人物，他们只能通过牺牲比自己低的人物去推倒比自己高的人物，这无疑是一场悲剧。<br>回到关于阿熊的问题上，我上面最后提到他的心态。在我看来，要是他没有意识到这一点，关于他的问题会严重的多。他不能被定义为纯粹的恶人，因为他的目的并非是作恶，他甚至也尽量排斥让自己的同伴来做春销，为的就是不让他们也沾染上他应受的恶。<br>为什么是应受的恶？回顾一下主角团十个人，大致上真正拥有反亚目的的人大概也就阿熊和菊千代，其他人基本上都是“随心所欲”，如果想要退出那由多的话完全是可能的，但是阿熊就不行，他必须坚定地在反亚这条道路上走下去，春销作为唯一的经济来源成为了他应受的恶。提到菊千代，关于两人的个人剧情也是阿熊教菊千代春销<del>虽然后面就变成各种 H scene 了。</del>并且菊千代在东云派时期也是对春销不甚了解，脏活是给品须干。从某种意义上菊千代也是想帮阿熊承担那一部分他们都应受的恶。<br>对于阿熊“双标”的说法，我觉得你说得对，但他不双标还能怎样？在必须春销的前提下，他要把他的同伴们抓去春销？这个想法很弱智。还有一个事情可以说：梅蒂可的第一个 H scene。梅蒂可自己就无法忍受春销的行为，并且让阿熊强掉自己使自己感受到同等的罪恶感。并且，阿熊抓人时也带有原则：不用“外面”的人作春销，比如梅蒂可；甚至抓到加乃乃还想放她回去来着。我再重复一遍我没有在洗白阿熊，我只是觉得他从思想上来讲至少不是一个衣冠禽兽，因此不至于罪大恶极的程度。<br>我又想到《进击的巨人》，但是关于艾伦我前面忘了，中间忘了，后面忘了，不说了。</p>
+    <title>2023.3.20</title>
+    <url>/2023.3.20/</url>
+    <content><![CDATA[<p>我开始打多娜多娜，久闻大名的业界神作。打到 DAY56，剧情是到刚刚把梅蒂可从医院里救出来避免 NTR，想要推的是绮菈绮菈，好感度升到七级了都。<br>目前玩来，这个故事给我的感受是：「黑暗的人们用着黑暗的方式反抗着最为黑暗的社会」。这个游戏里，关于春销的部分有很多小剧情，其中第一个有小剧情的角色衣缝给了我很大的震撼。<br>衣缝原本是高二 JK，受着亚的教育催眠所害，在春销过程中对于世界的认知逐渐崩溃，发现了其黑暗的真面目。在她质问阿熊，认为他们反亚组织以春销作为手段赚钱同样也很黑暗之时，阿熊那做好了在亚毁灭的第二天被神明杀死的觉悟让我在某种方面肃然起敬。或许作为地下组织，他们同样是黑暗的，甚至可能更加黑暗，做着更加惨无人道的事情，但这一切都是为了反亚而做准备。<br>当然，这些反亚组织的春销做法在某种意义上确实违反人类道德，这又是一个无法解决的问题。还是那句话，一款小黄油能有如此深度，让我不得不佩服了……等下多娜多娜可是大黄油。<br>到目前为止多娜多娜我可以打满分。无论是剧情（前面有提，并且逻辑自洽，很好地埋许多伏笔）、音乐（他妈的 0dan map-2，我手疼了）、美术（赛博朋克风，完全喷射，并且 H scene 巨大的多）、游戏性（战斗难度适中、不需要刻意刷怪，部分角色设计很有意思，比如菊千代和爱丽丝两个角色都是高输出但是分别只能近战和远战）、人物（一大堆妹子，无论是什么 xp 总有一个满足你，cv 满分还有一大堆认识的）。主播有玩 HATIENAI RPG 时那种兴奋感了。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -913,20 +950,20 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.3.8</title>
-    <url>/2023.3.8/</url>
-    <content><![CDATA[<p>现在的我选择妹禁手1和万华镜3双开。上一次我同时打两个 gal 是什么时候？<del>不就是之前妹吻妹抱双开吗。</del><br>万华镜3的话是经典的末世+智械吗，上一次碰到这个配置是亚托莉，神明的话没有末世。<br>目前的话亚璃子和灯露椎已经纳入后宫了，所以大概是第一阶段剧情结束，后面大概一堆 H scene。希望后续剧情展开足够精彩。</p>
+    <title>2023.3.9</title>
+    <url>/2023.3.9/</url>
+    <content><![CDATA[<p>今天是最后的大合唱。故事就在我站上台时达到了高潮。<br>我唱的真的很尽兴。这是多美妙的故事啊。</p>
+<p>区区 29 级六兆年 ex，被我双指轻松 fc，真的被我瞧不起了！<br><del>虽然是带了五张判卡强行草过去的，但我终于学会接纵连了。</del></p>
+<p><img src="https://z4a.net/images/2023/03/09/ex-fc.jpg" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
       </categories>
   </entry>
   <entry>
-    <title>2023.3.9</title>
-    <url>/2023.3.9/</url>
-    <content><![CDATA[<p>今天是最后的大合唱。故事就在我站上台时达到了高潮。<br>我唱的真的很尽兴。这是多美妙的故事啊。</p>
-<p>区区 29 级六兆年 ex，被我双指轻松 fc，真的被我瞧不起了！<br><del>虽然是带了五张判卡强行草过去的，但我终于学会接纵连了。</del></p>
-<p><img src="https://z4a.net/images/2023/03/09/ex-fc.jpg" alt=""></p>
+    <title>2023.3.8</title>
+    <url>/2023.3.8/</url>
+    <content><![CDATA[<p>现在的我选择妹禁手1和万华镜3双开。上一次我同时打两个 gal 是什么时候？<del>不就是之前妹吻妹抱双开吗。</del><br>万华镜3的话是经典的末世+智械吗，上一次碰到这个配置是亚托莉，神明的话没有末世。<br>目前的话亚璃子和灯露椎已经纳入后宫了，所以大概是第一阶段剧情结束，后面大概一堆 H scene。希望后续剧情展开足够精彩。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -945,22 +982,22 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.4.21</title>
-    <url>/2023.4.21/</url>
-    <content><![CDATA[<p>昨天在学校把爱理线通了，这也就代表着《纯白交响曲》终于来到了尾声。<br>现在在看番。说老实的这种没有后宫线的 gal 想改成番真的是蛮难的，为了讨好观众就得让男主雨露均沾从而导致篇幅和情感渲染不够以及自我攻略。还有樱乃线根本没了。学姐线因为相对来讲比较剧情向所以被当做主线了吗。<br>这让我不禁担忧起明年的亚托莉……哦人家是单线，随随便便动画化。<br>附一张自己做的刁图，玩学姐线时人给笑傻了。</p>
-<p><img src="https://z4a.net/images/2023/04/22/Palette.png" alt=""></p>
-<script type="math/tex; mode=display">\texttt{左：《纯白交响曲》；右：《9-nine-天色天歌天籁音》}</script>]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.4.22</title>
     <url>/2023.4.22/</url>
     <content><![CDATA[<p>《1/2 summer》完成，但实际上真结局由于要睡觉了就没有细看。以及黑羽讲的那些传说虽然存档了但是还要再看一遍才能够理解真结局，顺带也查了一下维基百科。不过好想打 PSP 版啊，我的妹线。<br>在中文译名这方面我习惯叫这个游戏「半夏」，但看着英文「one side summer」，在某种意义上我看到的其它翻译「片面的夏天」说不定更为合适。</p>
 <span id="more"></span>
 <p>最近在其他方面也有或多或少的一些展开，比如打《战神 3》的二周目，重刷了《暗杀教室》，pjsk《Don’t Fight The Music》ex30 1good 之类的。反正我就是个废人。</p>
 ]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.4.21</title>
+    <url>/2023.4.21/</url>
+    <content><![CDATA[<p>昨天在学校把爱理线通了，这也就代表着《纯白交响曲》终于来到了尾声。<br>现在在看番。说老实的这种没有后宫线的 gal 想改成番真的是蛮难的，为了讨好观众就得让男主雨露均沾从而导致篇幅和情感渲染不够以及自我攻略。还有樱乃线根本没了。学姐线因为相对来讲比较剧情向所以被当做主线了吗。<br>这让我不禁担忧起明年的亚托莉……哦人家是单线，随随便便动画化。<br>附一张自己做的刁图，玩学姐线时人给笑傻了。</p>
+<p><img src="https://z4a.net/images/2023/04/22/Palette.png" alt=""></p>
+<script type="math/tex; mode=display">\texttt{左：《纯白交响曲》；右：《9-nine-天色天歌天籁音》}</script>]]></content>
       <categories>
         <category>神秘</category>
       </categories>
@@ -1013,6 +1050,15 @@
       </categories>
   </entry>
   <entry>
+    <title>2023.4.8</title>
+    <url>/2023.4.8/</url>
+    <content><![CDATA[<p>回去上了一周的 whk，不知道我对此感觉如何，但可以知道的是：时间之巅 5.0 终于写到了我梦寐以求的第七小节和第 100 面，我的赶稿速度大幅提升了。我为了写这个小节等了一年半啊。虽然写完第七小节估计就又要萎了。<br>从某种意义上我还在大力推进 galgame 事业，目前还是《1/2 summer》和《纯白交响曲》双开，都是较早（前者 12 年，后者 09 年）的 gal 了吧。尝试让自己接受那个年代的画风。目前两个游戏进度分别是：推完叶、汐，在推鸫；推完安洁，在推樱乃。<br>有人说，你再过一周就要期中考了，你怎么还是那么颓废？有人说，你再过三个月就要学考了，你怎么还是那么颓废？我完全选择摆烂的。这个就是答案。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023.4.30</title>
     <url>/2023.4.30/</url>
     <content><![CDATA[<p>在家里快乐颓废了一天，并且终于是把评论系统搞出来了，Gitalk 牛逼，Waline 傻逼。<br>现在突然就不知道把这些独自一人的时间拿来干什么了。本来应该去赶稿时巅 5 的但是开摆了。<br>或许我们可以再推一个 gal，不过调色板的经典作品已经被我玩完了。接下来打什么，柚子社吗，虽然貌似是经典废萌但是我实在不想碰，柚子厨什么太令人讨厌了，虽然本身作品质量是高的。<br>或者说我们继续那个二刷计划，在糖调那里就莫名其妙中断了。怎么说呢，貌似废萌作确实是不大适合二刷的，因为剧情这种东西比较适合二刷但日常并不是，虽然也有例外，比如我觉得暴太郎或者齐木楠雄随便点开一集都很好。<br>说到剧情作那就得是《9-nine-》了，不过才刚玩完一个月立刻二刷是不是不大好。不过我好像没有其他手头的剧情作了。<br>所以还是要回去赶稿吗，哭。不如学 whk 或者好好准备 PKUSC，拿个约才是最现实的。</p>
@@ -1022,9 +1068,9 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.4.8</title>
-    <url>/2023.4.8/</url>
-    <content><![CDATA[<p>回去上了一周的 whk，不知道我对此感觉如何，但可以知道的是：时间之巅 5.0 终于写到了我梦寐以求的第七小节和第 100 面，我的赶稿速度大幅提升了。我为了写这个小节等了一年半啊。虽然写完第七小节估计就又要萎了。<br>从某种意义上我还在大力推进 galgame 事业，目前还是《1/2 summer》和《纯白交响曲》双开，都是较早（前者 12 年，后者 09 年）的 gal 了吧。尝试让自己接受那个年代的画风。目前两个游戏进度分别是：推完叶、汐，在推鸫；推完安洁，在推樱乃。<br>有人说，你再过一周就要期中考了，你怎么还是那么颓废？有人说，你再过三个月就要学考了，你怎么还是那么颓废？我完全选择摆烂的。这个就是答案。</p>
+    <title>2023.5.13</title>
+    <url>/2023.5.13/</url>
+    <content><![CDATA[<p>在 PKUSC 期间和回来后并没有写闲话，不过这个相关的话可以去洛谷上看游记。<a href="https://www.luogu.com.cn/blog/Dimly/PKUSC2023">link</a>。<br>回学校之后老老实实地学了一周的 whk，主要是在自习化学和历史，另外又滚回去研究时间之巅 5.0 了，目前又想要像写《列车少女》一样在 5.0 的世界观下写更多的短篇……这一回它是紫陰花的故事。话说这事紫陰花的第三个版本了吧，和云露一样明明不是很重要的角色但却被我眷顾着呢（）。<br>在学校里的时候发现 MORE MORE JUMP! 发新专了，是全世界漫游和变身领结的完整版！设了。仍然记得刚刚入坑国际服时就打了 World Wide Wander（全世界漫游）。<br>然后今天晚上在重推《献给神明般的你》，仍然记得四个月前我在博客里对于这款 gal 不公正的风评大发脾气。<br>说实话《神明 EX》让我很满意：作为拔作有着不言自明的强大，作为剧情作在 EX 版本中重做了问题最大的拉娜线，加入了点睛之笔的叶月线，剧情直接起飞。而且这玩意还有一个中意语音系统让我觉得很赞！<br>今天重推掉了月咏线。当时我是先推月咏再推霧香的，所以并没有完全搞懂为什么月咏的身份会在那场偶像活动的事故中暴露……现在知道了霧香眼睛里有摄像头了。<br>我还可以写很多关于《神明》的研究，但是比起那个我还想干脆发表一篇名为《论 Tinkle Position 及从〈妹禁手〉到〈童贞兄妹〉的发展历程和演变》的论文，这个东西我随手讲几千字。（？）<br>所以 Sister Position 快发新作，我相信你的童贞兄妹只是在憋大招。所以 Palette 快发新作，别惦记着你那炒冷饭了。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1035,15 +1081,6 @@
     <url>/2023.5.2/</url>
     <content><![CDATA[<p>不知道由于什么原因就冲动地去做《Recharge!》的 Cover 了，嘿嘿我的婕儿。但是根本找不到 midi 甚至没有谱，所以我只能自己扒谱，到现在的话花了四五个小时已经在 VOCALOID4 里把音符位置全调好了。原本想学习 VOCALOID5 但是发现这玩意根本读不出来我的 Miku V4C，人傻了。<br>可爱曲，这是好的。到时候拿 Rin 做一下某些和声。</p>
 <p>集集入坑 pjsk 了。感觉很厉害。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.5.13</title>
-    <url>/2023.5.13/</url>
-    <content><![CDATA[<p>在 PKUSC 期间和回来后并没有写闲话，不过这个相关的话可以去洛谷上看游记。<a href="https://www.luogu.com.cn/blog/Dimly/PKUSC2023">link</a>。<br>回学校之后老老实实地学了一周的 whk，主要是在自习化学和历史，另外又滚回去研究时间之巅 5.0 了，目前又想要像写《列车少女》一样在 5.0 的世界观下写更多的短篇……这一回它是紫陰花的故事。话说这事紫陰花的第三个版本了吧，和云露一样明明不是很重要的角色但却被我眷顾着呢（）。<br>在学校里的时候发现 MORE MORE JUMP! 发新专了，是全世界漫游和变身领结的完整版！设了。仍然记得刚刚入坑国际服时就打了 World Wide Wander（全世界漫游）。<br>然后今天晚上在重推《献给神明般的你》，仍然记得四个月前我在博客里对于这款 gal 不公正的风评大发脾气。<br>说实话《神明 EX》让我很满意：作为拔作有着不言自明的强大，作为剧情作在 EX 版本中重做了问题最大的拉娜线，加入了点睛之笔的叶月线，剧情直接起飞。而且这玩意还有一个中意语音系统让我觉得很赞！<br>今天重推掉了月咏线。当时我是先推月咏再推霧香的，所以并没有完全搞懂为什么月咏的身份会在那场偶像活动的事故中暴露……现在知道了霧香眼睛里有摄像头了。<br>我还可以写很多关于《神明》的研究，但是比起那个我还想干脆发表一篇名为《论 Tinkle Position 及从〈妹禁手〉到〈童贞兄妹〉的发展历程和演变》的论文，这个东西我随手讲几千字。（？）<br>所以 Sister Position 快发新作，我相信你的童贞兄妹只是在憋大招。所以 Palette 快发新作，别惦记着你那炒冷饭了。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1087,15 +1124,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.6.21</title>
-    <url>/2023.6.21/</url>
-    <content><![CDATA[<p>一鼓作气把花音线和白亚线通了。气馁了。看到还有梓和胡桃的线，没有兴趣推了，下次再补完吧。<br>评价一下：琉璃线里悠真是天才（参悟了时停原理），樱良线里悠真是智障（你们两个什么玩意？？？），诺娅线里悠真啥也不是（被抓起来了），花音线里既是天才又是智障（既弄懂了时停原理又没反应过来女朋友被他自己绿了），白亚线里是谜语人。<br>抱歉我真的没看懂白亚线所以不做评价，我真的觉得比较混乱而且唯心。但是至少有一点我是知道的：琉璃线和樱良线里最多时停一百次的坑没填。这又是不好的。<br>想过来，以前也有两个 gal 让我推完的时候没懂：一个是《青空下的加缪》，本来就是电波系意识流的哲理派 gal，别人为了解析能写万字长文，我没看懂正常；另一个是《9-nine-》系列，因为是剧情作并且世界观宏大而复杂。不过在经过大量的查阅资料和情节整理之后我大概还是弄清楚了《9-nine-》。但是……这个《时停》……我觉得它真的很混乱。<br>《9-nine-》的没看懂实质上只是因为意想不到却又是情理之中的展开，当时雪雪雪后面我看到假 ED 和伊莉丝也造了个 OVERLORD 出来的时候整个人差点崩溃了，十分想知道后面翔哥怎么反杀。而后面翔哥和 nine 对于同调机制的理解也真的是玩出了花样。虽然当时第一次玩时没看懂，但我直呼翔哥 nb，现在变成了把设定和逻辑链拎出来分析过后大呼翔哥 nb。<br>但是现在这个《时停》……额……我觉得它就没有这个潜质。它真的很唯心！<br>我觉得这种现象的发生不难理解：一旦 galgame 写手尝试进入专业领域，几乎没人能成功活下来。就像是在这部《时停》中，我觉得在剧情里谈论那些量子力学其实就很蠢。同样地当时我在谈论《神明》关于黑客行为的描写时也觉得很幼稚。写手自作聪明，其实写出来的内容很尬并且自己也看不懂，更别说理清逻辑关系了。<br>当然也有可能只是纯粹因为我没看懂《时停》而在这里大发牢骚罢了。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.6.17</title>
     <url>/2023.6.17/</url>
     <content><![CDATA[<p>在学校痛苦了一周，总算是回来了。圣经朗诵：今天是六月的第XX个日子，是星期X，我感觉我已经在学校住了很久了，我怎么还没有回家？？？<br>关于今天的话，就来列举一下发生了什么：</p>
@@ -1109,6 +1137,24 @@
 </ul>
 <p>说起来纯白交响曲会在 6.23 发。我还发现少女领域是 2016.6.24 发的。抛开《高捷少女IS》不谈（这玩意本质其实是视觉小说），《少女*领域》就是我玩的第一部真正意义上的 gal，并且也带领我在打 galgame 这条路上一去不复返。虽然但是，Palette QUALIA 也就只有这一部作品，结果到现在都还没有解散，去年年底还把《少女*领域》搬上了 Steam，真的不知道这群人是死是活。<br>以及 Palette 什么时候有新作。快发消息。你要是《少女*领域 FD》或者《少女*领域 重置版》也不错。做一个美结线也不错啊。</p>
 <p><img src="https://z4a.net/images/2023/06/18/8e3725614ef4118e95fb547cdaad6eea.jpg" alt=""></p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.6.25</title>
+    <url>/2023.6.25/</url>
+    <content><![CDATA[<p>把《时停》梓线和胡桃线过了，没啥兴趣看全程快进两个加在一起就用了半小时，明明已经全 CG 了达成率为什么是 99%？？？   不管了，我就当自己全 CG 通关了。<br>学考前最后一次回家，但实际上没什么大事情。不过我真的在学考后规划了很多事情要做！<br>虽然说不知道学考能考成怎样吧……历史和地理求求保个 B 就好了，不求 A。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.6.21</title>
+    <url>/2023.6.21/</url>
+    <content><![CDATA[<p>一鼓作气把花音线和白亚线通了。气馁了。看到还有梓和胡桃的线，没有兴趣推了，下次再补完吧。<br>评价一下：琉璃线里悠真是天才（参悟了时停原理），樱良线里悠真是智障（你们两个什么玩意？？？），诺娅线里悠真啥也不是（被抓起来了），花音线里既是天才又是智障（既弄懂了时停原理又没反应过来女朋友被他自己绿了），白亚线里是谜语人。<br>抱歉我真的没看懂白亚线所以不做评价，我真的觉得比较混乱而且唯心。但是至少有一点我是知道的：琉璃线和樱良线里最多时停一百次的坑没填。这又是不好的。<br>想过来，以前也有两个 gal 让我推完的时候没懂：一个是《青空下的加缪》，本来就是电波系意识流的哲理派 gal，别人为了解析能写万字长文，我没看懂正常；另一个是《9-nine-》系列，因为是剧情作并且世界观宏大而复杂。不过在经过大量的查阅资料和情节整理之后我大概还是弄清楚了《9-nine-》。但是……这个《时停》……我觉得它真的很混乱。<br>《9-nine-》的没看懂实质上只是因为意想不到却又是情理之中的展开，当时雪雪雪后面我看到假 ED 和伊莉丝也造了个 OVERLORD 出来的时候整个人差点崩溃了，十分想知道后面翔哥怎么反杀。而后面翔哥和 nine 对于同调机制的理解也真的是玩出了花样。虽然当时第一次玩时没看懂，但我直呼翔哥 nb，现在变成了把设定和逻辑链拎出来分析过后大呼翔哥 nb。<br>但是现在这个《时停》……额……我觉得它就没有这个潜质。它真的很唯心！<br>我觉得这种现象的发生不难理解：一旦 galgame 写手尝试进入专业领域，几乎没人能成功活下来。就像是在这部《时停》中，我觉得在剧情里谈论那些量子力学其实就很蠢。同样地当时我在谈论《神明》关于黑客行为的描写时也觉得很幼稚。写手自作聪明，其实写出来的内容很尬并且自己也看不懂，更别说理清逻辑关系了。<br>当然也有可能只是纯粹因为我没看懂《时停》而在这里大发牢骚罢了。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1131,15 +1177,6 @@
 </ul>
 <p><img src="https://z4a.net/images/2023/06/06/2022.6.6.png" alt=""></p>
 <script type="math/tex; mode=display">\small\texttt{去年时的高考祝福，如今你又在哪里呢？}</script>]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.6.25</title>
-    <url>/2023.6.25/</url>
-    <content><![CDATA[<p>把《时停》梓线和胡桃线过了，没啥兴趣看全程快进两个加在一起就用了半小时，明明已经全 CG 了达成率为什么是 99%？？？   不管了，我就当自己全 CG 通关了。<br>学考前最后一次回家，但实际上没什么大事情。不过我真的在学考后规划了很多事情要做！<br>虽然说不知道学考能考成怎样吧……历史和地理求求保个 B 就好了，不求 A。</p>
-]]></content>
       <categories>
         <category>神秘</category>
       </categories>
@@ -1218,15 +1255,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.8.10</title>
-    <url>/2023.8.10/</url>
-    <content><![CDATA[<p>这两天让 Powerless 带我上手复健 4k，结果发现一上来就高于以前的巅峰水平。太梦幻了。<br>打出了类似于 6dan 叠 95.99%，水晶世界 97.12% 之类的把我自己都吓死了的成绩。<br>另外今天大力抽卡，运气大飞升。<a href="https://www.bilibili.com/video/BV1Sh4y1F77B">【pjsk】三万石大战桃井爱莉</a>。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.8.12</title>
     <url>/2023.8.12/</url>
     <content><![CDATA[<p>首先，再过几天大概就回学校了，所以这个博客又要难以更新了。<br>打算以后改变一下写闲话的风格，简单来说就是分条目阐述，不像以前一样把很多事情混在一起。</p>
@@ -1244,21 +1272,20 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.8.20</title>
-    <url>/2023.8.20/</url>
-    <content><![CDATA[<h3 id="过-Tech-6dan-和-Speed-6dan"><a href="#过-Tech-6dan-和-Speed-6dan" class="headerlink" title="过 Tech 6dan 和 Speed 6dan"></a>过 Tech 6dan 和 Speed 6dan</h3><p>图就懒得放了。<br>值得一提的是乱我是初见，最后以为结束了双手离开键盘结果漏了三个 note，最后只有 94.94%。<br>在胁迫 Powerless 后他承认我过了 6dan 乱（）</p>
-<h3 id="圣骑士莉卡物语"><a href="#圣骑士莉卡物语" class="headerlink" title="圣骑士莉卡物语"></a>圣骑士莉卡物语</h3><p>今天凌晨两点开推，中间大概划水了几个小时，下午四点通关。<br>实际上因为要去学校所以只打完了主线，额外的剧情还没有看。下周再打。<br>纯爱战士全程咬牙切齿，震撼度太大。不过至少可莉莉幸免于难。<br>但是白翼圣骑士形态是真的好看！完美对上我所有的 xp。</p>
-<p><img src="https://z4a.net/images/2023/08/20/54748f8f5b25537a1ce1d766c702a138.png" alt=""></p>
+    <title>2023.8.10</title>
+    <url>/2023.8.10/</url>
+    <content><![CDATA[<p>这两天让 Powerless 带我上手复健 4k，结果发现一上来就高于以前的巅峰水平。太梦幻了。<br>打出了类似于 6dan 叠 95.99%，水晶世界 97.12% 之类的把我自己都吓死了的成绩。<br>另外今天大力抽卡，运气大飞升。<a href="https://www.bilibili.com/video/BV1Sh4y1F77B">【pjsk】三万石大战桃井爱莉</a>。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
       </categories>
   </entry>
   <entry>
-    <title>2023.8.4</title>
-    <url>/2023.8.4/</url>
-    <content><![CDATA[<p>发现自己到头来只是一个故步自封的废物。我不是向生活妥协，而是远离了生活。</p>
-<p>宣传一下播客：<a href="https://music.163.com/radio/?id=993069527">Dimly’s VOCALOID</a>。里面的 4AM 比起前几天博客里发的又调整过了，虽然音量好像大了点。</p>
+    <title>2023.8.20</title>
+    <url>/2023.8.20/</url>
+    <content><![CDATA[<h3 id="过-Tech-6dan-和-Speed-6dan"><a href="#过-Tech-6dan-和-Speed-6dan" class="headerlink" title="过 Tech 6dan 和 Speed 6dan"></a>过 Tech 6dan 和 Speed 6dan</h3><p>图就懒得放了。<br>值得一提的是乱我是初见，最后以为结束了双手离开键盘结果漏了三个 note，最后只有 94.94%。<br>在胁迫 Powerless 后他承认我过了 6dan 乱（）</p>
+<h3 id="圣骑士莉卡物语"><a href="#圣骑士莉卡物语" class="headerlink" title="圣骑士莉卡物语"></a>圣骑士莉卡物语</h3><p>今天凌晨两点开推，中间大概划水了几个小时，下午四点通关。<br>实际上因为要去学校所以只打完了主线，额外的剧情还没有看。下周再打。<br>纯爱战士全程咬牙切齿，震撼度太大。不过至少可莉莉幸免于难。<br>但是白翼圣骑士形态是真的好看！完美对上我所有的 xp。</p>
+<p><img src="https://z4a.net/images/2023/08/20/54748f8f5b25537a1ce1d766c702a138.png" alt=""></p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1308,10 +1335,10 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.9.1</title>
-    <url>/2023.9.1/</url>
-    <content><![CDATA[<h3 id="保健室的老师与沉迷吹泡泡的助手"><a href="#保健室的老师与沉迷吹泡泡的助手" class="headerlink" title="保健室的老师与沉迷吹泡泡的助手"></a>保健室的老师与沉迷吹泡泡的助手</h3><p>通关了。苍和白花两人经历反复转世的爱情真的写的很好。跨越五十年，两次生命与三次恋爱。关于生死观也有着甚是深刻的讨论。不过这部作品让我感觉比较割裂，前半部分是异世界战斗番，后半部分才终于回归到正常的 galgame 模式。<br>简单观察了一下发现后面两部作品貌似是相互之间平行的 DLC。打算先推小恶魔学生会长。<br>发现不会 Tyannor 的解包于是搞不出来 CG。坏。</p>
-<h3 id="P-主模仿计划"><a href="#P-主模仿计划" class="headerlink" title="P 主模仿计划"></a>P 主模仿计划</h3><p>起因是 Powerless 怒斥我之前摸的《AI》Miku 声线太过平常没有特色。<br>于是打算模仿各位 P 主的调教方式，找一首曲子尝试一下副歌，从中摸索出如何创造出一个有特点的 Miku。<br>今天先翻调了 MARETU 的《ナミダ》。两三个小时摸出来的东西：<a href="https://github.com/DimlyL/BlogFile/raw/main/2023.9.1/ナミダ.mp3">ナミダ.mp3</a>。<br>后续的计划包括 DECO*27《妄想税》，ピノキオピー《転生林檎》，livetune《Hand in Hand》，かいりきベア《セイデンキニンゲン》，八王子P《気まぐれメルシィ》。这样说来还需要蛮久的。</p>
+    <title>2023.8.4</title>
+    <url>/2023.8.4/</url>
+    <content><![CDATA[<p>发现自己到头来只是一个故步自封的废物。我不是向生活妥协，而是远离了生活。</p>
+<p>宣传一下播客：<a href="https://music.163.com/radio/?id=993069527">Dimly’s VOCALOID</a>。里面的 4AM 比起前几天博客里发的又调整过了，虽然音量好像大了点。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1322,6 +1349,25 @@
     <url>/2023.8.7/</url>
     <content><![CDATA[<p>首先今天 fc 了机关枪 ex31。真的是大进步！<br>接着发现我玩的《透视瞳》是体验版。本来想搞正式版生肉挂着翻译器推的，但是看到已经有汉化组在做了，等两三个月也不是不可以。<br>然后通关了随机 mod 只狼一周目，打的修罗结局，最后三年前义父+宫中破戒僧我随手杀了。<br>其次对于接下来的调教计划，打算翻《神明》的 ED《AI》。今天开了个坑扒了一点谱，感觉还可以。<br>正式做的话要等到九、十月份，再过一周就开学了，我还要大力写作业。<br>另外最近又在大力看《超级惊悚直播》，现在看到第十次直播。说真的，第八次直播写的像是大结局一样，到那里为止这个燃的程度和质量和《恐怖屋》是有的一拼的。好像空调又要开新坑《怪谈游戏设计师》，快更新啊喂。<br>再在这里不要脸地推自己的 VOCALOID 播客。<a href="https://music.163.com/radio/?id=993069527">Dimly’s VOCALOID</a>。</p>
 <p><img src="https://z4a.net/images/2023/08/07/IMG_0389.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.9.1</title>
+    <url>/2023.9.1/</url>
+    <content><![CDATA[<h3 id="保健室的老师与沉迷吹泡泡的助手"><a href="#保健室的老师与沉迷吹泡泡的助手" class="headerlink" title="保健室的老师与沉迷吹泡泡的助手"></a>保健室的老师与沉迷吹泡泡的助手</h3><p>通关了。苍和白花两人经历反复转世的爱情真的写的很好。跨越五十年，两次生命与三次恋爱。关于生死观也有着甚是深刻的讨论。不过这部作品让我感觉比较割裂，前半部分是异世界战斗番，后半部分才终于回归到正常的 galgame 模式。<br>简单观察了一下发现后面两部作品貌似是相互之间平行的 DLC。打算先推小恶魔学生会长。<br>发现不会 Tyannor 的解包于是搞不出来 CG。坏。</p>
+<h3 id="P-主模仿计划"><a href="#P-主模仿计划" class="headerlink" title="P 主模仿计划"></a>P 主模仿计划</h3><p>起因是 Powerless 怒斥我之前摸的《AI》Miku 声线太过平常没有特色。<br>于是打算模仿各位 P 主的调教方式，找一首曲子尝试一下副歌，从中摸索出如何创造出一个有特点的 Miku。<br>今天先翻调了 MARETU 的《ナミダ》。两三个小时摸出来的东西：<a href="https://github.com/DimlyL/BlogFile/raw/main/2023.9.1/ナミダ.mp3">ナミダ.mp3</a>。<br>后续的计划包括 DECO*27《妄想税》，ピノキオピー《転生林檎》，livetune《Hand in Hand》，かいりきベア《セイデンキニンゲン》，八王子P《気まぐれメルシィ》。这样说来还需要蛮久的。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.8.8</title>
+    <url>/2023.8.8/</url>
+    <content><![CDATA[<p>这不马上就瓶颈了，今天发现剩下的 master 中终于没有我可以 fc 的了。后天抽完卡，台服皆传 11.3 退游（）<br>今天又整理了一遍我常听的 Wilbur &amp; Lovejoy 的曲子，一共有 23 首，甚至其中有两首的翻译是我传的。<br>讲真，当初听 Wilbur 的歌是因为厨 MCYT，现在不看 MCYT 了却依然关注 Lovejoy，因为他们的曲子真的很帅。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -1347,27 +1393,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2023.9.9</title>
-    <url>/2023.9.9/</url>
-    <content><![CDATA[<h3 id="假面骑士-Gotchard"><a href="#假面骑士-Gotchard" class="headerlink" title="假面骑士 Gotchard"></a>假面骑士 Gotchard</h3><p>虽然第一集演员演技暴毙，但实际上我对这部作品还蛮看好的。<br>我只希望歌查德会是一个简单、青春、热血、王道的故事就行，不要再崩三观了。<br>OP 很燃，孩子第一遍听就很喜欢。</p>
-<h3 id="CARD-GAME-v3-1-4"><a href="#CARD-GAME-v3-1-4" class="headerlink" title="CARD-GAME v3.1.4"></a>CARD-GAME v3.1.4</h3><p><del><strong>经过大量的调整之后，我们迎来了一个真正的数值平衡的时代。</strong></del><br>做了一个稳定性版本，可以当做正式版来处理之类的。<br>接下来我大概就不会做更多更新了，因为 ths 貌似对做更多角色有兴趣。他有兴趣让他来，反正我是开摆了。<br><a href="https://github.com/cyw580/CARD-GAME">https://github.com/cyw580/CARD-GAME</a></p>
-<h3 id="4AM"><a href="#4AM" class="headerlink" title="4AM"></a>4AM</h3><p>因为前些日子对于 MARETU 和 DECO 的模仿增长了调教经验。今天修改了一个月前的大粪，感觉至少吐字清晰了？<br>还在学习基本的混音，明天尝试发一个重置版出来之类的。</p>
-<h3 id="逆转检事"><a href="#逆转检事" class="headerlink" title="逆转检事"></a>逆转检事</h3><p>推到了 1-4。感觉蛮有意思，难度也不算很高，至少没有当时玩成步堂123时坐牢。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>2023.8.8</title>
-    <url>/2023.8.8/</url>
-    <content><![CDATA[<p>这不马上就瓶颈了，今天发现剩下的 master 中终于没有我可以 fc 的了。后天抽完卡，台服皆传 11.3 退游（）<br>今天又整理了一遍我常听的 Wilbur &amp; Lovejoy 的曲子，一共有 23 首，甚至其中有两首的翻译是我传的。<br>讲真，当初听 Wilbur 的歌是因为厨 MCYT，现在不看 MCYT 了却依然关注 Lovejoy，因为他们的曲子真的很帅。</p>
-]]></content>
-      <categories>
-        <category>神秘</category>
-      </categories>
-  </entry>
-  <entry>
     <title>2023.9.24</title>
     <url>/2023.9.24/</url>
     <content><![CDATA[<h3 id="档案计划"><a href="#档案计划" class="headerlink" title="档案计划"></a>档案计划</h3><p>今天花了两个小时写掉关于拉娜的内容。<br>档案计划是一个巨大的坑。我他妈为什么当初要开设这个内容。</p>
@@ -1375,6 +1400,19 @@
 <h3 id="妹抱"><a href="#妹抱" class="headerlink" title="妹抱"></a>妹抱</h3><p>打算妹抱二刷。我发现我宁愿二刷萌拔《妹抱》也不愿意推新玩的废萌《F*F》，这再次证明游戏质量的重要性！<br>并且开始尝试在推的过程中非常详细地记录一些关键点。不知道对档案计划会不会有用。</p>
 <h3 id="时间之巅-5-0-重置版"><a href="#时间之巅-5-0-重置版" class="headerlink" title="时间之巅 5.0 重置版"></a>时间之巅 5.0 重置版</h3><p>说起来写完回转篇已经是一个月前的事情了。由于最后的篇章“归心篇”暂且没有思路，又发现开头的“倾坠篇”写的不是很好，所以重置开头。<br>已经写了不少了。大喜。虽然进度并不算很快。</p>
 <h3 id="逆转检事-2"><a href="#逆转检事-2" class="headerlink" title="逆转检事 2"></a>逆转检事 2</h3><p>在学校里把第一部推完了。</p>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.9.29</title>
+    <url>/2023.9.29/</url>
+    <content><![CDATA[<h3 id="分班"><a href="#分班" class="headerlink" title="分班"></a>分班</h3><p>「浮舟沧海 立马昆仑 逆此苦旅 以达星途」——北尘 2023.9.28 最后的团建。<br>虽然说我是从 2 班转移到了 2 班，但是过去名为“北尘”的那个班级已经解散了……同时，它也是永远不会被消灭的。<br>我应该怎么评价这个班级于我的意义呢？因为我停课时间最久和不张扬的性格的原因，我在班级里的存在感其实比较低下，甚至于当了一年的不存在的班干部（纪律委员）。不过我仍然珍惜我身边的这些人们——或许他们也同样会记住那被称为“主播”的过去。<br>问题不大，分班之后依旧有 DLC，虽然 3 班阵容豪华但是待在 2 班也不算输麻。4 班要被我瞧不起了！</p>
+<h3 id="虚拟桌宠模拟器"><a href="#虚拟桌宠模拟器" class="headerlink" title="虚拟桌宠模拟器"></a>虚拟桌宠模拟器</h3><p>于是下载了 Steam……为什么我直到现在才下载了 Steam？<br>在学校里不小心养死了一次，现在救回来了，目前 18 级。</p>
+<h3 id="植物大战僵尸-β-版"><a href="#植物大战僵尸-β-版" class="headerlink" title="植物大战僵尸 β 版"></a>植物大战僵尸 β 版</h3><p>他妈的，我怎么金向日葵了，我的时间都拿去干什么了。</p>
+<h3 id="修真聊天群"><a href="#修真聊天群" class="headerlink" title="修真聊天群"></a>修真聊天群</h3><p>看了 90% 左右，并且发现这玩意有漫画版而且似乎还在连载，最新进度和我小说阅读进度差不多。<br>所以开始光速看漫画版。我读小说时会有在脑中想象场景的习惯，所以漫画版看的很爽。<br>不过和小说相比还是相形见绌。节奏真的很快。</p>
+<h3 id="保健室的老师与小恶魔学生会长"><a href="#保健室的老师与小恶魔学生会长" class="headerlink" title="保健室的老师与小恶魔学生会长"></a>保健室的老师与小恶魔学生会长</h3><p>后面内容大致上略了一遍就 SKIP 掉了……不知道为什么没有玩这个的心情。<br>他剧情写的是好的，但是我没耐心了。以及我下的版本 H scene 怎么被删掉了草。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
@@ -2105,12 +2143,87 @@
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FC" d="M357 536Q357 546 318 546Q258 546 205 497T133 357V353L144 361Q210 402 285 402Q362 402 414 350Q479 285 479 193Q479 111 418 50T263 -11Q234 -11 207 -3T149 26T97 81T60 171T45 301Q45 444 129 533T319 622Q388 622 421 589T454 510Q454 491 442 475T402 458Q373 458 362 475T350 510Q350 520 354 528L357 536ZM319 326T269 326T179 298T136 223Q136 202 143 174T176 112T237 68Q246 66 265 66Q319 66 360 107Q395 146 395 197Q395 250 356 289Q319 326 269 326Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.441ex" role="img" focusable="false" viewBox="0 -627 1050 637"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FD" d="M204 -10Q162 -10 162 40Q162 146 198 261T310 477Q311 478 321 491T342 517T358 535H128V524Q128 506 119 497Q111 489 86 489H78Q55 489 46 508Q44 513 44 557V580Q44 605 52 616T88 627H93Q114 627 125 611H458Q474 598 477 593T480 573Q480 559 478 553T469 543T446 521T408 477Q252 290 246 49Q246 43 246 37T246 27T245 22Q243 11 233 1T204 -10Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FE" d="M58 460Q58 523 117 572T254 621Q290 621 298 620Q376 607 421 560T466 460Q466 441 460 424T443 393T421 370T397 352T374 340T357 332L350 330L356 328Q363 325 371 321T392 310T415 295T439 274T459 249T473 217T479 179Q479 102 418 46T262 -10T106 46T45 179Q45 202 52 222T70 257T96 284T123 305T148 319T167 328L174 330L170 332Q166 333 159 336T145 343Q104 362 81 393T58 460ZM382 458Q382 491 349 518T263 546Q215 546 179 521T142 458Q142 421 178 395T262 368Q315 368 348 396T382 458ZM396 178Q396 223 358 257T263 292Q206 292 167 258T128 178Q128 137 163 102T262 66Q324 66 360 101T396 178Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
-<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FF" d="M392 259Q333 210 236 210H233Q163 210 109 262Q46 325 46 411T99 550Q164 622 264 622Q293 622 319 615T376 587T428 532T464 440T479 304Q479 167 400 78T217 -11Q140 -11 105 22T70 101Q70 124 84 138T122 153Q150 153 162 137T174 101Q174 91 168 76Q179 65 216 65Q267 65 300 93Q322 109 339 130T366 173T380 210T388 242T392 259ZM388 389Q388 438 357 492T268 546T185 520Q129 479 129 415Q129 384 138 363Q145 349 156 334T195 302T255 285Q305 285 345 313T388 389Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><a href="/2023.9.29"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="red" stroke="red"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FF" d="M392 259Q333 210 236 210H233Q163 210 109 262Q46 325 46 411T99 550Q164 622 264 622Q293 622 319 615T376 587T428 532T464 440T479 304Q479 167 400 78T217 -11Q140 -11 105 22T70 101Q70 124 84 138T122 153Q150 153 162 137T174 101Q174 91 168 76Q179 65 216 65Q267 65 300 93Q322 109 339 130T366 173T380 210T388 242T392 259ZM388 389Q388 438 357 492T268 546T185 520Q129 479 129 415Q129 384 138 363Q145 349 156 334T195 302T255 285Q305 285 345 313T388 389Z" transform="translate(525,0)"></path></g></g></g></g></svg></mjx-container></a></td>
 <td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z"></path><path data-c="1D7F6" d="M42 305Q42 450 111 535T257 621Q335 621 390 562Q482 468 482 306Q482 174 418 82T262 -10T106 82T42 305ZM257 545Q209 545 168 481T126 320Q126 220 162 147Q204 65 262 65Q318 65 358 139T398 320V328Q395 411 364 470T284 543Q270 545 257 545Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
 </tr>
 </tbody>
 </table>
 </div>
+<hr>
+<script type="math/tex; mode=display">\Huge\texttt{2023.10}</script><div class="table-container">
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">日</text></g></g></g></svg></mjx-container></th>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">一</text></g></g></g></svg></mjx-container></th>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">二</text></g></g></g></svg></mjx-container></th>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">三</text></g></g></g></svg></mjx-container></th>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">四</text></g></g></g></svg></mjx-container></th>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">五</text></g></g></g></svg></mjx-container></th>
+<th style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.452ex" xmlns="http://www.w3.org/2000/svg" width="2.036ex" height="2.149ex" role="img" focusable="false" viewBox="0 -750 900 950"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><text data-variant="monospace" transform="scale(1,-1)" font-size="884px" font-family="monospace">六</text></g></g></g></svg></mjx-container></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 525 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><a href="/2023.10.2"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 525 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="red" stroke="red"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path></g></g></g></g></svg></mjx-container></a></td>
+<td style="text-align:center"><a href="/2023.10.3"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 525 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="red" stroke="red"><g data-mml-node="mtext"><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z"></path></g></g></g></g></svg></mjx-container></a></td>
+<td style="text-align:center"><a href="/2023.10.4"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.412ex" role="img" focusable="false" viewBox="0 -624 525 624"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="red" stroke="red"><g data-mml-node="mtext"><path data-c="1D7FA" d="M235 1Q213 10 213 32V38V46Q213 65 230 73Q236 76 274 76H314V168H183L52 169Q37 175 33 182T29 205V218L30 244Q53 283 155 443T264 613Q276 623 298 623H323H363Q378 616 385 601V244H429H450Q474 244 484 237T495 206Q495 179 477 171Q471 168 429 168H385V76H425H442Q466 76 476 69T487 38Q487 10 465 1H235ZM314 244V554L117 245L215 244H314Z"></path></g></g></g></g></svg></mjx-container></a></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.405ex" role="img" focusable="false" viewBox="0 -611 525 621"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FB" d="M387 189Q387 244 354 278T273 313Q230 313 205 301T163 271T138 249H120Q102 249 97 251Q85 258 83 266T80 311Q80 320 80 359T81 430Q81 587 82 591Q88 605 103 610H108Q112 610 120 610T138 610T163 610T192 611T225 611T260 611H415Q416 610 421 607T428 602T432 596T436 587T437 573Q437 567 437 562T434 554T431 548T427 543T423 540T418 538L415 536L289 535H164V363L170 366Q175 368 184 372T207 380T238 386T276 389Q357 389 414 331T472 187Q472 116 412 53T245 -10Q218 -10 209 -9Q126 5 89 48T52 137Q52 164 68 177T104 191Q130 191 143 175T156 141Q156 132 154 125T149 113T146 107Q146 104 155 95T188 76T245 65Q298 65 342 98T387 189Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 525 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FC" d="M357 536Q357 546 318 546Q258 546 205 497T133 357V353L144 361Q210 402 285 402Q362 402 414 350Q479 285 479 193Q479 111 418 50T263 -11Q234 -11 207 -3T149 26T97 81T60 171T45 301Q45 444 129 533T319 622Q388 622 421 589T454 510Q454 491 442 475T402 458Q373 458 362 475T350 510Q350 520 354 528L357 536ZM319 326T269 326T179 298T136 223Q136 202 143 174T176 112T237 68Q246 66 265 66Q319 66 360 107Q395 146 395 197Q395 250 356 289Q319 326 269 326Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.441ex" role="img" focusable="false" viewBox="0 -627 525 637"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FD" d="M204 -10Q162 -10 162 40Q162 146 198 261T310 477Q311 478 321 491T342 517T358 535H128V524Q128 506 119 497Q111 489 86 489H78Q55 489 46 508Q44 513 44 557V580Q44 605 52 616T88 627H93Q114 627 125 611H458Q474 598 477 593T480 573Q480 559 478 553T469 543T446 521T408 477Q252 290 246 49Q246 43 246 37T246 27T245 22Q243 11 233 1T204 -10Z"></path></g></g></g></svg></mjx-container></td>
+</tr>
+<tr>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.428ex" role="img" focusable="false" viewBox="0 -621 525 631"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FE" d="M58 460Q58 523 117 572T254 621Q290 621 298 620Q376 607 421 560T466 460Q466 441 460 424T443 393T421 370T397 352T374 340T357 332L350 330L356 328Q363 325 371 321T392 310T415 295T439 274T459 249T473 217T479 179Q479 102 418 46T262 -10T106 46T45 179Q45 202 52 222T70 257T96 284T123 305T148 319T167 328L174 330L170 332Q166 333 159 336T145 343Q104 362 81 393T58 460ZM382 458Q382 491 349 518T263 546Q215 546 179 521T142 458Q142 421 178 395T262 368Q315 368 348 396T382 458ZM396 178Q396 223 358 257T263 292Q206 292 167 258T128 178Q128 137 163 102T262 66Q324 66 360 101T396 178Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 525 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7FF" d="M392 259Q333 210 236 210H233Q163 210 109 262Q46 325 46 411T99 550Q164 622 264 622Q293 622 319 615T376 587T428 532T464 440T479 304Q479 167 400 78T217 -11Q140 -11 105 22T70 101Q70 124 84 138T122 153Q150 153 162 137T174 101Q174 91 168 76Q179 65 216 65Q267 65 300 93Q322 109 339 130T366 173T380 210T388 242T392 259ZM388 389Q388 438 357 492T268 546T185 520Q129 479 129 415Q129 384 138 363Q145 349 156 334T195 302T255 285Q305 285 345 313T388 389Z"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7F6" d="M42 305Q42 450 111 535T257 621Q335 621 390 562Q482 468 482 306Q482 174 418 82T262 -10T106 82T42 305ZM257 545Q209 545 168 481T126 320Q126 220 162 147Q204 65 262 65Q318 65 358 139T398 320V328Q395 411 364 470T284 543Q270 545 257 545Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 1050 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 1050 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.412ex" role="img" focusable="false" viewBox="0 -624 1050 624"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7FA" d="M235 1Q213 10 213 32V38V46Q213 65 230 73Q236 76 274 76H314V168H183L52 169Q37 175 33 182T29 205V218L30 244Q53 283 155 443T264 613Q276 623 298 623H323H363Q378 616 385 601V244H429H450Q474 244 484 237T495 206Q495 179 477 171Q471 168 429 168H385V76H425H442Q466 76 476 69T487 38Q487 10 465 1H235ZM314 244V554L117 245L215 244H314Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+</tr>
+<tr>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7FB" d="M387 189Q387 244 354 278T273 313Q230 313 205 301T163 271T138 249H120Q102 249 97 251Q85 258 83 266T80 311Q80 320 80 359T81 430Q81 587 82 591Q88 605 103 610H108Q112 610 120 610T138 610T163 610T192 611T225 611T260 611H415Q416 610 421 607T428 602T432 596T436 587T437 573Q437 567 437 562T434 554T431 548T427 543T423 540T418 538L415 536L289 535H164V363L170 366Q175 368 184 372T207 380T238 386T276 389Q357 389 414 331T472 187Q472 116 412 53T245 -10Q218 -10 209 -9Q126 5 89 48T52 137Q52 164 68 177T104 191Q130 191 143 175T156 141Q156 132 154 125T149 113T146 107Q146 104 155 95T188 76T245 65Q298 65 342 98T387 189Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7FC" d="M357 536Q357 546 318 546Q258 546 205 497T133 357V353L144 361Q210 402 285 402Q362 402 414 350Q479 285 479 193Q479 111 418 50T263 -11Q234 -11 207 -3T149 26T97 81T60 171T45 301Q45 444 129 533T319 622Q388 622 421 589T454 510Q454 491 442 475T402 458Q373 458 362 475T350 510Q350 520 354 528L357 536ZM319 326T269 326T179 298T136 223Q136 202 143 174T176 112T237 68Q246 66 265 66Q319 66 360 107Q395 146 395 197Q395 250 356 289Q319 326 269 326Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.441ex" role="img" focusable="false" viewBox="0 -627 1050 637"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7FD" d="M204 -10Q162 -10 162 40Q162 146 198 261T310 477Q311 478 321 491T342 517T358 535H128V524Q128 506 119 497Q111 489 86 489H78Q55 489 46 508Q44 513 44 557V580Q44 605 52 616T88 627H93Q114 627 125 611H458Q474 598 477 593T480 573Q480 559 478 553T469 543T446 521T408 477Q252 290 246 49Q246 43 246 37T246 27T245 22Q243 11 233 1T204 -10Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7FE" d="M58 460Q58 523 117 572T254 621Q290 621 298 620Q376 607 421 560T466 460Q466 441 460 424T443 393T421 370T397 352T374 340T357 332L350 330L356 328Q363 325 371 321T392 310T415 295T439 274T459 249T473 217T479 179Q479 102 418 46T262 -10T106 46T45 179Q45 202 52 222T70 257T96 284T123 305T148 319T167 328L174 330L170 332Q166 333 159 336T145 343Q104 362 81 393T58 460ZM382 458Q382 491 349 518T263 546Q215 546 179 521T142 458Q142 421 178 395T262 368Q315 368 348 396T382 458ZM396 178Q396 223 358 257T263 292Q206 292 167 258T128 178Q128 137 163 102T262 66Q324 66 360 101T396 178Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path><path data-c="1D7FF" d="M392 259Q333 210 236 210H233Q163 210 109 262Q46 325 46 411T99 550Q164 622 264 622Q293 622 319 615T376 587T428 532T464 440T479 304Q479 167 400 78T217 -11Q140 -11 105 22T70 101Q70 124 84 138T122 153Q150 153 162 137T174 101Q174 91 168 76Q179 65 216 65Q267 65 300 93Q322 109 339 130T366 173T380 210T388 242T392 259ZM388 389Q388 438 357 492T268 546T185 520Q129 479 129 415Q129 384 138 363Q145 349 156 334T195 302T255 285Q305 285 345 313T388 389Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7F6" d="M42 305Q42 450 111 535T257 621Q335 621 390 562Q482 468 482 306Q482 174 418 82T262 -10T106 82T42 305ZM257 545Q209 545 168 481T126 320Q126 220 162 147Q204 65 262 65Q318 65 358 139T398 320V328Q395 411 364 470T284 543Q270 545 257 545Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 1050 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+</tr>
+<tr>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 1050 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.412ex" role="img" focusable="false" viewBox="0 -624 1050 624"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FA" d="M235 1Q213 10 213 32V38V46Q213 65 230 73Q236 76 274 76H314V168H183L52 169Q37 175 33 182T29 205V218L30 244Q53 283 155 443T264 613Q276 623 298 623H323H363Q378 616 385 601V244H429H450Q474 244 484 237T495 206Q495 179 477 171Q471 168 429 168H385V76H425H442Q466 76 476 69T487 38Q487 10 465 1H235ZM314 244V554L117 245L215 244H314Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FB" d="M387 189Q387 244 354 278T273 313Q230 313 205 301T163 271T138 249H120Q102 249 97 251Q85 258 83 266T80 311Q80 320 80 359T81 430Q81 587 82 591Q88 605 103 610H108Q112 610 120 610T138 610T163 610T192 611T225 611T260 611H415Q416 610 421 607T428 602T432 596T436 587T437 573Q437 567 437 562T434 554T431 548T427 543T423 540T418 538L415 536L289 535H164V363L170 366Q175 368 184 372T207 380T238 386T276 389Q357 389 414 331T472 187Q472 116 412 53T245 -10Q218 -10 209 -9Q126 5 89 48T52 137Q52 164 68 177T104 191Q130 191 143 175T156 141Q156 132 154 125T149 113T146 107Q146 104 155 95T188 76T245 65Q298 65 342 98T387 189Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FC" d="M357 536Q357 546 318 546Q258 546 205 497T133 357V353L144 361Q210 402 285 402Q362 402 414 350Q479 285 479 193Q479 111 418 50T263 -11Q234 -11 207 -3T149 26T97 81T60 171T45 301Q45 444 129 533T319 622Q388 622 421 589T454 510Q454 491 442 475T402 458Q373 458 362 475T350 510Q350 520 354 528L357 536ZM319 326T269 326T179 298T136 223Q136 202 143 174T176 112T237 68Q246 66 265 66Q319 66 360 107Q395 146 395 197Q395 250 356 289Q319 326 269 326Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.441ex" role="img" focusable="false" viewBox="0 -627 1050 637"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FD" d="M204 -10Q162 -10 162 40Q162 146 198 261T310 477Q311 478 321 491T342 517T358 535H128V524Q128 506 119 497Q111 489 86 489H78Q55 489 46 508Q44 513 44 557V580Q44 605 52 616T88 627H93Q114 627 125 611H458Q474 598 477 593T480 573Q480 559 478 553T469 543T446 521T408 477Q252 290 246 49Q246 43 246 37T246 27T245 22Q243 11 233 1T204 -10Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.023ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.43ex" role="img" focusable="false" viewBox="0 -622 1050 632"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FE" d="M58 460Q58 523 117 572T254 621Q290 621 298 620Q376 607 421 560T466 460Q466 441 460 424T443 393T421 370T397 352T374 340T357 332L350 330L356 328Q363 325 371 321T392 310T415 295T439 274T459 249T473 217T479 179Q479 102 418 46T262 -10T106 46T45 179Q45 202 52 222T70 257T96 284T123 305T148 319T167 328L174 330L170 332Q166 333 159 336T145 343Q104 362 81 393T58 460ZM382 458Q382 491 349 518T263 546Q215 546 179 521T142 458Q142 421 178 395T262 368Q315 368 348 396T382 458ZM396 178Q396 223 358 257T263 292Q206 292 167 258T128 178Q128 137 163 102T262 66Q324 66 360 101T396 178Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+</tr>
+<tr>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path><path data-c="1D7FF" d="M392 259Q333 210 236 210H233Q163 210 109 262Q46 325 46 411T99 550Q164 622 264 622Q293 622 319 615T376 587T428 532T464 440T479 304Q479 167 400 78T217 -11Q140 -11 105 22T70 101Q70 124 84 138T122 153Q150 153 162 137T174 101Q174 91 168 76Q179 65 216 65Q267 65 300 93Q322 109 339 130T366 173T380 210T388 242T392 259ZM388 389Q388 438 357 492T268 546T185 520Q129 479 129 415Q129 384 138 363Q145 349 156 334T195 302T255 285Q305 285 345 313T388 389Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z"></path><path data-c="1D7F6" d="M42 305Q42 450 111 535T257 621Q335 621 390 562Q482 468 482 306Q482 174 418 82T262 -10T106 82T42 305ZM257 545Q209 545 168 481T126 320Q126 220 162 147Q204 65 262 65Q318 65 358 139T398 320V328Q395 411 364 470T284 543Q270 545 257 545Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="2.376ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 1050 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mtext"><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z"></path><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z" transform="translate(525,0)"></path></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 525 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="grey" stroke="grey"><g data-mml-node="mtext"><path data-c="1D7F7" d="M99 461Q99 470 99 474T104 487T120 498T151 502Q213 517 251 596Q264 622 283 622Q308 622 319 597V76H373H401Q428 76 439 69T450 38Q450 11 428 1H127Q104 10 104 38Q104 62 115 69T153 76H181H235V269Q235 461 234 461Q184 426 137 424H133Q124 424 119 425T109 431T99 447V461Z"></path></g></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.407ex" role="img" focusable="false" viewBox="0 -622 525 622"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="grey" stroke="grey"><g data-mml-node="mtext"><path data-c="1D7F8" d="M52 462Q52 528 110 575T247 622H250Q343 622 407 565T472 421Q472 371 446 324T390 248T308 178Q307 177 275 151T214 101L185 77Q185 76 286 76H388V87Q388 105 397 114T430 123T463 114Q470 107 471 100T472 61V42Q472 24 468 16T450 1H75Q53 10 53 32V38V48Q53 57 63 67T127 122Q153 144 169 157L289 256Q388 345 388 419Q388 473 346 509T231 545H224Q176 545 146 499L144 494Q155 476 155 459Q154 459 155 455T154 444T148 430T136 417T114 408Q113 408 110 408T104 407Q80 407 66 422T52 462Z"></path></g></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.432ex" role="img" focusable="false" viewBox="0 -622 525 633"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="grey" stroke="grey"><g data-mml-node="mtext"><path data-c="1D7F9" d="M260 546Q233 546 211 541T180 531T171 524L174 514Q177 505 177 497Q177 476 162 461T125 446Q106 446 90 459T73 504Q76 540 98 565T150 601T203 616T239 621Q241 622 265 622Q322 620 362 602T420 558T444 513T451 478Q451 386 369 329L375 326Q381 323 386 320T401 311T419 298T436 283T452 263T466 240T475 212T479 180Q479 99 416 44T259 -11T105 28T44 130Q44 154 59 168T95 183Q117 183 132 169T148 131Q148 119 139 101Q175 65 260 65Q316 65 355 97T395 179Q395 211 375 240Q336 292 253 292H234H215Q194 292 185 299T175 330Q175 350 184 359Q192 368 238 370T309 384Q336 398 351 423T367 474Q367 496 350 513Q321 546 260 546Z"></path></g></g></g></g></svg></mjx-container></td>
+<td style="text-align:center"><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0" xmlns="http://www.w3.org/2000/svg" width="1.188ex" height="1.412ex" role="img" focusable="false" viewBox="0 -624 525 624"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mstyle" fill="grey" stroke="grey"><g data-mml-node="mtext"><path data-c="1D7FA" d="M235 1Q213 10 213 32V38V46Q213 65 230 73Q236 76 274 76H314V168H183L52 169Q37 175 33 182T29 205V218L30 244Q53 283 155 443T264 613Q276 623 298 623H323H363Q378 616 385 601V244H429H450Q474 244 484 237T495 206Q495 179 477 171Q471 168 429 168H385V76H425H442Q466 76 476 69T487 38Q487 10 465 1H235ZM314 244V554L117 245L215 244H314Z"></path></g></g></g></g></svg></mjx-container></td>
+</tr>
+</tbody>
+</table>
+</div>
+]]></content>
+      <categories>
+        <category>神秘</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2023.9.9</title>
+    <url>/2023.9.9/</url>
+    <content><![CDATA[<h3 id="假面骑士-Gotchard"><a href="#假面骑士-Gotchard" class="headerlink" title="假面骑士 Gotchard"></a>假面骑士 Gotchard</h3><p>虽然第一集演员演技暴毙，但实际上我对这部作品还蛮看好的。<br>我只希望歌查德会是一个简单、青春、热血、王道的故事就行，不要再崩三观了。<br>OP 很燃，孩子第一遍听就很喜欢。</p>
+<h3 id="CARD-GAME-v3-1-4"><a href="#CARD-GAME-v3-1-4" class="headerlink" title="CARD-GAME v3.1.4"></a>CARD-GAME v3.1.4</h3><p><del><strong>经过大量的调整之后，我们迎来了一个真正的数值平衡的时代。</strong></del><br>做了一个稳定性版本，可以当做正式版来处理之类的。<br>接下来我大概就不会做更多更新了，因为 ths 貌似对做更多角色有兴趣。他有兴趣让他来，反正我是开摆了。<br><a href="https://github.com/cyw580/CARD-GAME">https://github.com/cyw580/CARD-GAME</a></p>
+<h3 id="4AM"><a href="#4AM" class="headerlink" title="4AM"></a>4AM</h3><p>因为前些日子对于 MARETU 和 DECO 的模仿增长了调教经验。今天修改了一个月前的大粪，感觉至少吐字清晰了？<br>还在学习基本的混音，明天尝试发一个重置版出来之类的。</p>
+<h3 id="逆转检事"><a href="#逆转检事" class="headerlink" title="逆转检事"></a>逆转检事</h3><p>推到了 1-4。感觉蛮有意思，难度也不算很高，至少没有当时玩成步堂123时坐牢。</p>
 ]]></content>
       <categories>
         <category>神秘</category>
